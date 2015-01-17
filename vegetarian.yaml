@@ -1,0 +1,1184 @@
+id: 42-degrees-raw-mayfair
+name: 42ºRaw
+address: Burlington Arcade, Burlington Gardens, Mayfair, W1S 3ES
+website: http://42raw.co.uk/locations/?store_id=2
+goodforlunch: http://www.goodforlunch.com/reviews/20317/42raw-burlington-arcade
+long: -0.140827
+lat: 51.509721
+open: yes
+---
+id: 222-veggie-vegan-restaurant-west-brompton
+name: 222 Veggie Vegan Restaurant
+address: 222 North End Road, West Brompton, W14 9NU
+rgl: http://london.randomness.org.uk/wiki.cgi?222_Veggie_Vegan_Restaurant,_W14_9NU
+long: -0.203032
+lat: 51.485966
+open: yes
+---
+id: alara-wholefoods-bloomsbury
+name: Alara Wholefoods
+address: 58-60 Marchmont Street, Bloomsbury, WC1N 1AB
+rgl: http://london.randomness.org.uk/wiki.cgi?Alara_Wholefoods,_WC1N_1AB
+long: -0.125023
+lat: 51.524953
+open: yes
+---
+id: alkarmel-cafe-clapham
+name: Alkarmel Cafe
+address: 95 Landor Road, Clapham, SW9 9PH
+twitter: alkarmel_cafe
+other_links: <li><a href="http://www.brixtonblog.com/vegging-in-brixton-our-meat-free-recommendations/11609">Brixton Blog (scroll down)</a></li>
+long: -0.12577400000000002
+lat: 51.465812
+open: yes
+---
+id: amico-bio-ec1
+name: Amico Bio (EC1)
+address: 44 Cloth Fair, EC1A 7JQ
+description: The original branch.
+website: http://www.amicobio.co.uk/
+other_links: <li><a href="http://www.thisislondon.co.uk/restaurants/review-23829226-go-green-for-a-taste-of-naples-at-amico-bio.do">Fay Maschler</a></li>
+long: -0.099687
+lat: 51.519075
+open: yes
+---
+id: amico-bio-new-oxford-street
+name: Amico Bio (New Oxford Street)
+address: 43 New Oxford Street, WC1A 1BH
+description: The second branch.
+website: http://www.amicobio.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Amico_Bio,_WC1A_1BH
+long: -0.125506
+lat: 51.51707
+open: yes
+---
+id: ashna-hounslow
+name: Ashna
+address: 368 Staines Road, TW4 5BD
+description: Closed for good some time after mid-2012.
+fatgayvegan: http://fatgayvegan.com/2012/06/09/hounslow-hunger-games/
+long: -0.38558400000000004
+lat: 51.463506
+open: no
+---
+id: beatroot-soho
+name: Beatroot
+address: 92 Berwick Street, Soho, W1F 0QD
+rgl: http://london.randomness.org.uk/wiki.cgi?Beatroot,_W1F_0QD
+long: -0.134518
+lat: 51.512936
+open: yes
+---
+id: black-cat-cafe-hackney
+name: Black Cat Cafe
+address: 76 Clarence Road, Hackney, E5 8HB
+description: Previously Pogo.
+website: http://blackcatcafe.co.uk/
+twitter: BlackCatHackney
+rgl: http://london.randomness.org.uk/wiki.cgi?Black_Cat_Cafe,_E5_8HB
+long: -0.055254
+lat: 51.550845
+open: yes
+---
+id: blue-brick-cafe-east-dulwich
+name: Blue Brick Cafe
+address: 14 Fellbrigg Road, East Dulwich, SE22 9HH
+other_links: <li><a href="http://www.eastdulwichforum.co.uk/forum/read.php?30,606220,606918">East Dulwich forum thread</a></li>
+long: -0.073321
+lat: 51.456989
+open: yes
+---
+id: bonnington-cafe-vauxhall
+name: Bonnington Cafe
+address: 11 Vauxhall Grove, Vauxhall, SW8 1TD
+rgl: http://london.randomness.org.uk/wiki.cgi?Bonnington_Cafe,_SW8_1TD
+long: -0.120163
+lat: 51.484884
+open: yes
+---
+id: cafe-crema-new-cross
+name: Cafe Crema
+address: 306 New Cross Road, New Cross, SE14 6AF
+rgl: http://london.randomness.org.uk/wiki.cgi?Cafe_Crema,_SE14_6AF
+long: -0.037336
+lat: 51.475423
+open: yes
+---
+id: cafe-morningside-hackney
+name: Cafe Morningside
+address: Morningside Community Centre, Cresset Road, Hackney, E9 6SJ
+website: http://cafemorningside.wordpress.com/
+phone: 07587 083131
+other_links: <li><a href="http://hackneycitizen.co.uk/2014/09/03/community-cafe-opens-on-morningside-estate/?utm_source=rss&utm_medium=rss&utm_campaign=community-cafe-opens-on-morningside-estate">Hackney Citizen article</a></li>
+lat: 51.544637
+long: -0.048396975
+open: yes
+---
+id: cakes-n-treats-camden-town
+name: Cakes N Treats
+address: 15 Pratt Street, Camden Town, NW1 0AE
+facebook: https://www.facebook.com/CakesnTreatsLondon/info
+long: -0.140316
+lat: 51.5375
+open: yes
+---
+id: carnevale-ec1
+name: Carnevale
+address: 135 Whitecross Street, EC1Y 8JL
+rgl: http://london.randomness.org.uk/wiki.cgi?Carnevale,_EC1Y_8JL
+long: -0.093169
+lat: 51.523164
+open: yes
+---
+id: chennai-dosa-east-ham
+name: Chennai Dosa (East Ham)
+address: 339 High Street North, East Ham, E12 6PQ
+website: http://www.chennaidosa.com/
+long: 0.04954600000000001
+lat: 51.543906
+open: yes
+---
+id: chennai-dosa-wembley
+name: Chennai Dosa (Wembley)
+address: 529 High Road, HA0 2DH
+description: "This is two restaurants side by side; one veggie, one non-veggie.  They have separate kitchens."
+yelp: http://www.yelp.co.uk/biz/chennai-dosa-wembley
+other_links: <li><a href="http://fussyveggie.blogspot.com/2009/05/chennai-dosa-wembley.html">Fussy Veggie review</a></li>
+long: -0.297886
+lat: 51.551939000000004
+open: yes
+---
+id: chutneys-drummond-street
+name: Chutneys
+address: 124 Drummond Street, Euston, NW1 2PA
+rgl: http://london.randomness.org.uk/wiki.cgi?Chutneys,_NW1_2PA
+long: -0.137908
+lat: 51.526742
+open: yes
+---
+id: city-sweet-centre-manor-park
+name: City Sweet Centre
+address: 510-512 Romford Road, Manor Park, E7 8AF
+website: http://citysweetcentre.com/
+rgl: http://london.randomness.org.uk/wiki.cgi?City_Sweet_Centre,_E7_8AF
+chowhound: http://chowhound.chow.com/topics/858750
+long: 0.039096
+lat: 51.548056
+open: yes
+---
+id: coach-and-horses-soho
+name: Coach & Horses
+address: 29 Greek Street, Soho, W1D 5DH
+description: Vegetarian and vegan pub.
+rgl: http://london.randomness.org.uk/wiki.cgi?Coach_And_Horses,_W1D_5DH
+long: -0.130205
+lat: 51.51324
+open: yes
+---
+id: courthouse-garden-cafe-kennington
+name: Courthouse Garden Cafe
+address: Jamyang Budhist Centre, 43 Renfrew Road, Kennington, SE11 4NA
+website: http://www.jamyang.co.uk/facilities/courthouse-garden-cafe
+other_links: <li><a href="http://www.vegetarianliving.co.uk/placestogo.php?do=view&article=156">Vegetarian Living review</a></li>
+long: -0.105717
+lat: 51.491875
+open: yes
+---
+id: diwana-bhel-poori-house-drummond-street
+name: Diwana Bhel-Poori House
+address: 121-123 Drummond Street, Euston, NW1 2HL
+rgl: http://london.randomness.org.uk/wiki.cgi?Diwana_Bhel-Poori_House,_NW1_2HL
+long: -0.136616
+lat: 51.527092
+open: yes
+---
+id: diwana-bhel-poori-brick-lane
+name: Diwana Bhel Poori (Brick Lane)
+address: 96 Brick Lane, E1 6RL
+website: http://www.diwanabhelpoori.com/
+long: -0.071835
+lat: 51.519599
+open: yes
+---
+id: down-to-earth-kensington
+name: Down To Earth
+address: 240-242 Kensington High Street, W8 6ND.
+description: Previously known as Luscious Organics.
+website: http://www.downtoearth.co.uk/
+fatgayvegan: http://fatgayvegan.com/2013/08/17/vegan-breakfast-kensington-london-review/
+long: -0.19958900000000002
+lat: 51.498839
+open: yes
+---
+id: ethos-soho
+name: Ethos
+address: 48 Eastcastle Street, Soho, W1W 8DX
+decription: Pay-by-weight during the week, all-inclusive brunch on the weekends.
+phone: 020 3581 1538
+twitter: EthosFoods
+website: http://ethosfoods.com/
+lat: 51.516371
+long: -0.13910392
+open: yes
+---
+id: l-express-cafe-brixton
+name: L'Express Cafe
+address: 15-17 Market Row, Brixton, SW9 8LB.
+facebook: https://www.facebook.com/lExpresscafe
+long: -0.113565
+lat: 51.461868
+open: yes
+---
+id: food-for-thought-covent-garden
+name: Food For Thought
+address: 31 Neal Street, Covent Garden, WC2H 9PR
+rgl: http://london.randomness.org.uk/wiki.cgi?Food_For_Thought,_WC2H_9PR
+long: -0.125678
+lat: 51.514138
+open: yes
+---
+id: g-and-t-bethnal-green
+name: G & T
+address: 204 Cambridge Heath Road, Bethnal Green, E2 9NQ
+description: Entirely vegan aside from cow's milk option for coffee.
+website: http://gandtlondon.tumblr.com/
+long: -0.056412
+lat: 51.531013
+open: yes
+---
+id: gallery-cafe-bethnal-green
+name: Gallery Cafe
+address: 21 Old Ford Road, Bethnal Green, E2 9PL
+website: http://www.stmargaretshouse.org.uk/gallery-cafe/gallery-cafe
+yelp: http://www.yelp.co.uk/biz/gallery-cafe-london-3
+fatgayvegan: http://fatgayvegan.com/2013/09/30/waffles-and-pizza/
+long: -0.054417
+lat: 51.529759
+open: yes
+---
+id: the-gate-hammersmith
+name: The Gate
+address: 51 Queen Caroline Street, Hammersmith, W6 9QL
+rgl: http://london.randomness.org.uk/wiki.cgi?Gate,_W6_9QL
+long: -0.225413
+lat: 51.490282
+open: yes
+---
+id: the-gate-st-john-street
+name: The Gate
+address: 370 St John Street, EC1V 4NN
+website: http://thegaterestaurants.com/islington.php
+rgl: http://london.randomness.org.uk/wiki.cgi?Gate,_EC1V_4NN
+long: -0.105486
+lat: 51.530366
+open: yes
+---
+id: govindas-soho
+name: Govinda's
+address: 9-10 Soho Street, W1D 3DN
+rgl: http://london.randomness.org.uk/wiki.cgi?Govinda%27s,_W1D_3DN
+long: -0.132777
+lat: 51.515815
+open: yes
+---
+id: grass-roots-peckham
+name: Grass Roots
+address: 194 Bellenden Road, Peckham, SE15 4BW
+other_links: <li><a href="http://www.londonlesbianvegans.org/locations/2220.html">London Lesbian Vegans review</a></li>
+yelp: http://www.yelp.co.uk/biz/grass-roots-wholefoods-london
+long: -0.073203
+lat: 51.466628
+open: yes
+---
+id: green-note-camden-town
+name: Green Note
+address: 106 Parkway, Camden Town, NW1 7AN
+website: http://www.greennote.co.uk/
+long: -0.145676
+lat: 51.537380000000006
+open: yes
+---
+id: greens-and-beans-drummond-street
+name: Greens and Beans
+address: 131 Drummond Street, Euston, NW1 2HL
+website: http://www.greensandbeans.co.uk/
+long: -0.136699
+lat: 51.527065
+open: yes
+---
+id: greenz-tulse-hill
+name: Greenz
+address: 5 Station Rise, Tulse Hill, SE27 9BW
+description: Previously known as A Taste of Heaven.
+website: http://www.greenzlife.com/
+long: -0.10569
+lat: 51.439972
+open: yes
+---
+id: happy-kitchen-hackney
+name: Happy Kitchen
+address: Arch 393, Mentmore Terrace, Hackney, E8 3PH
+timeout: http://www.timeout.com/london/restaurants/happy-kitchen
+long: -0.057598
+lat: 51.540994
+open: yes
+---
+id: honey-hive-sydenham
+name: Honey Hive
+address: Calabash of Culture, 21 Sydenham Road, SE26 5EX
+description: Vegan West Indian cafe.
+website: http://www.calabash-culture.com/
+long: -0.053226
+lat: 51.426357
+open: yes
+---
+id: hornbeam-cafe-walthamstow
+name: Hornbeam Cafe
+address: 458 Hoe Street, Walthamstow, E17 9AH
+rgl: http://london.randomness.org.uk/wiki.cgi?Hornbeam_Cafe,_E17_9AH
+long: -0.014999000000000002
+lat: 51.576029
+open: yes
+---
+id: indian-veg-bhelpoori-house-islington
+name: Indian Veg Bhelpoori House
+address: 92-93 Chapel Market, Islington, N1 9EX
+rgl: http://london.randomness.org.uk/wiki.cgi?Indian_Veg_Bhelpoori_House,_N1_9EX
+long: -0.109949
+lat: 51.533296
+open: yes
+---
+id: inspiral-lounge-camden-town
+name: InSpiral Lounge
+address: 250 Camden High Street, NW1 8QS.
+rgl: http://london.randomness.org.uk/wiki.cgi?InSpiral_Lounge,_NW1_8QS
+long: -0.144432
+lat: 51.541024
+open: yes
+---
+id: itadaki-zen-kings-cross
+name: Itadaki Zen
+address: 139 King's Cross Road, WC1X 9BJ
+website: http://www.itadakizen.com/
+rgl: http://london.randomness.org.uk/wiki.cgi?Itadaki_Zen,_WC1X_9BJ
+long: -0.11595700000000002
+lat: 51.52953800000001
+open: yes
+---
+id: jashan-wembley
+name: Jashan
+address: 1-2 Coronet Parade, Ealing Road, Wembley, HA0 4AY
+description: Indian-style Chinese food plus sambars, dosas, etc.
+long: -0.297704
+lat: 51.549578
+open: yes
+---
+id: just-falafel-baker-street
+name: Just Falafel (Baker Street)
+address: 129 Baker Street, W1U 6SD
+website: http://www.justfalafel.com/locations/baker-street
+long: -0.157572
+lat: 51.52179
+open: yes
+---
+id: just-falafel-charing-cross-road
+name: Just Falafel (Charing Cross Road)
+address: 21 Charing Cross Road, WC2H 0ET
+long: -0.128529
+lat: 51.510347
+open: yes
+---
+id: just-falafel-covent-garden
+name: Just Falafel (Covent Garden)
+address: 1 Monmouth Street, WC2H 9DA
+rgl: http://london.randomness.org.uk/wiki.cgi?Just_Falafel,_WC2H_9DA
+long: -0.126775
+lat: 51.514977
+open: yes
+---
+id: just-falafel-croydon
+name: Just Falafel (Croydon)
+address: 12 Norfolk House, Wellesley Road, Croydon, CR0 1LH
+description: Closed for good around the end of 2013.
+website: http://www.justfalafel.com/
+long: -0.096892
+lat: 51.37458
+open: no
+---
+id: just-falafel-hammersmith
+name: Just Falafel (Hammersmith)
+address: Unit 29, Broadway Shopping Centre, Hammersmith, W6 9YE
+website: http://www.justfalafel.com/locations/hammersmith
+long: -0.223997
+lat: 51.491885
+open: yes
+---
+id: karma-free-pizza-company-rayners-lane
+name: Karma Free Pizza Company
+address: 387 Alexandra Avenue, Rayners Lane, HA2 9EF
+website: https://sites.google.com/site/karmafreepizza/
+fatgayvegan: http://fatgayvegan.com/2012/06/20/cheesy-vegan-stuffed-crust-deep-dish-pizza-do-i-have-your-attention/
+long: -0.371314
+lat: 51.572119
+open: yes
+---
+id: kin-fitzrovia
+name: Kin
+address: 22 Foley Street, Fitzrovia, W1W 6DT
+website: http://www.kincafe.co.uk/
+twitter: Kin_Cafe
+lat: 51.519325
+long: -0.14033237
+open: yes
+---
+id: koshari-street-covent-garden
+name: Koshari Street
+address: 56 St Martin's Lane, Covent Garden, WC2N 4EA
+website: http://www.kosharistreet.com/
+fatgayvegan: http://fatgayvegan.com/2013/12/20/koshari-vegan-review/
+long: -0.12696
+lat: 51.510842
+open: yes
+---
+id: krishna-bhavan-ilford
+name: Krishna Bhavan
+address: Unit 2B, Clements Road, Ilford, IG1 1BP
+website: http://harekrishnabhavan.com/
+long: 0.073852
+lat: 51.5578
+open: yes
+---
+id: the-larder-bethnal-green
+name: The Larder
+address: 241-245 Globe Road, Bethnal Green, E2 0JD
+website: http://www.worldslarder.co.uk/
+long: -0.05128400000000001
+lat: 51.52829
+open: yes
+---
+id: loving-hut-edgware
+name: Loving Hut (Edgware)
+address: 236 Station Road, Edgware, HA8 7AU
+website: http://edgware.lovinghut.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Loving_Hut,_HA8_7AU
+long: -0.275517
+lat: 51.615182
+open: yes
+---
+id: loving-hut-holloway-road
+name: Loving Hut (Holloway Road)
+address: 669 Holloway Road, N19 5SE
+description: Vegetarian and vegan Chinese food; plenty of fake meat as well as vegetable dishes.
+fatgayvegan: http://fatgayvegan.com/2013/12/03/loving-hut-vegan-archway-review/
+long: -0.133317
+lat: 51.564906
+open: yes
+---
+id: maat-centre-catford
+name: Ma'at Centre
+address: 129 Rushey Green, Catford, SE6 4AA
+long: -0.018904
+lat: 51.44639800000001
+open: yes
+---
+id: manna-primrose-hill
+name: Manna
+address: 4 Erskine Road, Primrose Hill, NW3 3AJ
+rgl: http://london.randomness.org.uk/wiki.cgi?Manna,_NW3_3AJ
+long: -0.157306
+lat: 51.542025
+open: yes
+---
+id: maoz-falafel-soho
+name: Maoz Falafel
+address: 43 Old Compton Street, Soho, W1D 6HG
+website: http://www.maozusa.com/
+long: -0.132072
+lat: 51.512782
+open: yes
+---
+id: mary-ward-centre-cafe-bloomsbury
+name: Mary Ward Centre Cafe
+address: 42 Queen Square, Bloomsbury, WC1N 3AQ
+description: Only open in term-time.
+other_links: <li><a href="http://eatandbemerryfortomorrowwediet.blogspot.com/2011/03/mary-ward-centre-cafe.html">Eat And Be Merry review</a></li>
+fatgayvegan: http://fatgayvegan.com/2013/03/09/the-only-thing-that-helps-me-pass-the-time-away/
+long: -0.12184200000000002
+lat: 51.521074
+open: yes
+---
+id: mildreds-soho
+name: Mildreds
+address: 45 Lexington Street, Soho, W1F 9AN
+rgl: http://london.randomness.org.uk/wiki.cgi?Mildreds,_W1F_9AN
+long: -0.136449
+lat: 51.513016
+open: yes
+---
+id: ms-cupcake-brixton
+name: Ms Cupcake
+address: 408 Coldharbour Lane, Brixton, SW9 8LF
+description: Vegan bakery with cafe seating.
+website: http://www.mscupcake.co.uk/
+fatgayvegan: http://fatgayvegan.com/2011/04/01/cupcakes-in-the-capital/
+other_links: <a href="http://www.sustainweb.org/jelliedeel/articles/193/">Jellied Eel article</a></li>
+long: -0.11292600000000001
+lat: 51.461715
+open: yes
+---
+id: museum-of-garden-history-cafe-lambeth
+name: Museum of Garden History cafe (Garden Cafe)
+address: Lambeth Palace Road, SE1 7LB
+website: http://www.gardenmuseum.org.uk/visitingthemuseum/the_garden_cafe.html
+chowhound: http://chowhound.chow.com/topics/670751
+other_links: <li><a href="http://www.veggieheaven.com/uk/england/The_Garden_Cafe_6432/">Veggie Heaven</a></li>
+long: -0.12033500000000001
+lat: 51.495132
+open: yes
+---
+id: my-village-camden-town
+name: My Village
+address: 37 Chalk Farm Road, Camden Town, NW1 8AJ
+other_links: <li><a href="http://www.thecnj.com/review/2008/040308/rest040308_01html.html">Camden New Journal article</a></li>
+yelp: http://www.yelp.co.uk/biz/my-village-cafe-london
+long: -0.148085
+lat: 51.542749
+open: yes
+---
+id: nama-notting-hill
+name: Nama
+address: 110 Talbot Road, Notting Hill, W11 1JR
+description: Raw vegan restaurant.
+website: http://www.namafoods.com/
+fatgayvegan: http://fatgayvegan.com/2014/09/27/nama-raw/
+long: -0.200364
+lat: 51.516803
+open: yes
+---
+id: only-parathas-queensbury
+name: Only Parathas
+address: 238-240 Streatfield Road, Queensbury, HA3 9BX
+rgl: http://london.randomness.org.uk/wiki.cgi?Only_Parathas,_HA3_9BX
+long: -0.29706
+lat: 51.595562
+open: yes
+---
+id: oracles-organic-juice-bar-brixton
+name: Oracle's Organic Juice Bar
+address: Brixton Village Market, Coldharbour Lane, Brixton, SW9 8PS
+rgl: http://london.randomness.org.uk/wiki.cgi?Oracle%27s_Organic_Juice_Bar,_SW9_8PS
+long: -0.111601
+lat: 51.462393
+open: yes
+---
+id: orchard-holborn
+name: Orchard
+address: 11 Sicilian Avenue, Holborn, WC1A 2QH
+description: Vegetarian kitchen and grocer.
+twitter: Orchard_1
+other_links: <li><a href="http://pickyglutton.wordpress.com/2012/02/18/orchard-review/">Picky Glutton review</a></li><li><a href="http://eatinguplondon.wordpress.com/2013/02/10/orchard/">Eating Up London review</a></li>
+photo: http://www.flickr.com/photos/kake_pugh/8277827714/
+long: -0.121327
+lat: 51.518527
+open: yes
+---
+id: pepperton-selhurst
+name: Pepperton
+address: 25 Selhurst Road, SE25 5PP
+description: Closed for good by mid-2012.
+yelp: http://www.yelp.co.uk/biz/peppertons-london
+long: -0.089757
+lat: 51.389231
+open: no
+---
+id: pilpel-spitalfields
+name: Pilpel
+address: 38 Brushfield Street, Spitalfieds, E1 6AT
+website: http://www.pilpel.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Pilpel,_E1_6AT
+long: -0.077108
+lat: 51.518971
+open: yes
+---
+id: rams-kenton
+name: Ram's
+address: 203 Kenton Road, Kenton, HA3 0HD
+website: http://www.ramsrestaurant.co.uk/
+other_links: <li><a href="http://tamarindandthyme.wordpress.com/2014/03/20/rams-restaurant-in-kenton/">Tamarind and Thyme review</a></li>
+long: -0.314744
+lat: 51.583168
+open: yes
+---
+id: rani-vegetarian-finchley
+name: Rani Vegetarian
+address: 7 Long Lane, Finchley, N3 2PR
+rgl: http://london.randomness.org.uk/wiki.cgi?Rani_Vegetarian,_N3_2PR
+long: -0.188184
+lat: 51.604478
+open: yes
+---
+id: rasa-stoke-newington
+name: Rasa
+address: 55 Stoke Newington Church Street, N16 0AR
+rgl: http://london.randomness.org.uk/wiki.cgi?Rasa,_N16_0AR
+long: -0.076411
+lat: 51.562052
+open: yes
+---
+id: ravi-shankar-bhel-poori-house-drummond-street
+name: Ravi Shankar Bhel-Poori House
+address: 133-135 Drummond Street, Euston, NW1 2HL
+rgl: http://london.randomness.org.uk/wiki.cgi?Ravi_Shankar,_NW1_2HL
+long: -0.136803
+lat: 51.527035
+open: yes
+---
+id: riverside-vegetaria-kingston
+name: Riverside Vegetaria
+address: 64 High Street, Kingston, KT1 1HN.
+website: http://www.rsveg.plus.com/
+timeout: http://www.timeout.com/london/restaurants/riverside-vegetaria
+long: -0.308089
+lat: 51.406983
+open: yes
+---
+id: rose-vegetarian-kingsbury
+name: Rose Vegetarian
+address: 532-534 Kingsbury Road, Kingsbury, NW9 9HH
+website: http://www.rosevegetarian.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Rose_Vegetarian,_NW9_9HH
+long: -0.277201
+lat: 51.58568300000001
+open: yes
+---
+id: sagar-fitzrovia
+name: Sagar (Fitzrovia)
+address: 17a Percy Street, Fitzrovia, W1T 1DU
+website: http://www.sagarveg.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Sagar,_W1T_1DU
+long: -0.132909
+lat: 51.518451
+open: yes
+---
+id: sagar-hammersmith
+name: Sagar (Hammersmith)
+address: 157 King Street, Hammersmith, W6 9JT
+website: http://www.sagarveg.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Sagar,_W6_9JT
+long: -0.233159
+lat: 51.49258
+open: yes
+---
+id: sagar-twickenham
+name: Sagar (Twickenham)
+address: 27 York Street, Twickenham, TW1 3JZ
+description: Closed for good by early 2012.
+rgl: http://london.randomness.org.uk/wiki.cgi?Sagar,_TW1_3JZ
+long: -0.327723
+lat: 51.447361
+open: no
+---
+id: sakonis-alperton
+name: Sakonis (Alperton)
+address: 127-129 Ealing Road, Alperton, HA0 4BP
+website: http://www.sakonis.co.uk/
+long: -0.296996
+lat: 51.545534
+open: yes
+---
+id: sakonis-harrow
+name: Sakonis (Harrow)
+address: 5-8 Dominion Parade, Station Road, Harrow, HA1 2TR
+website: http://www.sakonis.co.uk/
+long: -0.33254
+lat: 51.58616
+open: yes
+---
+id: sarashwathy-bavans-tooting
+name: Sarashwathy Bavans
+address: 70 Tooting High Street, SW17 0RN
+website: http://www.sarashwathy.com/
+long: -0.169022
+lat: 51.427444
+open: yes
+---
+id: saravanaa-bhavan-east-ham
+name: Saravanaa Bhavan (East Ham)
+address: 300 High Street North, East Ham, E12 6SA
+rgl: http://london.randomness.org.uk/wiki.cgi?Saravanaa_Bhavan,_E12_6SA
+long: 0.050468
+lat: 51.542345
+open: yes
+---
+id: saravanaa-bhavan-ilford
+name: Saravanaa Bhavan (Ilford)
+address: 115-127 Cranbrook Road, Ilford, IG1 4PU
+website: http://www.saravanabhavan.co.uk/restaurants/Ilford-3.html
+long: 0.068724
+lat: 51.561675
+open: yes
+---
+id: saravanaa-bhavan-rayners-lane
+name: Saravanaa Bhavan (Rayners Lane)
+address: 403 Alexandra Avenue, Rayners Lane, HA2 9SG
+website: http://www.saravanabhavan.co.uk/restaurants/Harrow-2.html
+long: -0.371454
+lat: 51.572789
+open: yes
+---
+id: saravanaa-bhavan-southall
+name: Saravanaa Bhavan (Southall)
+address: Glassy Junction, 97 South Road, Southall, UB1 1SQ
+website: http://www.saravanabhavan.co.uk/restaurants/Southall-4.html
+long: -0.37817
+lat: 51.507273000000005
+open: yes
+---
+id: saravanaa-bhavan-tooting
+name: Saravanaa Bhavan (Tooting)
+address: 254 Upper Tooting Road, SW17 0DN
+website: http://www.saravanabhavan.co.uk/restaurants/Toothing-6.html
+long: -0.166002
+lat: 51.430036
+open: yes
+---
+id: saravanaa-bhavan-wembley
+name: Saravanaa Bhavan (Wembley)
+address: 22-22A Ealing Road, Wembley, HA0 4TL
+website: http://www.saravanabhavan.co.uk/restaurants/Wembley-5.html
+long: -0.298959
+lat: 51.551292
+open: yes
+---
+id: shahanshah-southall
+name: Shahanshah
+address: 60 North Road, Southall, UB1 2JL
+rgl: http://london.randomness.org.uk/wiki.cgi?Shahanshah,_UB1_2JL
+long: -0.3719470000000001
+lat: 51.512989000000005
+open: yes
+---
+id: shahee-bhelpoori-norbury
+name: Shahee Bhelpoori
+address: 1547 London Road, Norbury, SW16 4AD
+description: Closed for good in December 2013.
+rgl: http://london.randomness.org.uk/wiki.cgi?Shahee_Bhelpoori,_SW16_4AD
+long: -0.12415400000000001
+lat: 51.412256
+open: no
+---
+id: shaolin-restaurant-upper-holloway
+name: Shaolin Restaurant
+address: 207A Junction Road, Upper Holloway, N19 5QA
+description: Chinese vegetarian restaurant, part of the Shaolin Temple.  Closed down in November 2013, and as of August 2014 it's still closed and they're not sure when it's going to reopen.
+website: http://www.shaolinrestaurant.org/
+long: -0.137214
+lat: 51.5593
+open: no
+---
+id: shayona-neasden
+name: Shayona
+address: 54-62 Meadow Garth, Neasden, NW10 8HD
+description: Located in the car park of the Swaminarayan Temple.
+website: http://www.shayonarestaurants.com/
+other_links: <li><a href="http://www.telegraph.co.uk/foodanddrink/9207342/Shayona-Neasden-London-restaurant-review.html">Telegraph review</a></li>
+long: -0.262674
+lat: 51.547796
+open: yes
+---
+id: smithfield-tavern-clerkenwell
+name: Smithfield Tavern
+address: 105 Charterhouse Street, Clerkenwell, EC1M 6HR
+description: Vegetarian and vegan pub.
+long: -0.101009
+lat: 51.519998
+open: yes
+---
+id: spring-gardens-cafe-vauxhall
+name: Spring Gardens Cafe
+address: 100 Vauxhall Walk, SE11 5EL
+website: http://www.springgardenscafe.co.uk/
+long: -0.120512
+lat: 51.489407
+open: yes
+---
+id: supreme-sweets-kingsbury
+name: Supreme Sweets
+address: 706 Kenton Road, Kingsbury, HA3 9QX
+description: Cafe selling Indian sweets and savouries.
+photo: http://www.flickr.com/photos/kake_pugh/9428691036/
+long: -0.284161
+lat: 51.585463
+open: yes
+---
+id: sutra-kitchen-deli-soho
+name: Sutra Kitchen Deli
+address: Unit 1, 1st Floor, Kingly Court, Soho, W1B 5PW
+description: Vegetarian cooking school with a deli/takeaway attached.
+website: http://sutrakitchen.co.uk/
+long: -0.139217
+lat: 51.512919
+open: yes
+---
+id: tanyas-chelsea
+name: Tanya's
+address: myhotel Chelsea, 35 Ixworth Place, SW3 3QX.
+description: Raw food and cocktails.
+website: http://www.tanyascafe.com/
+other_links: <li><a href="http://londontastin.com/post/96448612522/tanyas-cafe-raw-vegan-in-chelsea">London Tastin' review</a></li>
+long: -0.168545
+lat: 51.491917
+open: yes
+---
+id: tibits-mayfair
+name: Tibits
+address: 12-14 Heddon Street, off Regent Street, Mayfair, W1B 4DA
+description: A London branch of the Swiss chain (original is in Zurich).
+website: http://www.tibits.co.uk/
+twitter: Tibits_UK
+chowhound: http://chowhound.chow.com/topics/564141
+yelp: http://www.yelp.co.uk/biz/tibits-london-3
+timeout: http://www.timeout.com/london/restaurants/tibits
+other_links: <li><a href="http://www.telegraph.co.uk/foodanddrink/restaurants/8244281/Tibits-London-W1-Restaurant-review.html">The Telegraph</a></li>
+long: -0.139475
+lat: 51.51112
+open: yes
+---
+id: tide-tables-cafe-richmond
+name: Tide Tables Cafe
+address: 2 The Arches, Richmond, TW9 1TH
+description: Located in one of the arches underneath Richmond Bridge.
+website: http://tidetablescafe.com/
+fatgayvegan: http://fatgayvegan.com/2012/12/10/here-comes-the-rising-tide/
+long: -0.306544
+lat: 51.457604
+open: yes
+---
+id: vanilla-black-holborn
+name: Vanilla Black
+address: 17-18 Tooks Court, Holborn, EC4A 1LB
+website: http://www.vanillablack.co.uk/
+rgl: http://london.randomness.org.uk/wiki.cgi?Vanilla_Black,_EC4A_1LB
+long: -0.111365
+lat: 51.51675500000001
+open: yes
+---
+id: vantra-oxford-street
+name: Vantra
+address: 25-27 Oxford Street, W1D 2DW
+rgl: http://london.randomness.org.uk/wiki.cgi?Vantra,_W1D_2DW
+long: -0.131474
+lat: 51.516316
+open: yes
+---
+id: vasanta-bhavan-east-ham
+name: Vasanta Bhavan
+address: 206 High Street North, East Ham, E6 2JA
+rgl: http://london.randomness.org.uk/wiki.cgi?Vasanta_Bhavan,_E6_2JA
+long: 0.051112
+lat: 51.539943
+open: yes
+---
+id: vegetarians-paradise-bloomsbury
+name: Vegetarian's Paradise
+address: 59 Marchmont Street, Bloomsbury, WC1N 1AP
+rgl: http://london.randomness.org.uk/wiki.cgi?Vegetarian%27s_Paradise,_WC1N_1AP
+long: -0.125163
+lat: 51.524833
+open: yes
+---
+id: vgango-battersea
+name: Vgango
+address: 39 Webbs Road, Battersea, SW11 6RX
+website: http://www.vgango.com/
+fatgayvegan: http://fatgayvegan.com/2012/07/01/vegan-deli-battersea/
+long: -0.163207
+lat: 51.457507
+open: yes
+---
+id: vijays-chawalla-upton-park
+name: Vijays Chawalla
+address: 268-270 Green Street, Upton Park, E7 8LF
+website: http://www.vijayschawalla.co.uk/
+long: 0.033302000000000005
+lat: 51.538501
+open: yes
+---
+id: vx-lounge-kings-cross
+name: Vx Lounge
+address: 73 Caledonian Road, King's Cross, N1 9BT
+description: A product of the Secret Society of Vegans (SSoV) — basement cafe doing coffee, tea, and cakes.
+website: http://www.vegancross.com/
+long: -0.11943299999999998
+lat: 51.533069
+open: yes
+---
+id: waiting-room-deptford
+name: The Waiting Room
+address: 142 Deptford High Street, SE8 3PQ
+facebook: http://www.facebook.com/pages/The-Waiting-Room/174709262577639
+long: -0.026071
+lat: 51.479422
+open: yes
+---
+id: whole-meal-streatham
+name: Whole Meal
+address: 1 Shrubbery Road, Streatham, SW16 2AS
+website: http://www.wholemealcafe.com/
+long: -0.12836
+lat: 51.430026000000005
+open: yes
+---
+id: wholsum-dalston
+name: Wholsum
+address: 16 Dalston Lane, E8 1PQ
+description: Closed by mid-2012.
+other_links: <li><a href="http://conceivedin84.blogspot.com/2010/05/wholsum.html">Richard Orwell's blog review</a></li>
+long: -0.065215
+lat: 51.548367
+open: no
+---
+id: wild-food-cafe-covent-garden
+name: Wild Food Cafe
+address: 1st floor, 14 Neal's Yard, Covent Garden, WC2H 9DP
+website: http://www.wildfoodcafe.com/
+timeout: http://www.timeout.com/london/restaurants/wild-food-cafe
+other_links: <li><a href="http://www.standard.co.uk/goingout/restaurants/wild-food-cafe--review-7428060.html">Evening Standard review</a></li>
+open: yes
+description: Their website doesn't say they're completely vegetarian, but they told me by email (October 2011) that they are.
+long: -0.126509
+lat: 51.51433300000001
+open: yes
+---
+id: woodlands-piccadilly-circus
+name: Woodlands (Piccadilly Circus)
+address: 37 Panton Street, SW1Y 4EA
+rgl: http://london.randomness.org.uk/wiki.cgi?Woodlands,_SW1Y_4EA
+long: -0.131857
+lat: 51.509597
+open: yes
+---
+id: woodlands-marylebone
+name: Woodlands (Marylebone)
+address: 77 Marylebone Lane, W1U 2PS
+rgl: http://london.randomness.org.uk/wiki.cgi?Woodlands,_W1U_2PS
+long: -0.151126
+lat: 51.518023
+open: yes
+---
+id: woodlands-hampstead
+name: Woodlands (Hampstead)
+address: 102 Heath Street, Hampstead, NW3 1DR
+website: http://www.woodlandsrestaurant.co.uk/branch2.html
+long: -0.17851700000000004
+lat: 51.558757
+open: yes
+---
+id: yummy-v-harrow
+name: Yummy V
+address: 55 Station Road, Harrow, HA1 2TY
+website: http://www.yummyv.co.uk/
+long: -0.332133
+lat: 51.587223
+open: yes
+---
+id: blah-blah-blah-twickenham
+name: Blah Blah Blah
+address: 157 Heath Road, Twickenham, TW1 4BH
+description: Previously at 78 Goldhawk Road, W12 8HA; moved to Twickenham in late 2012, then closed.
+website: http://blahvegetarian.com/
+other_links: <li><a href="http://www.tohappyvegans.com/wordpress/blah-blah-bla-shepherds-bush/">To Happy Vegans review</a></li><li><a href="http://www.grumblinggourmet.com/2010/06/review-of-blah-blah-blah-june-2010.html">Grumbling Gourmet review</a></li>
+long: -0.337524
+lat: 51.44522800000001
+open: no
+---
+id: cafe-luna-harringay
+name: Cafe Luna
+address: 386 Green Lanes, Harringay, N4 1DW
+description: Opened in mid-2010, closed a few months later.
+website: http://cafe-luna.co.uk/
+other_links: <li><a href="http://www.harringayonline.com/forum/topics/la-luna-vegetarian-restaurant">Harringay Online</a></li>
+long: -0.098276
+lat: 51.575109
+open: no
+---
+id: eat-and-two-veg-marylebone
+name: Eat and Two Veg (Marylebone)
+address: 50 Marylebone High Street, W1U 5HN
+description: Closed in December 2009.
+rgl: http://london.randomness.org.uk/wiki.cgi?Eat_And_Two_Veg,_W1U_5HN
+long: -0.151577
+lat: 51.521628
+open: no
+---
+id: eat-and-two-veg-muswell-hill
+name: Eat and Two Veg (Muswell Hill)
+address: 291-293 Muswell Hill Broadway, N10 1BY
+description: Closed down in 2010.  Same people as the (also now closed) one in Marylebone.
+long: -0.14338
+lat: 51.592109
+open: no
+---
+id: green-borders-leytonstone
+name: Green Borders
+address: 476 Leytonstone High Road, E11 3HN
+description: Now closed.
+rgl: http://london.randomness.org.uk/wiki.cgi?Green_Borders,_E11_3HN
+long: 0.008744
+lat: 51.561191
+open: no
+---
+id: indian-mischief-east-dulwich
+name: Indian Mischief
+address: 71 Lordship Lane, East Dulwich, SE22 8EP
+description: Closed in mid-2013.
+other_links: <li><a href="http://www.grumblinggourmet.com/2011/01/indian-mischief-in-east-dulwich-jan.html">Grumbling Gourmet review</a></li>
+long: -0.074823
+lat: 51.45866000000001
+open: no
+---
+id: kastoori-tooting
+name: Kastoori
+address: 188 Upper Tooting Road, SW17 7EJ
+description: Now closed.
+rgl: http://london.randomness.org.uk/wiki.cgi?Kastoori,_SW17_7EJ
+long: -0.164881
+lat: 51.43135
+open: no
+---
+id: krishna-bhavan-croydon
+name: Krishna Bhavan
+address: 337 London Road, Croydon, CR0 3PA
+description: Closed as of March 2012, with shop-for-lease sign on frontage.
+website: http://harekrishnabhavan.com/
+long: -0.109756
+lat: 51.385187
+open: no
+---
+id: loving-hut-camden-town
+name: Loving Hut (Camden Town)
+address: 3 Plender Street, Camden Town, NW1 0JT
+description: <a href="http://fatgayvegan.com/2013/09/29/london-news-vegan-september-2013/">Now closed</a>.
+fatgayvegan: http://fatgayvegan.com/2011/09/02/here-we-go-im-hanging-out-in-camden/
+long: -0.139067
+lat: 51.536119
+open: no
+---
+id: maio-brixton
+name: Maio
+address: 60 Atlantic Road, Brixton, SW9 8PY
+description: Now closed.
+rgl: http://london.randomness.org.uk/wiki.cgi?Maio,_SW9_8PY
+long: -0.111494
+lat: 51.4612
+open: no
+---
+id: october-cafe-old-street
+name: October Cafe
+address: 38 Old Street, EC1V 9AE
+description: Vegan tea shop; <a href="https://twitter.com/OctoberCafe/status/100986178257436672">closed in August 2011</a>.
+website: http://www.octobercafe.co.uk/
+fatgayvegan: http://fatgayvegan.com/2011/06/18/october-is-my-favourite-month/
+long: -0.09697800000000001
+lat: 51.523791
+open: no
+---
+id: otarian-shaftesbury-avenue
+name: Otarian (Shaftesbury Avenue)
+address: 190 Shaftesbury Avenue, Soho, WC2H 8JL
+description: As of October 2011, their website states they are experiencing a "time of development" during which they will "not be functioning in the UK".
+website: http://www.otarian.com/
+other_links: <li><a href="http://www.sustainweb.org/jelliedeel/articles/25/">Jellied Eel article</a></li>
+long: -0.126745
+lat: 51.515379
+open: no
+---
+id: otarian-wardour-street
+name: Otarian (Wardour Street)
+address: 181-183 Wardour Street, Soho, W1F 8WZ
+description: As of October 2011, their website states they are experiencing a "time of development" during which they will "not be functioning in the UK".
+website: http://www.otarian.com/
+other_links: <li><a href="http://www.guardian.co.uk/lifeandstyle/2010/oct/24/jay-rayner-restaurant-review-otarian-london">Jay Rayner's review</a></li>
+long: -0.135441
+lat: 51.515166
+open: no
+---
+id: rootmaster-brick-lane
+name: Rootmaster
+address: Elys Yard, The Old Truman Brewery, Hanbury Street, E1 6QL
+description: Closed at the end of 2010.
+rgl: http://london.randomness.org.uk/wiki.cgi?Rootmaster,_E1_6QL
+long: -0.072699
+lat: 51.521081
+open: no
+---
+id: saf-kensington
+name: Saf (Kensington)
+address: 1st Floor, Whole Foods Market, Kensington High Street, W8 5SE
+description: <a href="http://fatgayvegan.com/2014/01/29/saf-set-to-close/">Now closed</a>.
+website: http://www.safrestaurant.co.uk/kensington/restaurant-bar/
+long: -0.190855
+lat: 51.501871
+open: no
+---
+id: saf-shoreditch
+name: Saf (Shoreditch)
+address: 152-154 Curtain Road, Shoreditch, EC2A 3AT
+description: Opened 11 April 2008, closed early 2012.
+rgl: http://london.randomness.org.uk/wiki.cgi?Saf,_EC2A_3AT
+long: -0.080123
+lat: 51.526822
+open: no
+---
+id: simply-vegan-kentish-town
+name: Simply Vegan
+address: 225 Kentish Town Road, NW5 2JU
+description: <a href="http://www.veganforum.com/forums/showthread.php?25137-New-vegan-restaurant-quot-Simply-Vegan-quot-Kentish-Town&s=5170010d55807dd9541f81443bb229c7&p=623665&viewfull=1#post623665">Closed in late 2009</a>.
+long: -0.1419
+lat: 51.546775
+open: no
+---
+id: spirited-palace-crystal-palace
+name: Spirited Palace
+address: 105 Church Road, Crystal Palace, SE19 2PR
+description: Vegan Caribbean restaurant attached to a health food shop.  Now closed.
+other_links: <li><a href="http://www.veggieplaces.co.uk/list_reviews.php?place_id=2333">Veggie Places</a></li><li><a href="http://www.happycow.net/reviews.php?id=13495">HappyCow</a></li>
+long: -0.081174
+lat: 51.416726000000004
+open: no
+---
+id: urban-eats-bloomsbury
+name: Urban Eats
+address: 39 Lamb's Conduit Street, Bloomsbury, WC1N 3NG
+description: Raw vegetarian and vegan.  Closed in spring 2012.
+long: -0.118436
+lat: 51.521582
+open: no
+---
+id: vegan-routes-soho
+name: Vegan Routes
+address: NCP car park, Brewer Street, Soho, W1F 0LA
+description: Closed in mid-2010.
+other_links: <li><a href="http://www.tohappyvegans.com/wordpress/another-day-another-vegan-bus/">To Happy Vegans review</a></li>
+long: -0.135022
+lat: 51.512116
+open: no
+---
+id: veggie-inn-harrow
+name: Veggie Inn
+address: 123 Headstone Road, Harrow, HA1 1PG
+description: Closed in late 2011.
+other_links: <li><a href="http://www.veggieplaces.co.uk/list_reviews.php?place_id=355">Veggie Places comments</a></li>
+yelp: http://www.yelp.co.uk/biz/veggie-inn-harrow
+long: -0.34107
+lat: 51.583737000000006
+open: no
+---
+id: zilli-green-soho
+name: Zilli Green
+address: 41 Dean Street, Soho, W1D 4PY
+website: http://www.zillirestaurants.co.uk/green/
+description: Now closed.
+long: -0.132287
+lat: 51.513417
+open: no
