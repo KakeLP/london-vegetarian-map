@@ -404,6 +404,17 @@ lat: 51.52953800000001
 open: yes
 checked: May 2011
 ---
+id: jai-shri-krishna-turnpike-lane
+name: Jai Shri Krishna
+address: 10 Turnpike Lane, Hornsey, N8 0PT
+description: Good-value Indian vegetarian restaurant.
+photo: http://www.flickr.com/photos/kake_pugh/9461795032/
+rgl: http://london.randomness.org.uk/wiki.cgi?Jai_Shri_Krishna,_N8_0PT
+lat: 51.589620
+long: -0.102704
+open: yes
+checked: August 2013
+---
 id: jashan-wembley
 name: Jashan
 address: 1-2 Coronet Parade, Ealing Road, Wembley, HA0 4AY
@@ -857,6 +868,27 @@ website: http://www.shayonarestaurants.com/
 other_links: <li><a href="http://www.telegraph.co.uk/foodanddrink/9207342/Shayona-Neasden-London-restaurant-review.html">Telegraph review</a></li>
 long: -0.262674
 lat: 51.547796
+open: yes
+---
+id: shree-krishna-vada-pav-harrow
+name: Shree Krishna Vada Pav (Harrow)
+address: 63 Station Road, Harrow, HA1 2TY
+description: Indian cafe specialising in Mumbai snacks.
+website: http://www.shreekrishnavadapav.com/
+photo: http://www.flickr.com/photos/kake_pugh/9303288938/
+rgl: http://london.randomness.org.uk/wiki.cgi?Shree_Krishna_Vada_Pav,_HA1_2TY
+lat: 51.586609
+long: -0.330658
+open: yes
+checked: July 2013
+---
+id: shree-krishna-vada-pav-hounslow
+name: Shree Krishna Vada Pav (Hounslow)
+address: 121 Hounslow High Street, TW3 1QL
+description: Indian cafe specialising in Mumbai snacks.
+website: http://www.shreekrishnavadapav.com/
+lat: 51.469455
+long: -0.35924086
 open: yes
 ---
 id: smithfield-tavern-clerkenwell
