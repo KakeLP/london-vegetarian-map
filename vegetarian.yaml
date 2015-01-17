@@ -148,6 +148,7 @@ checked: April 2009
 id: chennai-dosa-east-ham
 name: Chennai Dosa (East Ham)
 address: 339 High Street North, East Ham, E12 6PQ
+photo: https://www.flickr.com/photos/kake_pugh/3698134582
 website: http://www.chennaidosa.com/
 long: 0.04954600000000001
 lat: 51.543906
@@ -624,6 +625,7 @@ id: orchard-holborn
 name: Orchard
 address: 11 Sicilian Avenue, Holborn, WC1A 2QH
 description: Vegetarian kitchen and grocer.
+photo: https://www.flickr.com/photos/kake_pugh/8277827714
 twitter: Orchard_1
 other_links: <li><a href="http://pickyglutton.wordpress.com/2012/02/18/orchard-review/">Picky Glutton review</a></li><li><a href="http://eatinguplondon.wordpress.com/2013/02/10/orchard/">Eating Up London review</a></li>
 photo: http://www.flickr.com/photos/kake_pugh/8277827714/
@@ -754,6 +756,7 @@ open: yes
 id: sakonis-harrow
 name: Sakonis (Harrow)
 address: 5-8 Dominion Parade, Station Road, Harrow, HA1 2TR
+photo: https://www.flickr.com/photos/kake_pugh/9300803561
 website: http://www.sakonis.co.uk/
 long: -0.33254
 lat: 51.58616
@@ -796,6 +799,7 @@ open: yes
 id: saravanaa-bhavan-southall
 name: Saravanaa Bhavan (Southall)
 address: Glassy Junction, 97 South Road, Southall, UB1 1SQ
+photo: https://www.flickr.com/photos/kake_pugh/16029200966
 website: http://www.saravanabhavan.co.uk/restaurants/Southall-4.html
 long: -0.37817
 lat: 51.507273000000005
@@ -859,6 +863,7 @@ id: smithfield-tavern-clerkenwell
 name: Smithfield Tavern
 address: 105 Charterhouse Street, Clerkenwell, EC1M 6HR
 description: Vegetarian and vegan pub.
+photo: https://www.flickr.com/photos/55935853@N00/3778338719
 long: -0.101009
 lat: 51.519998
 open: yes
@@ -1031,7 +1036,7 @@ open: yes
 id: woodlands-piccadilly-circus
 name: Woodlands (Piccadilly Circus)
 address: 37 Panton Street, SW1Y 4EA
-photo: 
+photo: https://www.flickr.com/photos/kake_pugh/3120498226
 rgl: http://london.randomness.org.uk/wiki.cgi?Woodlands,_SW1Y_4EA
 long: -0.131857
 lat: 51.509597
@@ -1059,15 +1064,17 @@ open: yes
 id: yummy-v-harrow
 name: Yummy V
 address: 55 Station Road, Harrow, HA1 2TY
+photo: https://www.flickr.com/photos/kake_pugh/9300187627
 website: http://www.yummyv.co.uk/
 long: -0.332133
 lat: 51.587223
 open: yes
 ---
-id: blah-blah-blah-twickenham
+id: blah-blah-blah
 name: Blah Blah Blah
 address: 157 Heath Road, Twickenham, TW1 4BH
-description: Previously at 78 Goldhawk Road, W12 8HA; moved to Twickenham in late 2012, then closed.
+description: Previously at 78 Goldhawk Road, W12 8HA (pictured); moved to Twickenham in late 2012, then closed.
+photo: https://www.flickr.com/photos/kake_pugh/3579064271
 website: http://blahvegetarian.com/
 other_links: <li><a href="http://www.tohappyvegans.com/wordpress/blah-blah-bla-shepherds-bush/">To Happy Vegans review</a></li><li><a href="http://www.grumblinggourmet.com/2010/06/review-of-blah-blah-blah-june-2010.html">Grumbling Gourmet review</a></li>
 long: -0.337524
@@ -1247,6 +1254,7 @@ id: vegan-routes-soho
 name: Vegan Routes
 address: NCP car park, Brewer Street, Soho, W1F 0LA
 description: Closed in mid-2010.
+photo: https://www.flickr.com/photos/kake_pugh/4473861792
 other_links: <li><a href="http://www.tohappyvegans.com/wordpress/another-day-another-vegan-bus/">To Happy Vegans review</a></li>
 long: -0.135022
 lat: 51.512116
