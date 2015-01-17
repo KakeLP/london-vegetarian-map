@@ -1,0 +1,17 @@
+[% INCLUDE header.tt subtitle="About this site" %]
+
+<p>This website is a work in progress, and probably always will be.
+Its aim is to list every vegetarian restaurant and cafe in London.</p>
+
+<p>The administrator of this website is <a
+href="http://www.earth.li/~kake/">Kake</a> (<a
+href="mailto:kake@earth.li">kake@earth.li</a>).</p>
+
+<p>Website created using <a
+href="https://github.com/KakeLP/map-site-maker">MapSite.pm</a>, <a
+href="https://www.google.com/fonts/specimen/Lora">Lora from Google
+Fonts</a>, and <a
+href="http://design-seeds.com/index.php/home/entry/succulent-hues25">Succulent
+Hues from Design Seeds</a>.
+
+[% INCLUDE footer.tt %]
