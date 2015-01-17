@@ -10,18 +10,22 @@ open: yes
 id: 222-veggie-vegan-restaurant-west-brompton
 name: 222 Veggie Vegan Restaurant
 address: 222 North End Road, West Brompton, W14 9NU
+photo: http://www.flickr.com/photos/kake_pugh/3588755552/
 rgl: http://london.randomness.org.uk/wiki.cgi?222_Veggie_Vegan_Restaurant,_W14_9NU
 long: -0.203032
 lat: 51.485966
 open: yes
+checked: June 2009
 ---
 id: alara-wholefoods-bloomsbury
 name: Alara Wholefoods
 address: 58-60 Marchmont Street, Bloomsbury, WC1N 1AB
+photo: http://www.flickr.com/photos/kake_pugh/2850313164/
 rgl: http://london.randomness.org.uk/wiki.cgi?Alara_Wholefoods,_WC1N_1AB
 long: -0.125023
 lat: 51.524953
 open: yes
+checked: June 2011
 ---
 id: alkarmel-cafe-clapham
 name: Alkarmel Cafe
@@ -46,11 +50,13 @@ id: amico-bio-new-oxford-street
 name: Amico Bio (New Oxford Street)
 address: 43 New Oxford Street, WC1A 1BH
 description: The second branch.
+photo: http://www.flickr.com/photos/rjw1/8545245209/
 website: http://www.amicobio.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Amico_Bio,_WC1A_1BH
 long: -0.125506
 lat: 51.51707
 open: yes
+checked: July 2013
 ---
 id: ashna-hounslow
 name: Ashna
@@ -68,17 +74,20 @@ rgl: http://london.randomness.org.uk/wiki.cgi?Beatroot,_W1F_0QD
 long: -0.134518
 lat: 51.512936
 open: yes
+checked: April 2008
 ---
 id: black-cat-cafe-hackney
 name: Black Cat Cafe
 address: 76 Clarence Road, Hackney, E5 8HB
 description: Previously Pogo.
+photo: http://www.flickr.com/photos/90117465@N00/11029650104/
 website: http://blackcatcafe.co.uk/
 twitter: BlackCatHackney
 rgl: http://london.randomness.org.uk/wiki.cgi?Black_Cat_Cafe,_E5_8HB
 long: -0.055254
 lat: 51.550845
 open: yes
+checked: November 2014
 ---
 id: blue-brick-cafe-east-dulwich
 name: Blue Brick Cafe
@@ -91,18 +100,22 @@ open: yes
 id: bonnington-cafe-vauxhall
 name: Bonnington Cafe
 address: 11 Vauxhall Grove, Vauxhall, SW8 1TD
+photo: https://www.flickr.com/photos/rjw1/13693323493/
 rgl: http://london.randomness.org.uk/wiki.cgi?Bonnington_Cafe,_SW8_1TD
 long: -0.120163
 lat: 51.484884
 open: yes
+checked: April 2014
 ---
 id: cafe-crema-new-cross
 name: Cafe Crema
 address: 306 New Cross Road, New Cross, SE14 6AF
+photo: http://www.flickr.com/photos/kake_pugh/5573663265/
 rgl: http://london.randomness.org.uk/wiki.cgi?Cafe_Crema,_SE14_6AF
 long: -0.037336
 lat: 51.475423
 open: yes
+checked: March 2011
 ---
 id: cafe-morningside-hackney
 name: Cafe Morningside
@@ -125,10 +138,12 @@ open: yes
 id: carnevale-ec1
 name: Carnevale
 address: 135 Whitecross Street, EC1Y 8JL
+photo: http://www.flickr.com/photos/kake_pugh/3423885841/
 rgl: http://london.randomness.org.uk/wiki.cgi?Carnevale,_EC1Y_8JL
 long: -0.093169
 lat: 51.523164
 open: yes
+checked: April 2009
 ---
 id: chennai-dosa-east-ham
 name: Chennai Dosa (East Ham)
@@ -151,29 +166,35 @@ open: yes
 id: chutneys-drummond-street
 name: Chutneys
 address: 124 Drummond Street, Euston, NW1 2PA
+photo: http://flickr.com/photos/kake_pugh/3133700931/
 rgl: http://london.randomness.org.uk/wiki.cgi?Chutneys,_NW1_2PA
 long: -0.137908
 lat: 51.526742
 open: yes
+checked: April 2013
 ---
 id: city-sweet-centre-manor-park
 name: City Sweet Centre
 address: 510-512 Romford Road, Manor Park, E7 8AF
 website: http://citysweetcentre.com/
+photo: https://www.flickr.com/photos/kake_pugh/14687728597/
 rgl: http://london.randomness.org.uk/wiki.cgi?City_Sweet_Centre,_E7_8AF
 chowhound: http://chowhound.chow.com/topics/858750
 long: 0.039096
 lat: 51.548056
 open: yes
+checked: August 2014
 ---
 id: coach-and-horses-soho
 name: Coach & Horses
 address: 29 Greek Street, Soho, W1D 5DH
 description: Vegetarian and vegan pub.
+photo: http://flickr.com/photos/rjw1/748650173/
 rgl: http://london.randomness.org.uk/wiki.cgi?Coach_And_Horses,_W1D_5DH
 long: -0.130205
 lat: 51.51324
 open: yes
+checked: June 2012
 ---
 id: courthouse-garden-cafe-kennington
 name: Courthouse Garden Cafe
@@ -187,10 +208,12 @@ open: yes
 id: diwana-bhel-poori-house-drummond-street
 name: Diwana Bhel-Poori House
 address: 121-123 Drummond Street, Euston, NW1 2HL
+photo: http://flickr.com/photos/kake_pugh/3133510715/
 rgl: http://london.randomness.org.uk/wiki.cgi?Diwana_Bhel-Poori_House,_NW1_2HL
 long: -0.136616
 lat: 51.527092
 open: yes
+checked: November 2009
 ---
 id: diwana-bhel-poori-brick-lane
 name: Diwana Bhel Poori (Brick Lane)
@@ -232,10 +255,12 @@ open: yes
 id: food-for-thought-covent-garden
 name: Food For Thought
 address: 31 Neal Street, Covent Garden, WC2H 9PR
+photo: http://www.flickr.com/photos/kake_pugh/3134767665/
 rgl: http://london.randomness.org.uk/wiki.cgi?Food_For_Thought,_WC2H_9PR
 long: -0.125678
 lat: 51.514138
 open: yes
+checked: November 2014
 ---
 id: g-and-t-bethnal-green
 name: G & T
@@ -259,6 +284,7 @@ open: yes
 id: the-gate-hammersmith
 name: The Gate
 address: 51 Queen Caroline Street, Hammersmith, W6 9QL
+photo: http://www.flickr.com/photos/kake_pugh/3648910176/
 rgl: http://london.randomness.org.uk/wiki.cgi?Gate,_W6_9QL
 long: -0.225413
 lat: 51.490282
@@ -267,19 +293,23 @@ open: yes
 id: the-gate-st-john-street
 name: The Gate
 address: 370 St John Street, EC1V 4NN
+photo: https://www.flickr.com/photos/90117465@N00/14676756522/
 website: http://thegaterestaurants.com/islington.php
 rgl: http://london.randomness.org.uk/wiki.cgi?Gate,_EC1V_4NN
 long: -0.105486
 lat: 51.530366
 open: yes
+checked: June 2014
 ---
 id: govindas-soho
 name: Govinda's
 address: 9-10 Soho Street, W1D 3DN
+photo: http://www.flickr.com/photos/kake_pugh/2286059631/
 rgl: http://london.randomness.org.uk/wiki.cgi?Govinda%27s,_W1D_3DN
 long: -0.132777
 lat: 51.515815
 open: yes
+checked: May 2009
 ---
 id: grass-roots-peckham
 name: Grass Roots
@@ -335,35 +365,43 @@ open: yes
 id: hornbeam-cafe-walthamstow
 name: Hornbeam Cafe
 address: 458 Hoe Street, Walthamstow, E17 9AH
+photo: http://www.flickr.com/photos/kake_pugh/9576910271/
 rgl: http://london.randomness.org.uk/wiki.cgi?Hornbeam_Cafe,_E17_9AH
 long: -0.014999000000000002
 lat: 51.576029
 open: yes
+checked: August 2013
 ---
 id: indian-veg-bhelpoori-house-islington
 name: Indian Veg Bhelpoori House
 address: 92-93 Chapel Market, Islington, N1 9EX
+photo: http://flickr.com/photos/67669458@N00/458806979/
 rgl: http://london.randomness.org.uk/wiki.cgi?Indian_Veg_Bhelpoori_House,_N1_9EX
 long: -0.109949
 lat: 51.533296
 open: yes
+checked: July 2014
 ---
 id: inspiral-lounge-camden-town
 name: InSpiral Lounge
 address: 250 Camden High Street, NW1 8QS.
+photo: http://www.flickr.com/photos/kake_pugh/3599240246/
 rgl: http://london.randomness.org.uk/wiki.cgi?InSpiral_Lounge,_NW1_8QS
 long: -0.144432
 lat: 51.541024
 open: yes
+checked: June 2009
 ---
 id: itadaki-zen-kings-cross
 name: Itadaki Zen
 address: 139 King's Cross Road, WC1X 9BJ
 website: http://www.itadakizen.com/
+photo: http://www.flickr.com/photos/kake_pugh/5590501854/
 rgl: http://london.randomness.org.uk/wiki.cgi?Itadaki_Zen,_WC1X_9BJ
 long: -0.11595700000000002
 lat: 51.52953800000001
 open: yes
+checked: May 2011
 ---
 id: jashan-wembley
 name: Jashan
@@ -391,15 +429,18 @@ open: yes
 id: just-falafel-covent-garden
 name: Just Falafel (Covent Garden)
 address: 1 Monmouth Street, WC2H 9DA
+photo: http://www.flickr.com/photos/rjw1/8452298803/
 rgl: http://london.randomness.org.uk/wiki.cgi?Just_Falafel,_WC2H_9DA
 long: -0.126775
 lat: 51.514977
 open: yes
+checked: February 2013
 ---
 id: just-falafel-croydon
 name: Just Falafel (Croydon)
 address: 12 Norfolk House, Wellesley Road, Croydon, CR0 1LH
 description: Closed for good around the end of 2013.
+photo: https://www.flickr.com/photos/kake_pugh/9411929323/
 website: http://www.justfalafel.com/
 long: -0.096892
 lat: 51.37458
@@ -459,11 +500,13 @@ open: yes
 id: loving-hut-edgware
 name: Loving Hut (Edgware)
 address: 236 Station Road, Edgware, HA8 7AU
+photo: http://www.flickr.com/photos/kake_pugh/6323829250/
 website: http://edgware.lovinghut.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Loving_Hut,_HA8_7AU
 long: -0.275517
 lat: 51.615182
 open: yes
+checked: October 2011
 ---
 id: loving-hut-holloway-road
 name: Loving Hut (Holloway Road)
@@ -484,10 +527,12 @@ open: yes
 id: manna-primrose-hill
 name: Manna
 address: 4 Erskine Road, Primrose Hill, NW3 3AJ
+photo: http://flickr.com/photos/kake_pugh/2869242130/
 rgl: http://london.randomness.org.uk/wiki.cgi?Manna,_NW3_3AJ
 long: -0.157306
 lat: 51.542025
 open: yes
+checked: September 2008
 ---
 id: maoz-falafel-soho
 name: Maoz Falafel
@@ -510,10 +555,12 @@ open: yes
 id: mildreds-soho
 name: Mildreds
 address: 45 Lexington Street, Soho, W1F 9AN
+photo: http://www.flickr.com/photos/55935853@N00/2254351187/
 rgl: http://london.randomness.org.uk/wiki.cgi?Mildreds,_W1F_9AN
 long: -0.136449
 lat: 51.513016
 open: yes
+checked: February 2008
 ---
 id: ms-cupcake-brixton
 name: Ms Cupcake
@@ -562,14 +609,17 @@ rgl: http://london.randomness.org.uk/wiki.cgi?Only_Parathas,_HA3_9BX
 long: -0.29706
 lat: 51.595562
 open: yes
+checked: April 2009
 ---
 id: oracles-organic-juice-bar-brixton
 name: Oracle's Organic Juice Bar
 address: Brixton Village Market, Coldharbour Lane, Brixton, SW9 8PS
+photo: http://www.flickr.com/photos/itsbruce/6238056348/
 rgl: http://london.randomness.org.uk/wiki.cgi?Oracle%27s_Organic_Juice_Bar,_SW9_8PS
 long: -0.111601
 lat: 51.462393
 open: yes
+checked: October 2011
 ---
 id: orchard-holborn
 name: Orchard
@@ -581,6 +631,7 @@ photo: http://www.flickr.com/photos/kake_pugh/8277827714/
 long: -0.121327
 lat: 51.518527
 open: yes
+checked: December 2012
 ---
 id: pepperton-selhurst
 name: Pepperton
@@ -594,11 +645,13 @@ open: no
 id: pilpel-spitalfields
 name: Pilpel
 address: 38 Brushfield Street, Spitalfieds, E1 6AT
+photo: http://www.flickr.com/photos/kake_pugh/5776599822/
 website: http://www.pilpel.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Pilpel,_E1_6AT
 long: -0.077108
 lat: 51.518971
 open: yes
+checked: May 2011
 ---
 id: rams-kenton
 name: Ram's
@@ -612,30 +665,36 @@ open: yes
 id: rani-vegetarian-finchley
 name: Rani Vegetarian
 address: 7 Long Lane, Finchley, N3 2PR
+photo: https://www.flickr.com/photos/kake_pugh/15957945042/
 rgl: http://london.randomness.org.uk/wiki.cgi?Rani_Vegetarian,_N3_2PR
 long: -0.188184
 lat: 51.604478
 open: yes
+checked: December 2014
 ---
 id: rasa-stoke-newington
 name: Rasa
 address: 55 Stoke Newington Church Street, N16 0AR
+photo: http://www.flickr.com/photos/55935853@N00/2301940553/
 rgl: http://london.randomness.org.uk/wiki.cgi?Rasa,_N16_0AR
 long: -0.076411
 lat: 51.562052
 open: yes
+checked: March 2008
 ---
 id: ravi-shankar-bhel-poori-house-drummond-street
 name: Ravi Shankar Bhel-Poori House
 address: 133-135 Drummond Street, Euston, NW1 2HL
+photo: http://flickr.com/photos/kake_pugh/3133526835/
 rgl: http://london.randomness.org.uk/wiki.cgi?Ravi_Shankar,_NW1_2HL
 long: -0.136803
 lat: 51.527035
 open: yes
+checked: August 2010
 ---
 id: riverside-vegetaria-kingston
 name: Riverside Vegetaria
-address: 64 High Street, Kingston, KT1 1HN.
+address: 64 High Street, Kingston, KT1 1HN
 website: http://www.rsveg.plus.com/
 timeout: http://www.timeout.com/london/restaurants/riverside-vegetaria
 long: -0.308089
@@ -645,33 +704,40 @@ open: yes
 id: rose-vegetarian-kingsbury
 name: Rose Vegetarian
 address: 532-534 Kingsbury Road, Kingsbury, NW9 9HH
+photo: http://www.flickr.com/photos/kake_pugh/9429390891/
 website: http://www.rosevegetarian.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Rose_Vegetarian,_NW9_9HH
 long: -0.277201
 lat: 51.58568300000001
 open: yes
+checked: July 2013
 ---
 id: sagar-fitzrovia
 name: Sagar (Fitzrovia)
 address: 17a Percy Street, Fitzrovia, W1T 1DU
+photo: http://www.flickr.com/photos/55935853@N00/3334414357/
 website: http://www.sagarveg.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Sagar,_W1T_1DU
 long: -0.132909
 lat: 51.518451
 open: yes
+checked: June 2010
 ---
 id: sagar-hammersmith
 name: Sagar (Hammersmith)
 address: 157 King Street, Hammersmith, W6 9JT
+photo: http://flickr.com/photos/55935853@N00/2441959103/
 website: http://www.sagarveg.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Sagar,_W6_9JT
 long: -0.233159
 lat: 51.49258
 open: yes
+checked: September 2011
 ---
 id: sagar-twickenham
 name: Sagar (Twickenham)
 address: 27 York Street, Twickenham, TW1 3JZ
+photo: http://www.flickr.com/photos/rjw1/3050637454/
 description: Closed for good by early 2012.
 rgl: http://london.randomness.org.uk/wiki.cgi?Sagar,_TW1_3JZ
 long: -0.327723
@@ -705,10 +771,12 @@ open: yes
 id: saravanaa-bhavan-east-ham
 name: Saravanaa Bhavan (East Ham)
 address: 300 High Street North, East Ham, E12 6SA
+photo: https://www.flickr.com/photos/kake_pugh/14687588860/
 rgl: http://london.randomness.org.uk/wiki.cgi?Saravanaa_Bhavan,_E12_6SA
 long: 0.050468
 lat: 51.542345
 open: yes
+checked: August 2014
 ---
 id: saravanaa-bhavan-ilford
 name: Saravanaa Bhavan (Ilford)
@@ -757,10 +825,12 @@ rgl: http://london.randomness.org.uk/wiki.cgi?Shahanshah,_UB1_2JL
 long: -0.3719470000000001
 lat: 51.512989000000005
 open: yes
+checked: December 2008
 ---
 id: shahee-bhelpoori-norbury
 name: Shahee Bhelpoori
 address: 1547 London Road, Norbury, SW16 4AD
+photo: http://www.flickr.com/photos/kake_pugh/7026363423/
 description: Closed for good in December 2013.
 rgl: http://london.randomness.org.uk/wiki.cgi?Shahee_Bhelpoori,_SW16_4AD
 long: -0.12415400000000001
@@ -810,6 +880,7 @@ photo: http://www.flickr.com/photos/kake_pugh/9428691036/
 long: -0.284161
 lat: 51.585463
 open: yes
+checked: July 2013
 ---
 id: sutra-kitchen-deli-soho
 name: Sutra Kitchen Deli
@@ -857,35 +928,43 @@ open: yes
 id: vanilla-black-holborn
 name: Vanilla Black
 address: 17-18 Tooks Court, Holborn, EC4A 1LB
+photo: http://www.flickr.com/photos/kake_pugh/3749812424/
 website: http://www.vanillablack.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Vanilla_Black,_EC4A_1LB
 long: -0.111365
 lat: 51.51675500000001
 open: yes
+checked: July 2009
 ---
 id: vantra-oxford-street
 name: Vantra
 address: 25-27 Oxford Street, W1D 2DW
+photo: https://www.flickr.com/photos/90117465@N00/14166855590/
 rgl: http://london.randomness.org.uk/wiki.cgi?Vantra,_W1D_2DW
 long: -0.131474
 lat: 51.516316
 open: yes
+checked: June 2014
 ---
 id: vasanta-bhavan-east-ham
 name: Vasanta Bhavan
 address: 206 High Street North, East Ham, E6 2JA
+photo: http://www.flickr.com/photos/kake_pugh/9970914693/
 rgl: http://london.randomness.org.uk/wiki.cgi?Vasanta_Bhavan,_E6_2JA
 long: 0.051112
 lat: 51.539943
 open: yes
+checked: June 2009
 ---
 id: vegetarians-paradise-bloomsbury
 name: Vegetarian's Paradise
 address: 59 Marchmont Street, Bloomsbury, WC1N 1AP
+photo: http://www.flickr.com/photos/rjw1/8269891404/
 rgl: http://london.randomness.org.uk/wiki.cgi?Vegetarian%27s_Paradise,_WC1N_1AP
 long: -0.125163
 lat: 51.524833
 open: yes
+checked: December 2012
 ---
 id: vgango-battersea
 name: Vgango
@@ -953,18 +1032,22 @@ open: yes
 id: woodlands-piccadilly-circus
 name: Woodlands (Piccadilly Circus)
 address: 37 Panton Street, SW1Y 4EA
+photo: 
 rgl: http://london.randomness.org.uk/wiki.cgi?Woodlands,_SW1Y_4EA
 long: -0.131857
 lat: 51.509597
 open: yes
+checked: August 2009
 ---
 id: woodlands-marylebone
 name: Woodlands (Marylebone)
 address: 77 Marylebone Lane, W1U 2PS
+photo: http://flickr.com/photos/kake_pugh/2564790928/
 rgl: http://london.randomness.org.uk/wiki.cgi?Woodlands,_W1U_2PS
 long: -0.151126
 lat: 51.518023
 open: yes
+checked: June 2008
 ---
 id: woodlands-hampstead
 name: Woodlands (Hampstead)
@@ -1006,6 +1089,7 @@ id: eat-and-two-veg-marylebone
 name: Eat and Two Veg (Marylebone)
 address: 50 Marylebone High Street, W1U 5HN
 description: Closed in December 2009.
+photo: http://www.flickr.com/photos/55935853@N00/2416632157/
 rgl: http://london.randomness.org.uk/wiki.cgi?Eat_And_Two_Veg,_W1U_5HN
 long: -0.151577
 lat: 51.521628
@@ -1023,6 +1107,7 @@ id: green-borders-leytonstone
 name: Green Borders
 address: 476 Leytonstone High Road, E11 3HN
 description: Now closed.
+photo: http://www.flickr.com/photos/kake_pugh/4910506287/
 rgl: http://london.randomness.org.uk/wiki.cgi?Green_Borders,_E11_3HN
 long: 0.008744
 lat: 51.561191
@@ -1041,6 +1126,7 @@ id: kastoori-tooting
 name: Kastoori
 address: 188 Upper Tooting Road, SW17 7EJ
 description: Now closed.
+photo: http://www.flickr.com/photos/kake_pugh/3596689816/
 rgl: http://london.randomness.org.uk/wiki.cgi?Kastoori,_SW17_7EJ
 long: -0.164881
 lat: 51.43135
@@ -1050,7 +1136,7 @@ id: krishna-bhavan-croydon
 name: Krishna Bhavan
 address: 337 London Road, Croydon, CR0 3PA
 description: Closed as of March 2012, with shop-for-lease sign on frontage.
-website: http://harekrishnabhavan.com/
+photo: https://www.flickr.com/photos/kake_pugh/6857079642/
 long: -0.109756
 lat: 51.385187
 open: no
@@ -1068,6 +1154,7 @@ id: maio-brixton
 name: Maio
 address: 60 Atlantic Road, Brixton, SW9 8PY
 description: Now closed.
+photo: http://london.randomness.org.uk/wiki.cgi?Maio,_SW9_8PY
 rgl: http://london.randomness.org.uk/wiki.cgi?Maio,_SW9_8PY
 long: -0.111494
 lat: 51.4612
@@ -1107,6 +1194,7 @@ id: rootmaster-brick-lane
 name: Rootmaster
 address: Elys Yard, The Old Truman Brewery, Hanbury Street, E1 6QL
 description: Closed at the end of 2010.
+photo: http://flickr.com/photos/kake_pugh/2475706513/
 rgl: http://london.randomness.org.uk/wiki.cgi?Rootmaster,_E1_6QL
 long: -0.072699
 lat: 51.521081
@@ -1125,6 +1213,7 @@ id: saf-shoreditch
 name: Saf (Shoreditch)
 address: 152-154 Curtain Road, Shoreditch, EC2A 3AT
 description: Opened 11 April 2008, closed early 2012.
+photo: http://www.flickr.com/photos/kake_pugh/3966967409/
 rgl: http://london.randomness.org.uk/wiki.cgi?Saf,_EC2A_3AT
 long: -0.080123
 lat: 51.526822
