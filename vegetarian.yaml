@@ -110,12 +110,12 @@ checked: April 2014
 id: cafe-crema-new-cross
 name: Cafe Crema
 address: 306 New Cross Road, New Cross, SE14 6AF
+description: <a href="http://www.eastlondonlines.co.uk/2015/04/new-cross-staple-cafe-crema-closes/">Closed down</a> in April 2015.
 photo: http://www.flickr.com/photos/kake_pugh/5573663265/
 rgl: http://london.randomness.org.uk/wiki.cgi?Cafe_Crema,_SE14_6AF
 long: -0.037336
 lat: 51.475423
-open: yes
-checked: March 2011
+open: no
 ---
 id: cafe-morningside-hackney
 name: Cafe Morningside
