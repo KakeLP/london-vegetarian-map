@@ -1015,10 +1015,12 @@ open: yes
 id: vijays-chawalla-upton-park
 name: Vijays Chawalla
 address: 268-270 Green Street, Upton Park, E7 8LF
+rgl: http://london.randomness.org.uk/wiki.cgi?Vijay%27s_Chawalla,_E7_8LF
 website: http://www.vijayschawalla.co.uk/
 long: 0.033302000000000005
 lat: 51.538501
 open: yes
+checked: May 2015
 ---
 id: vx-lounge-kings-cross
 name: Vx Lounge
