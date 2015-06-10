@@ -635,15 +635,13 @@ checked: October 2011
 id: orchard-holborn
 name: Orchard
 address: 11 Sicilian Avenue, Holborn, WC1A 2QH
-description: Vegetarian kitchen and grocer.
+description: Vegetarian kitchen and grocer.  Closed down around May or June 2015.
 photo: https://www.flickr.com/photos/kake_pugh/8277827714
-twitter: Orchard_1
-other_links: <li><a href="http://pickyglutton.wordpress.com/2012/02/18/orchard-review/">Picky Glutton review</a></li><li><a href="http://eatinguplondon.wordpress.com/2013/02/10/orchard/">Eating Up London review</a></li>
+rgl: http://london.randomness.org.uk/wiki.cgi?Orchard,_WC1A_2QH
 photo: http://www.flickr.com/photos/kake_pugh/8277827714/
 long: -0.121327
 lat: 51.518527
-open: yes
-checked: December 2012
+open: no
 ---
 id: pepperton-selhurst
 name: Pepperton
