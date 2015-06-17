@@ -237,13 +237,16 @@ open: yes
 id: ethos-soho
 name: Ethos
 address: 48 Eastcastle Street, Soho, W1W 8DX
-decription: Pay-by-weight during the week, all-inclusive brunch on the weekends.
+description: Pay-by-weight buffet during lunch and dinner, individually priced dishes at breakfast.
 phone: 020 3581 1538
 twitter: EthosFoods
 website: http://ethosfoods.com/
+rgl: http://london.randomness.org.uk/wiki.cgi?Ethos,_W1W_8DX
+photo: https://www.flickr.com/photos/55935853@N00/18702928690/
 lat: 51.516371
 long: -0.13910392
 open: yes
+checked: June 2015
 ---
 id: l-express-cafe-brixton
 name: L'Express Cafe
