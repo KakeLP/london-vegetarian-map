@@ -71,10 +71,10 @@ id: beatroot-soho
 name: Beatroot
 address: 92 Berwick Street, Soho, W1F 0QD
 rgl: http://london.randomness.org.uk/wiki.cgi?Beatroot,_W1F_0QD
+description: <a href="http://now-here-this.timeout.com/2015/04/16/veggie-cafe-beatroot-in-soho-is-closing-down/">Closed for good</a> in April 2015.
 long: -0.134518
 lat: 51.512936
-open: yes
-checked: April 2008
+open: no
 ---
 id: black-cat-cafe-hackney
 name: Black Cat Cafe
@@ -261,10 +261,10 @@ name: Food For Thought
 address: 31 Neal Street, Covent Garden, WC2H 9PR
 photo: http://www.flickr.com/photos/kake_pugh/3134767665/
 rgl: http://london.randomness.org.uk/wiki.cgi?Food_For_Thought,_WC2H_9PR
+description: Vegetarian cafe of several decades' standing, <a href="http://foodforthought-london.co.uk/news.html">closed down for good</a> in June 2015.
 long: -0.125678
 lat: 51.514138
-open: yes
-checked: November 2014
+open: no
 ---
 id: g-and-t-bethnal-green
 name: G & T
