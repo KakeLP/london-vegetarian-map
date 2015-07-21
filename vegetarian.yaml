@@ -997,6 +997,17 @@ lat: 51.539943
 open: yes
 checked: June 2009
 ---
+id: veg-bar-brixton
+name: Veg Bar
+address: 45 Tulse Hill, Brixton, SW2 2TJ
+description: Vegan restaurant and bar.
+website: http://www.vegbar.co.uk/
+twitter: VegBarBrixton
+phone: 020 8678 0697
+lat: 51.453888
+long: -0.11303325
+open: yes
+---
 id: vegetarians-paradise-bloomsbury
 name: Vegetarian's Paradise
 address: 59 Marchmont Street, Bloomsbury, WC1N 1AP
