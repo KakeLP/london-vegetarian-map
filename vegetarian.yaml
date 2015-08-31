@@ -360,11 +360,14 @@ open: yes
 id: honey-hive-sydenham
 name: Honey Hive
 address: Calabash of Culture, 21 Sydenham Road, SE26 5EX
-description: Vegan West Indian cafe.
+description: Vegan Caribbean cafe located inside the Calabash of Culture art/book/gift shop.
 website: http://www.calabash-culture.com/
+photo: https://www.flickr.com/photos/kake_pugh/20843367048/
+rgl: http://london.randomness.org.uk/wiki.cgi?Honey_Hive,_SE26_5EX
 long: -0.053226
 lat: 51.426357
 open: yes
+checked: August 2015
 ---
 id: hornbeam-cafe-walthamstow
 name: Hornbeam Cafe
