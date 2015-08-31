@@ -197,6 +197,17 @@ lat: 51.51324
 open: yes
 checked: June 2012
 ---
+id: cookdaily-shoreditch
+name: CookDaily
+address: Unit 55, BOXPARK, 2-10 Bethnal Green Road, Shoreditch, E1 6GY
+website: https://www.boxpark.co.uk/brand/cook-daily/
+twitter: KingCookDaily
+description: Vegan food in the BOXPARK shoppping centre.
+other_links: <li><a href="http://flickingthevs.blogspot.co.uk/2015/08/lovegift-and-cookdaily-two-excellent.html">Flicking The Vs review</a></li>
+lat: 51.523482
+long: -0.075962439
+open: yes
+---
 id: courthouse-garden-cafe-kennington
 name: Courthouse Garden Cafe
 address: Jamyang Buddhist Centre, 43 Renfrew Road, Kennington, SE11 4NA
@@ -516,6 +527,14 @@ address: 241-245 Globe Road, Bethnal Green, E2 0JD
 website: http://www.worldslarder.co.uk/
 long: -0.05128400000000001
 lat: 51.52829
+open: yes
+---
+id: lovegift-vegan-honor-oak-park
+name: LoveGift Vegan Cafe
+address: 108 Brockley Rise, Honor Oak Park, SE23 1NH
+other_links: <li><a href="http://flickingthevs.blogspot.co.uk/2015/08/lovegift-and-cookdaily-two-excellent.html">Flicking The Vs review</a> (scroll down)</li><li><a href="http://www.happycow.net/reviews/lovegift-vegan-cafe-south-east-london-57965">Happy Cow comments</a></li>
+lat: 51.448738
+long: -0.039800495
 open: yes
 ---
 id: loving-hut-edgware
