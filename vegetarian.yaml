@@ -440,6 +440,18 @@ long: -0.297704
 lat: 51.549578
 open: yes
 ---
+id: just-fab-hackney
+name: Just F.a.B
+address: 455 Hackney Road, E2 9DY
+website: http://www.just-fab.org/
+twitter: Just_FaB_VegIta
+phone: 07414 917637
+description: Vegan Italian food from a converted double-decker bus.
+fatgayvegan: http://fatgayvegan.com/2015/09/10/on-the-map/
+lat: 51.532185
+long: -0.060335889
+open: yes
+---
 id: just-falafel-baker-street
 name: Just Falafel (Baker Street)
 address: 129 Baker Street, W1U 6SD
