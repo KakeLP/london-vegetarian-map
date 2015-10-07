@@ -156,13 +156,13 @@ open: yes
 ---
 id: chennai-dosa-wembley
 name: Chennai Dosa (Wembley)
-address: 529 High Road, HA0 2DH
-description: "This is two restaurants side by side; one veggie, one non-veggie.  They have separate kitchens."
+address: 3 Ealing Road, Wembley, HA0 2AA
+description: "Now closed; as of 2015 the premises are occupied by Kailash Parbat.  This was two restaurants side by side; one veggie, one non-veggie, with separate kitchens.  The entrance to the veg side was on Ealing Road and the entrance to the non-veg side was on Wembley High Road (and sometimes used the address 529 High Road, HA0 2DH)."
 yelp: http://www.yelp.co.uk/biz/chennai-dosa-wembley
-other_links: <li><a href="http://fussyveggie.blogspot.com/2009/05/chennai-dosa-wembley.html">Fussy Veggie review</a></li>
-long: -0.297886
-lat: 51.551939000000004
-open: yes
+other_links: <li><a href="http://tamarindandthyme.wordpress.com/2011/06/17/chennai-dosa-and-its-family-dosa/">Tamarind And Thyme review</a></li><li><a href="http://eatlovenoodles.blogspot.com/2011/07/family-dosa-chennai-dosa.html">Eat Noodles Love Noodles review</a></li><li><a href="http://fussyveggie.blogspot.com/2009/05/chennai-dosa-wembley.html">Fussy Veggie review</a></li>
+lat: 51.551909
+long: -0.29888754
+open: no
 ---
 id: chutneys-drummond-street
 name: Chutneys
@@ -212,7 +212,7 @@ id: courthouse-garden-cafe-kennington
 name: Courthouse Garden Cafe
 address: Jamyang Buddhist Centre, 43 Renfrew Road, Kennington, SE11 4NA
 website: http://www.jamyang.co.uk/index.php/facilities/cafe-at-jamayag
-other_links: <li><a href="http://www.vegetarianliving.co.uk/placestogo.php?do=view&article=156">Vegetarian Living review</a></li>
+other_links: <li><a href="http://www.vegetarianliving.co.uk/placestogo.php?do=view&article=156">Vegetarian Living review</a></li><li><a href="http://kenningtonrunoff.com/cafe-at-jamyang-buddhist-centre/">Kennington Runoff review</a></li>
 long: -0.105717
 lat: 51.491875
 open: yes
@@ -389,6 +389,18 @@ long: -0.014999000000000002
 lat: 51.576029
 open: yes
 checked: August 2013
+---
+id: iklectik-waterloo
+name: i'klectik
+address: Old Paradise Yard, 20 Carlisle Lane, SE1 7LG
+website: http://iklectikartlab.com/
+twitter: iklectikartlab
+phone: 07809 727199
+description: Fully licensed vegetarian and vegan cafe in an arts space.
+other_links: <a href="http://kenningtonrunoff.com/the-top-ten-best-lunch-spots-in-kennington-no-6-iklectik/">Kennington Runoff review</a></li>
+lat: 51.498471
+long: -0.11647721
+open: yes
 ---
 id: indian-veg-bhelpoori-house-islington
 name: Indian Veg Bhelpoori House
@@ -1084,6 +1096,7 @@ id: waiting-room-deptford
 name: The Waiting Room
 address: 142 Deptford High Street, SE8 3PQ
 facebook: http://www.facebook.com/pages/The-Waiting-Room/174709262577639
+fatgayvegan: http://fatgayvegan.com/2015/09/04/south-of-the-river-treats/
 long: -0.026071
 lat: 51.479422
 open: yes
