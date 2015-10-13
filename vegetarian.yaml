@@ -1043,6 +1043,16 @@ lat: 51.539943
 open: yes
 checked: June 2009
 ---
+id: vegan-hippo-soho
+name: Vegan Hippo
+address: 52 Rupert Street, Soho, W1D 6DS
+twitter: VeganHippoSoho
+other_links: <li><a href="http://www.happycow.net/reviews/vegan-hippo-london-62262">Happy Cow</a></li>
+lat: 51.512233
+long: -0.13355349
+open: yes
+checked: October 2015
+---
 id: veg-bar-brixton
 name: Veg Bar
 address: 45 Tulse Hill, Brixton, SW2 2TJ
