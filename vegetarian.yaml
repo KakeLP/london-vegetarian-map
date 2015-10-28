@@ -346,10 +346,11 @@ open: yes
 id: greens-and-beans-drummond-street
 name: Greens and Beans
 address: 131 Drummond Street, Euston, NW1 2HL
+description: Closed down some time between 2009 and 2012.
 website: http://www.greensandbeans.co.uk/
 long: -0.136699
 lat: 51.527065
-open: yes
+open: no
 ---
 id: greenz-tulse-hill
 name: Greenz
