@@ -355,11 +355,11 @@ open: no
 id: greenz-tulse-hill
 name: Greenz
 address: 5 Station Rise, Tulse Hill, SE27 9BW
-description: Previously known as A Taste of Heaven.
-website: http://www.greenzlife.com/
+description: Closed down <a href="http://web.archive.org/web/20151202105047/http://greenzrestaurant.com/">in late 2015</a>.  Previously known as A Taste of Heaven.
+website: http://greenzrestaurant.com/
 long: -0.10569
 lat: 51.439972
-open: yes
+open: no
 ---
 id: happy-kitchen-hackney
 name: Happy Kitchen
