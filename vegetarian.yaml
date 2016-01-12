@@ -413,15 +413,15 @@ lat: 51.533296
 open: yes
 checked: July 2014
 ---
-id: inspiral-lounge-camden-town
-name: InSpiral Lounge
-address: 250 Camden High Street, NW1 8QS.
-photo: http://www.flickr.com/photos/kake_pugh/3599240246/
-rgl: http://london.randomness.org.uk/wiki.cgi?InSpiral_Lounge,_NW1_8QS
-long: -0.144432
-lat: 51.541024
+id: camden-canal-cafe-camden-town
+name: Camden Canal Cafe
+address: 250 Camden High Street, NW1 8QS
+photo: 
+description: Previously the InSpiral Lounge (<a href="http://www.flickr.com/photos/kake_pugh/3599240246/">photo</a>).
+twitter: CamdenCanalCafe
+lat: 51.541266
+long: -0.14485189
 open: yes
-checked: June 2009
 ---
 id: itadaki-zen-kings-cross
 name: Itadaki Zen
