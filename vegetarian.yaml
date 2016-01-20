@@ -235,6 +235,16 @@ long: -0.071835
 lat: 51.519599
 open: yes
 ---
+id: dou-dou-camden-town
+name: Dou Dou Restaurant
+address: 6 Kentish Town Road, Camden Town, NW1 9NX
+description: All-you-can-eat Chinese buffet.
+fatgayvegan: http://fatgayvegan.com/2016/01/15/vegan-restaurant-not-closed/
+other_links: <li><a href="http://www.happycow.net/reviews/dou-dou-north-west-london-701">Happy Cow comments</a></li>
+lat: 51.539641
+long: -0.14221434
+open: yes
+---
 id: down-to-earth-kensington
 name: Down To Earth
 address: 240-242 Kensington High Street, W8 6ND.
