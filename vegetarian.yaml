@@ -39,7 +39,7 @@ open: yes
 id: amico-bio-ec1
 name: Amico Bio (EC1)
 address: 44 Cloth Fair, EC1A 7JQ
-description: The original branch.
+description: The original branch.  It used to have <a href="amico-bio-new-oxford-street.html">another branch in Holborn</a>, but that one has now closed.
 website: http://www.amicobio.co.uk/
 other_links: <li><a href="http://www.thisislondon.co.uk/restaurants/review-23829226-go-green-for-a-taste-of-naples-at-amico-bio.do">Fay Maschler</a></li>
 long: -0.099687
@@ -49,14 +49,13 @@ open: yes
 id: amico-bio-new-oxford-street
 name: Amico Bio (New Oxford Street)
 address: 43 New Oxford Street, WC1A 1BH
-description: The second branch.
+description: Now closed, though <a href="amico-bio-ec1.html">the original branch near Smithfield Market</a> remains open.
 photo: http://www.flickr.com/photos/rjw1/8545245209/
 website: http://www.amicobio.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Amico_Bio,_WC1A_1BH
 long: -0.125506
 lat: 51.51707
-open: yes
-checked: July 2013
+open: no
 ---
 id: ashna-hounslow
 name: Ashna
