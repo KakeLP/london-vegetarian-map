@@ -126,6 +126,18 @@ lat: 51.544637
 long: -0.048396975
 open: yes
 ---
+id: cafe-sovegan-clapton
+name: Cafe SoVegan
+address: The Royal Sovereign, 64 Northwold Road, Clapton, E5 8RL
+phone: 020 8806 2449
+twitter: CafeSoVegan
+description: Vegan cafe in a pub.
+fatgayvegan: http://fatgayvegan.com/2016/01/15/new-vegan-food-in-hackney/
+lat: 51.562705
+long: -0.063203171
+open: yes
+checked: February 2016
+---
 id: cakes-n-treats-camden-town
 name: Cakes N Treats
 address: 15 Pratt Street, Camden Town, NW1 0AE
