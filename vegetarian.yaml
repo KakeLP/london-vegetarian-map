@@ -106,6 +106,16 @@ lat: 51.484884
 open: yes
 checked: April 2014
 ---
+id: buttercream-dreams-croydon
+name: Buttercream Dreams
+address: Project B, 3-7 Middle Street, Croydon, CR0 1RE
+photo: https://www.flickr.com/photos/kake_pugh/16625193180/
+description: Vegan cafe inside the Project B events venue.
+lat: 51.373405
+long: -0.10106121
+open: yes
+checked: February 2016
+---
 id: cafe-crema-new-cross
 name: Cafe Crema
 address: 306 New Cross Road, New Cross, SE14 6AF
@@ -1078,11 +1088,12 @@ id: vegan-hippo-soho
 name: Vegan Hippo
 address: 52 Rupert Street, Soho, W1D 6DS
 twitter: VeganHippoSoho
+description: Vegan cafe in Soho.  According to their Facebook page as of 30 January 2016, they're closed "until further notice".
 fatgayvegan: http://fatgayvegan.com/2015/10/28/vegan-hippo-cafe-review/
 other_links: <li><a href="http://www.happycow.net/reviews/vegan-hippo-london-62262">Happy Cow</a></li>
 lat: 51.512233
 long: -0.13355349
-open: yes
+open: no
 checked: October 2015
 ---
 id: veg-bar-brixton
