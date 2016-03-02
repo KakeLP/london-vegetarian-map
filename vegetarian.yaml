@@ -795,6 +795,29 @@ lat: 51.527035
 open: yes
 checked: May 2015
 ---
+id: redemption-notting-hill
+name: Redemption (Notting Hill)
+description: Vegan and alcohol-free bar and restaurant.  It has <a href="redemption-shoreditch.html">another branch in Shoreditch</a>.
+address: 6 Chepstow Road, Notting Hill, W2 5BH
+phone: 020 7313 9041
+website: http://redemptionbar.co.uk/
+twitter: RedemptionBar
+timeout: http://www.timeout.com/london/restaurants/redemption
+lat: 51.515556
+long: -0.19508873
+open: yes
+---
+id: redemption-shoreditch
+name: Redemption (Shoreditch)
+description: Vegan and alcohol-free bar and restaurant.  It has <a href="redemption-notting-hill.html">another branch in Notting Hill</a>.
+address: 320 Old Street, EC1V 9DR
+phone: 020 7313 9041
+website: http://redemptionbar.co.uk/
+twitter: RedemptionBar
+lat: 51.526627
+long: -0.081983596
+open: yes
+---
 id: riverside-vegetaria-kingston
 name: Riverside Vegetaria
 address: 64 High Street, Kingston, KT1 1HN
