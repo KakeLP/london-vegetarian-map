@@ -651,16 +651,27 @@ open: yes
 id: mildreds-camden-town
 name: Mildreds (Camden Town)
 address: 9 Jamestown Road, Camden Town, NW1 7BW
+website: http://www.mildreds.co.uk/
 description: Second branch of <a href="mildreds-soho.html">the original one in Soho</a>.
 lat: 51.540433
 long: -0.14491935
 open: yes
 ---
+id: mildreds-kings-cross
+name: Mildreds (King's Cross)
+address: 200 Pentonville Road, N1 9JP
+website: http://www.mildreds.co.uk/
+description: Third branch of <a href="mildreds-soho.html">the original one in Soho</a>.
+lat: 51.531277
+long: -0.11705348
+open: yes
+---
 id: mildreds-soho
 name: Mildreds (Soho)
 address: 45 Lexington Street, Soho, W1F 9AN
+website: http://www.mildreds.co.uk/
 photo: http://www.flickr.com/photos/55935853@N00/2254351187/
-description: It has a <a href="mildreds-camden-town.html">second branch in Camden Town</a> which opened in 2015.
+description: It has a <a href="mildreds-camden-town.html">second branch in Camden Town</a> which opened in 2015 and a <a href="mildreds-kings-cross.html">third branch in King's Cross</a> which opened in 2016.
 rgl: http://london.randomness.org.uk/wiki.cgi?Mildreds,_W1F_9AN
 long: -0.136449
 lat: 51.513016
