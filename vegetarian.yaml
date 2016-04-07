@@ -685,8 +685,8 @@ description: Vegan bakery with cafe seating.
 website: http://www.mscupcake.co.uk/
 fatgayvegan: http://fatgayvegan.com/2011/04/01/cupcakes-in-the-capital/
 other_links: <a href="http://www.sustainweb.org/jelliedeel/articles/193/">Jellied Eel article</a></li>
-long: -0.11292600000000001
-lat: 51.461715
+lat: 51.461711
+long: -0.11327156
 open: yes
 ---
 id: museum-of-garden-history-cafe-lambeth
@@ -898,6 +898,17 @@ long: -0.33254
 lat: 51.58616
 open: yes
 ---
+id: santok-maa-thornton-heath
+name: Santok Maa's
+address: 848 London Road, Thornton Heath, CR7 7PA
+photo: https://www.flickr.com/photos/kake_pugh/26220306011/
+description: Cafe-style Indian restaurant.
+rgl: http://london.randomness.org.uk/wiki.cgi?Santok_Maa%27s,_CR7_7PA
+lat: 51.395797
+long: -0.11491616
+open: yes
+checked: March 2016
+---
 id: sarashwathy-bavans-tooting
 name: Sarashwathy Bavans
 address: 70 Tooting High Street, SW17 0RN
@@ -1106,7 +1117,7 @@ rgl: http://london.randomness.org.uk/wiki.cgi?Vantra,_W1D_2DW
 long: -0.131474
 lat: 51.516316
 open: yes
-checked: June 2014
+checked: March 2016
 ---
 id: vasanta-bhavan-east-ham
 name: Vasanta Bhavan
