@@ -75,6 +75,16 @@ long: -0.134518
 lat: 51.512936
 open: no
 ---
+id: bhuti-richmond
+name: Bhuti
+address: 50 Hill Rise, Richmond, TW10 6UB
+description: Vegan tea room attached to a beauty and relaxation therapy salon.
+website: http://bhuti.co/
+fatgayvegan: http://fatgayvegan.com/2016/04/17/exclusive-100-vegan-tearoom-opens-in-london/
+lat: 51.457520
+long: -0.30429085
+open: yes
+---
 id: black-cat-cafe-hackney
 name: Black Cat Cafe
 address: 76 Clarence Road, Hackney, E5 8HB
@@ -154,7 +164,7 @@ address: 15 Pratt Street, Camden Town, NW1 0AE
 facebook: https://www.facebook.com/CakesnTreatsLondon/info
 long: -0.140316
 lat: 51.5375
-open: yes
+open: no
 ---
 id: carnevale-ec1
 name: Carnevale
