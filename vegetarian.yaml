@@ -20,12 +20,12 @@ checked: June 2009
 id: alara-wholefoods-bloomsbury
 name: Alara Wholefoods
 address: 58-60 Marchmont Street, Bloomsbury, WC1N 1AB
-photo: http://www.flickr.com/photos/kake_pugh/2850313164/
+photo: https://www.flickr.com/photos/kake_pugh/26265701060/
 rgl: http://london.randomness.org.uk/wiki.cgi?Alara_Wholefoods,_WC1N_1AB
 long: -0.125023
 lat: 51.524953
 open: yes
-checked: June 2011
+checked: April 2016
 ---
 id: alkarmel-cafe-clapham
 name: Alkarmel Cafe
@@ -302,11 +302,13 @@ checked: June 2015
 ---
 id: l-express-cafe-brixton
 name: L'Express Cafe
-address: 15-17 Market Row, Brixton, SW9 8LB.
+address: 15-17 Market Row, Brixton, SW9 8LB
+photo: https://www.flickr.com/photos/kake_pugh/26635381525/
+description: L'Express Cafe was an evening-only French vegetarian restaurant in the premises of the Express Cafe in Brixton Market.  It no longer seems to be operating.
 facebook: https://www.facebook.com/lExpresscafe
 long: -0.113565
 lat: 51.461868
-open: yes
+open: no
 ---
 id: food-for-thought-covent-garden
 name: Food For Thought
@@ -355,7 +357,7 @@ rgl: http://london.randomness.org.uk/wiki.cgi?Gate,_EC1V_4NN
 long: -0.105486
 lat: 51.530366
 open: yes
-checked: June 2014
+checked: April 2016
 ---
 id: govindas-soho
 name: Govinda's
@@ -509,34 +511,32 @@ open: yes
 id: just-falafel-baker-street
 name: Just Falafel (Baker Street)
 address: 129 Baker Street, W1U 6SD
-website: http://www.justfalafel.com/locations/baker-street
 long: -0.157572
 lat: 51.52179
-open: yes
+open: no
 ---
 id: just-falafel-charing-cross-road
 name: Just Falafel (Charing Cross Road)
 address: 21 Charing Cross Road, WC2H 0ET
 long: -0.128529
 lat: 51.510347
-open: yes
+open: no
 ---
 id: just-falafel-covent-garden
 name: Just Falafel (Covent Garden)
 address: 1 Monmouth Street, WC2H 9DA
 photo: http://www.flickr.com/photos/rjw1/8452298803/
+description: Closed for good in February 2015.
 rgl: http://london.randomness.org.uk/wiki.cgi?Just_Falafel,_WC2H_9DA
 long: -0.126775
 lat: 51.514977
-open: yes
-checked: February 2013
+open: no
 ---
 id: just-falafel-croydon
 name: Just Falafel (Croydon)
 address: 12 Norfolk House, Wellesley Road, Croydon, CR0 1LH
 description: Closed for good around the end of 2013.
 photo: https://www.flickr.com/photos/kake_pugh/9411929323/
-website: http://www.justfalafel.com/
 long: -0.096892
 lat: 51.37458
 open: no
@@ -544,10 +544,9 @@ open: no
 id: just-falafel-hammersmith
 name: Just Falafel (Hammersmith)
 address: Unit 29, Broadway Shopping Centre, Hammersmith, W6 9YE
-website: http://www.justfalafel.com/locations/hammersmith
 long: -0.223997
 lat: 51.491885
-open: yes
+open: no
 ---
 id: karma-free-pizza-company-rayners-lane
 name: Karma Free Pizza Company
@@ -693,11 +692,13 @@ name: Ms Cupcake
 address: 408 Coldharbour Lane, Brixton, SW9 8LF
 description: Vegan bakery with cafe seating.
 website: http://www.mscupcake.co.uk/
+photo: https://www.flickr.com/photos/kake_pugh/26542290102/
 fatgayvegan: http://fatgayvegan.com/2011/04/01/cupcakes-in-the-capital/
 other_links: <a href="http://www.sustainweb.org/jelliedeel/articles/193/">Jellied Eel article</a></li>
 lat: 51.461711
 long: -0.11327156
 open: yes
+checked: April 2016
 ---
 id: museum-of-garden-history-cafe-lambeth
 name: Museum of Garden History cafe (Garden Cafe)
@@ -741,6 +742,7 @@ id: oracles-organic-juice-bar-brixton
 name: Oracle's Organic Juice Bar
 address: Brixton Village Market, Coldharbour Lane, Brixton, SW9 8PS
 rgl: http://london.randomness.org.uk/wiki.cgi?Oracle%27s_Organic_Juice_Bar,_SW9_8PS
+photo: https://www.flickr.com/photos/kake_pugh/26569677381/
 long: -0.111601
 lat: 51.462393
 open: yes
@@ -966,9 +968,12 @@ id: saravanaa-bhavan-tooting
 name: Saravanaa Bhavan (Tooting)
 address: 254 Upper Tooting Road, SW17 0DN
 website: http://www.saravanabhavan.co.uk/restaurants/Toothing-6.html
+photo: https://www.flickr.com/photos/kake_pugh/26161737834/
+rgl: http://london.randomness.org.uk/wiki.cgi?Saravanaa_Bhavan,_SW17_0DN
 long: -0.166002
 lat: 51.430036
 open: yes
+checked: April 2016
 ---
 id: saravanaa-bhavan-wembley
 name: Saravanaa Bhavan (Wembley)
@@ -1167,10 +1172,10 @@ name: Vegetarian's Paradise
 address: 59 Marchmont Street, Bloomsbury, WC1N 1AP
 photo: http://www.flickr.com/photos/rjw1/8269891404/
 rgl: http://london.randomness.org.uk/wiki.cgi?Vegetarian%27s_Paradise,_WC1N_1AP
+description: Closed in late 2015.
 long: -0.125163
 lat: 51.524833
-open: yes
-checked: December 2012
+open: no
 ---
 id: vgango-battersea
 name: Vgango
@@ -1241,12 +1246,12 @@ open: yes
 id: woodlands-piccadilly-circus
 name: Woodlands (Piccadilly Circus)
 address: 37 Panton Street, SW1Y 4EA
-photo: https://www.flickr.com/photos/kake_pugh/3120498226
+photo: https://www.flickr.com/photos/kake_pugh/25935667713/
 rgl: http://london.randomness.org.uk/wiki.cgi?Woodlands,_SW1Y_4EA
 long: -0.131857
 lat: 51.509597
 open: yes
-checked: August 2009
+checked: April 2016
 ---
 id: woodlands-marylebone
 name: Woodlands (Marylebone)
