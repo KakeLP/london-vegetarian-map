@@ -1488,3 +1488,13 @@ description: Now closed.
 long: -0.132287
 lat: 51.513417
 open: no
+---
+id: zionly-manna-peckham
+name: Zionly Manna
+address: Unit 41, Rye Lane Market, 48 Rye Lane, Peckham, SE15 5BY
+description: Vegan Caribbean restaurant.
+twitter: ZionlyArts
+other_links: <li><a href="http://peckhampeculiar.tumblr.com/post/143782351389/the-taste-maker">Peckham Peculiar article</a></li>
+lat: 51.471211
+long: -0.069849685
+open: yes
