@@ -320,6 +320,16 @@ long: -0.113565
 lat: 51.461868
 open: no
 ---
+id: fed-by-water-dalston
+name: Fed By Water
+address: Unit 1b, Dalston Cross Shopping Centre, 64 Kingsland High Street, E8 2LX
+website: http://fedbywater.co.uk/
+description: Vegan Italian restaurant; previously omnivorous but <a href="http://fatgayvegan.com/2016/05/26/restaurant-ditches-meat-becomes-100-vegan/">switched to 100% vegan</a> in May 2016.
+phone: 020 7249 6242
+lat: 51.547900
+long: -0.075261980
+open: yes
+---
 id: food-for-thought-covent-garden
 name: Food For Thought
 address: 31 Neal Street, Covent Garden, WC2H 9PR
