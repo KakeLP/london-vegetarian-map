@@ -57,6 +57,16 @@ long: -0.125506
 lat: 51.51707
 open: no
 ---
+id: andu-cafe-dalston
+name: Andu Cafe
+address: 528 Kingsland Road, Dalston, E8 4AH
+phone: 020 7254 1780
+description: Vegan Ethiopian cafe.
+other_links: <li><a href="https://www.happycow.net/reviews/andu-caffe-east-london-56847">HappyCow</a></li>
+lat: 51.544494
+long: -0.075825647
+open: yes
+---
 id: ashna-hounslow
 name: Ashna
 address: 368 Staines Road, TW4 5BD
@@ -642,10 +652,9 @@ checked: September 2008
 id: maoz-falafel-soho
 name: Maoz Falafel
 address: 43 Old Compton Street, Soho, W1D 6HG
-website: http://www.maozusa.com/
 long: -0.132072
 lat: 51.512782
-open: yes
+open: no
 ---
 id: mary-ward-centre-cafe-bloomsbury
 name: Mary Ward Centre Cafe
