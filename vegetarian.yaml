@@ -837,6 +837,16 @@ lat: 51.527035
 open: yes
 checked: May 2015
 ---
+id: rawligion-fitzrovia
+name: Rawligion
+address: 3 Tottenham Street, Fitzrovia, W1T 2AF
+phone: 020 7580 8388
+twitter: Rawligion
+website: http://www.rawligion.co.uk/
+lat: 51.520679
+long: -0.13481507
+open: yes
+---
 id: redemption-notting-hill
 name: Redemption (Notting Hill)
 description: Vegan and alcohol-free bar and restaurant.  It has <a href="redemption-shoreditch.html">another branch in Shoreditch</a>.
@@ -1166,14 +1176,14 @@ checked: June 2009
 id: vegan-hippo-soho
 name: Vegan Hippo
 address: 52 Rupert Street, Soho, W1D 6DS
-twitter: VeganHippoSoho
-description: Vegan cafe in Soho.  According to their Facebook page as of 30 January 2016, they're closed "until further notice".
+twitter: Vegan_Hippo
+description: Vegan cafe in Soho.  It closed in early 2016 but reopened a few months later.
 fatgayvegan: http://fatgayvegan.com/2015/10/28/vegan-hippo-cafe-review/
 other_links: <li><a href="http://www.happycow.net/reviews/vegan-hippo-london-62262">Happy Cow</a></li>
 lat: 51.512233
 long: -0.13355349
-open: no
-checked: October 2015
+open: yes
+checked: May 2016
 ---
 id: veg-bar-brixton
 name: Veg Bar
