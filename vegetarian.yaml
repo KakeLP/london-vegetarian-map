@@ -912,6 +912,16 @@ lat: 51.49258
 open: yes
 checked: September 2011
 ---
+id: sagar-north-harrow
+name: Sagar (North Harrow)
+address: 57 Station Road, Harrow, HA2 7SR
+photo: https://www.flickr.com/photos/kake_pugh/28070644491/
+website: http://www.sagarveg.co.uk/
+lat: 51.585140
+long: -0.36193956
+open: yes
+checked: July 2016
+---
 id: sagar-twickenham
 name: Sagar (Twickenham)
 address: 27 York Street, Twickenham, TW1 3JZ
