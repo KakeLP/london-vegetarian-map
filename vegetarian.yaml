@@ -643,9 +643,10 @@ open: yes
 id: maat-centre-catford
 name: Ma'at Centre
 address: 129 Rushey Green, Catford, SE6 4AA
+description: Closed down by April 2012, according to Google Street View.
 long: -0.018904
 lat: 51.44639800000001
-open: yes
+open: no
 ---
 id: manna-primrose-hill
 name: Manna
