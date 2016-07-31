@@ -161,6 +161,7 @@ phone: 020 8806 2449
 twitter: CafeSoVegan
 description: Vegan cafe in a pub.
 fatgayvegan: http://fatgayvegan.com/2016/01/15/new-vegan-food-in-hackney/
+other_links: <li><a href="http://hackneycitizen.co.uk/2016/07/27/cafe-sovegan-clapton-restaurant-review/">Hackney Citizen review</a></li>
 lat: 51.562705
 long: -0.063203171
 open: yes
@@ -1228,11 +1229,12 @@ id: vijays-chawalla-upton-park
 name: Vijays Chawalla
 address: 268-270 Green Street, Upton Park, E7 8LF
 rgl: http://london.randomness.org.uk/wiki.cgi?Vijay%27s_Chawalla,_E7_8LF
+photo: https://www.flickr.com/photos/kake_pugh/28564071492/
 website: http://www.vijayschawalla.co.uk/
 long: 0.033302000000000005
 lat: 51.538501
 open: yes
-checked: May 2015
+checked: July 2016
 ---
 id: vx-lounge-kings-cross
 name: Vx Lounge
