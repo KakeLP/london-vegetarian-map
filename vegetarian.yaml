@@ -616,10 +616,10 @@ open: yes
 id: krishna-bhavan-ilford
 name: Krishna Bhavan
 address: Unit 2B, Clements Road, Ilford, IG1 1BP
-website: http://harekrishnabhavan.com/
+description: Now closed.
 long: 0.073852
 lat: 51.5578
-open: yes
+open: no
 ---
 id: the-larder-bethnal-green
 name: The Larder
