@@ -61,11 +61,13 @@ id: andu-cafe-dalston
 name: Andu Cafe
 address: 528 Kingsland Road, Dalston, E8 4AH
 phone: 020 7254 1780
+photo: https://www.flickr.com/photos/kake_pugh/28293591943/
 description: Vegan Ethiopian cafe.
 other_links: <li><a href="https://www.happycow.net/reviews/andu-caffe-east-london-56847">HappyCow</a></li>
 lat: 51.544494
 long: -0.075825647
 open: yes
+checked: August 2016
 ---
 id: ashna-hounslow
 name: Ashna
@@ -323,6 +325,7 @@ id: fed-by-water-dalston
 name: Fed By Water
 address: Unit 1b, Dalston Cross Shopping Centre, 64 Kingsland High Street, E8 2LX
 website: http://fedbywater.co.uk/
+photo: https://www.flickr.com/photos/kake_pugh/28623828430/
 description: Vegan Italian restaurant; previously omnivorous but <a href="http://fatgayvegan.com/2016/05/26/restaurant-ditches-meat-becomes-100-vegan/">switched to 100% vegan</a> in May 2016.
 phone: 020 7249 6242
 lat: 51.547900
