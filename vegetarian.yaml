@@ -613,6 +613,19 @@ long: -0.05128400000000001
 lat: 51.52829
 open: yes
 ---
+id: lighthouse-catford
+name: Lighthouse
+address: 7 Catford Broadway, SE6 4SP
+website: http://www.lighthousehealthyeating.co.uk/
+twitter: lighthouselove
+description: Vegetarian cafe in Catford, also catering well for vegans.  It has a lunchtime buffet with options of single-plate or all-you-can-eat.
+photo: https://www.flickr.com/photos/kake_pugh/28606591190/
+rgl: http://london.randomness.org.uk/wiki.cgi?Lighthouse,_SE6_4SP
+lat: 51.444984
+long: -0.022347763
+open: yes
+checked: August 2016
+---
 id: lovegift-vegan-honor-oak-park
 name: LoveGift Vegan Cafe
 address: 108 Brockley Rise, Honor Oak Park, SE23 1NH
