@@ -239,6 +239,19 @@ lat: 51.51324
 open: yes
 checked: June 2012
 ---
+id: coffee7-forest-gate
+name: CoffeE7
+address: 10 Sebert Road, Forest Gate, E7 0NQ
+description: Vegetarian cafe near Forest Gate Station.
+rgl: http://london.randomness.org.uk/wiki.cgi?CoffeE7,_E7_0NQ
+photo: https://www.flickr.com/photos/kake_pugh/28908958015/
+website: http://www.coffee7.co.uk/
+twitter: Coffee7FG
+lat: 51.550091
+long: 0.025412053
+open: yes
+checked: August 2016
+---
 id: cookdaily-shoreditch
 name: CookDaily
 address: Unit 55, BOXPARK, 2-10 Bethnal Green Road, Shoreditch, E1 6GY
