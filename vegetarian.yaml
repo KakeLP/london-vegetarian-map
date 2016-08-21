@@ -777,6 +777,16 @@ long: -0.200364
 lat: 51.516803
 open: yes
 ---
+id: old-school-hounslow
+name: Old School
+address: 248 Hanworth Road, Hounslow, TW3 3TY
+website: http://www.oldschoolveg.com/
+phone: 020 7018 7830
+fatgayvegan: http://fatgayvegan.com/2016/08/15/vegan-food-in-hounslow/
+lat: 51.464089
+long: -0.36518906
+open: yes
+---
 id: only-parathas-queensbury
 name: Only Parathas
 address: 238-240 Streatfield Road, Queensbury, HA3 9BX
