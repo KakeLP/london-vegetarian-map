@@ -131,10 +131,10 @@ checked: April 2014
 id: buttercream-dreams-camden-town
 name: Buttercream Dreams
 address: 126 Camden Road, NW1 9EE
-description: Vegan bakery and cafe, previously at the Project B events venue in Croydon, but moved to Camden in mid-2016.  Mainly cakes and things, but also a small amount of savoury food.
+description: Vegan bakery and cafe, previously at the Project B events venue in Croydon, but moved to Camden in mid-2016.  Mainly cakes and things, but also a small amount of savoury food.  It <a href="http://fatgayvegan.com/2016/08/26/cafe-in-camden-closing/">closed again</a> in August 2016.
 lat: 51.542293
 long: -0.13770957
-open: yes
+open: no
 ---
 id: cafe-crema-new-cross
 name: Cafe Crema
