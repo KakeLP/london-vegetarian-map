@@ -206,6 +206,17 @@ lat: 51.551909
 long: -0.29888754
 open: no
 ---
+id: chetnas-bhel-poori-house-kenton
+name: Chetna's Bhel Poori House
+address: 333a Kenton Road, HA3 0XS
+phone: 020 8907 5103
+description: Vegetarian Indian cafe.
+photo: https://www.flickr.com/photos/kake_pugh/29426434311/
+lat: 51.586553
+long: -0.30627702
+open: yes
+checked: September 2016
+---
 id: chutneys-drummond-street
 name: Chutneys
 address: 124 Drummond Street, Euston, NW1 2PA
@@ -642,6 +653,16 @@ long: -0.022347763
 open: yes
 checked: August 2016
 ---
+id: love-and-scandal-waterloo
+name: Love And Scandal
+address: 107 Lower Marsh, Waterloo, SE1 7AB
+website: http://www.loveandscandal.co.uk/
+twitter: ScandalCoffee
+description: <a href="http://fatgayvegan.com/2016/09/10/cafe-in-london-turns-vegan/">Became 100% vegan</a> in September 2016.
+lat: 51.501091
+long: -0.11239623
+open: yes
+---
 id: lovegift-vegan-honor-oak-park
 name: LoveGift Vegan Cafe
 address: 108 Brockley Rise, Honor Oak Park, SE23 1NH
@@ -704,6 +725,18 @@ fatgayvegan: http://fatgayvegan.com/2013/03/09/the-only-thing-that-helps-me-pass
 long: -0.12184200000000002
 lat: 51.521074
 open: yes
+---
+id: mayurs-kenton
+name: Mayur's
+address: 39 Kenton Park Parade, Kenton Road, HA3 8DN
+website: http://www.mayurs.co.uk/
+phone: 020 8907 2851
+photo: https://www.flickr.com/photos/kake_pugh/29426434761/
+description: Vegetarian Indian sweet shop, cafe, and catering service offering food free of onion and garlic.
+lat: 51.587381
+long: -0.30294840
+open: yes
+checked: September 2016
 ---
 id: mildreds-camden-town
 name: Mildreds (Camden Town)
@@ -841,7 +874,8 @@ id: rams-kenton
 name: Ram's
 address: 203 Kenton Road, Kenton, HA3 0HD
 website: http://www.ramsrestaurant.co.uk/
-other_links: <li><a href="http://tamarindandthyme.wordpress.com/2014/03/20/rams-restaurant-in-kenton/">Tamarind and Thyme review</a></li>
+photo: https://www.flickr.com/photos/kake_pugh/29217287990/
+rgl: http://london.randomness.org.uk/wiki.cgi?Ram%27s,_HA3_0HD
 long: -0.314744
 lat: 51.583168
 open: yes
@@ -926,7 +960,7 @@ open: yes
 id: rose-vegetarian-kingsbury
 name: Rose Vegetarian
 address: 532-534 Kingsbury Road, Kingsbury, NW9 9HH
-photo: http://www.flickr.com/photos/kake_pugh/9429390891/
+photo: https://www.flickr.com/photos/kake_pugh/29472331696/
 website: http://www.rosevegetarian.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Rose_Vegetarian,_NW9_9HH
 long: -0.277201
