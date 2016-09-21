@@ -209,6 +209,7 @@ open: no
 id: chetnas-bhel-poori-house-kenton
 name: Chetna's Bhel Poori House
 address: 333a Kenton Road, HA3 0XS
+website: http://www.chetnas.co.uk/
 phone: 020 8907 5103
 description: Vegetarian Indian cafe.
 photo: https://www.flickr.com/photos/kake_pugh/29426434311/
@@ -1025,6 +1026,17 @@ photo: https://www.flickr.com/photos/kake_pugh/9300803561
 website: http://www.sakonis.co.uk/
 long: -0.33254
 lat: 51.58616
+open: yes
+---
+id: salad-pride-neals-yeard
+name: Salad Pride
+address: 2 Neal's Yard, Covent Garden, WC2H 9DP
+description: Vegan cafe focusing on salads, soups, and cakes.
+website: http://www.saladpride.com/
+twitter: NealsYardPride
+fatgayvegan: http://fatgayvegan.com/2016/09/11/another-london-cafe-turns-vegan/
+lat: 51.514433
+long: -0.12637858
 open: yes
 ---
 id: santok-maa-thornton-heath
