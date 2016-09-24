@@ -218,6 +218,27 @@ long: -0.30627702
 open: yes
 checked: September 2016
 ---
+id: chini-chor-hounslow
+name: Chini Chor (Hounslow)
+address: 348 Bath Road, Hounslow, TW4 7HW
+website: http://www.chinichor.com/
+phone: 020 8570 3500
+description: Delhi and Mumbai chaat, Punjabi curries, and Indian-Chinese vegetatian food.
+other_links: <li><a href="http://www.indianewsbulletin.com/review-chini-chor-hounslow-southall">India Bulletin review</a></li>
+lat: 51.473414
+long: -0.38834994
+open: yes
+---
+id: chini-chor-southall
+name: Chini Chor (Southall)
+address: 86 South Road, Southall, UB1 1RD
+website: http://www.chinichor.com/
+phone: 020 8574 1807
+description: Delhi and Mumbai chaat, Punjabi curries, and Indian-Chinese vegetatian food.
+lat: 51.508656
+long: -0.37755673
+open: yes
+---
 id: chutneys-drummond-street
 name: Chutneys
 address: 124 Drummond Street, Euston, NW1 2PA
@@ -1037,6 +1058,15 @@ twitter: NealsYardPride
 fatgayvegan: http://fatgayvegan.com/2016/09/11/another-london-cafe-turns-vegan/
 lat: 51.514433
 long: -0.12637858
+open: yes
+---
+id: sangeetha-hounslow
+name: Sangeetha
+address: 320 Bath Road, Hounslow, TW4 7HW
+description: South Indian vegetarian
+website: http://sangeetharestaurants.com/sangeetha-hounslow-menu/
+lat: 51.473169
+long: -0.38732801
 open: yes
 ---
 id: santok-maa-thornton-heath
