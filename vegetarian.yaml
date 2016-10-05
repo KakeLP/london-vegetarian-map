@@ -545,6 +545,18 @@ lat: 51.52953800000001
 open: yes
 checked: May 2011
 ---
+id: jai-krishna-stroud-green
+name: Jai Krishna
+address: 161 Stroud Green Road, N4 3PZ
+phone: 020 7272 1680
+description: Indian vegetarian restaurant.
+photo: https://www.flickr.com/photos/kake_pugh/29500908433/
+timeout: http://www.timeout.com/london/restaurants/jai-krishna
+other_links: <li><a href="https://highteaandhighheels.com/2015/08/14/jai-krishna-a-southern-indian-vegetarian-in-finsbury-park/">High Tea and High Heels</a></li><li><a href="http://www.londoncheapeats.com/entries/aubergine-curry-with-sides-jai-krishna-775">London Cheap Eats</a></li>
+lat: 51.570096
+long: -0.11427109
+open: yes
+---
 id: jai-shri-krishna-turnpike-lane
 name: Jai Shri Krishna
 address: 10 Turnpike Lane, Hornsey, N8 0PT
@@ -707,6 +719,7 @@ checked: October 2011
 id: loving-hut-holloway-road
 name: Loving Hut (Holloway Road)
 address: 669 Holloway Road, N19 5SE
+photo: https://www.flickr.com/photos/kake_pugh/30094596236/
 description: Vegetarian and vegan Chinese food; plenty of fake meat as well as vegetable dishes.
 fatgayvegan: http://fatgayvegan.com/2013/12/03/loving-hut-vegan-archway-review/
 long: -0.133317
