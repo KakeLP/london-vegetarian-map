@@ -1236,6 +1236,26 @@ long: -0.120512
 lat: 51.489407
 open: yes
 ---
+id: super-singhs-hatton
+name: Super Singh's (Hatton)
+address: Faggs Road, Hatton, TW14 0NB
+twitter: SuperSinghs
+phone: 020 8384 3132
+description: Vegetarian pizza and burger place with an Indian-influenced menu.  It has <a href="super-singhs-southall.html">another branch in Southall</a>.
+lat: 51.464790
+long: -0.41688059
+open: yes
+---
+id: super-singhs-southall
+name: Super Singh's (Southall)
+address: 5 Western Road, Southall, UB2 5HA
+twitter: SuperSinghs
+phone: 020 8574 4471
+description: Vegetarian pizza and burger place with an Indian-influenced menu.  It has <a href="super-singhs-hatton.html">another branch in Hatton</a>.
+lat: 51.500836
+long: -0.38355683
+open: yes
+---
 id: supreme-sweets-kingsbury
 name: Supreme Sweets
 address: 706 Kenton Road, Kingsbury, HA3 9QX
@@ -1287,6 +1307,16 @@ website: http://tidetablescafe.com/
 fatgayvegan: http://fatgayvegan.com/2012/12/10/here-comes-the-rising-tide/
 long: -0.306544
 lat: 51.457604
+open: yes
+---
+id: cafe-van-gogh-brixton-road
+name: Cafe Van Gogh
+address: 88 Brixton Road, Stockwell, SW9 6BE
+website: http://www.cafevangogh.co.uk/
+description: Vegetarian and vegan cafe in (but independent of) a church.
+fatgayvegan: http://fatgayvegan.com/2016/10/07/sw9-vegan-brunch/
+lat: 51.477674
+long: -0.11249815
 open: yes
 ---
 id: vanilla-black-holborn
