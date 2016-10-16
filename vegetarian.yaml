@@ -845,6 +845,17 @@ long: -0.200364
 lat: 51.516803
 open: yes
 ---
+id: nutkin-peckham
+name: Nutkin
+address: Holdron's Arcade, 135a Rye Lane, SE15 4ST
+description: Gluten-free vegetarian cafe.
+website: http://www.wearenutkin.com/
+twitter: WeAreNutkin
+other_links: <li><a href="http://peckhampeculiar.tumblr.com/post/151615823484/customers-go-nuts-for-nutkin">Peckham Peculiar article</a></li>
+lat: 51.469722
+long: -0.067990512
+open: yes
+---
 id: old-school-hounslow
 name: Old School
 address: 248 Hanworth Road, Hounslow, TW3 3TY
