@@ -652,11 +652,13 @@ checked: June 2015
 id: koshari-street-covent-garden
 name: Koshari Street
 address: 56 St Martin's Lane, Covent Garden, WC2N 4EA
+description: Not actually closed, but no longer vegetarian - now serves meat.
+photo: https://www.flickr.com/photos/kake_pugh/30620709635/
 website: http://www.kosharistreet.com/
 fatgayvegan: http://fatgayvegan.com/2013/12/20/koshari-vegan-review/
 long: -0.12696
 lat: 51.510842
-open: yes
+open: no
 ---
 id: krishna-bhavan-ilford
 name: Krishna Bhavan
