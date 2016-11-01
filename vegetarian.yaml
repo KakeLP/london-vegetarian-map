@@ -898,6 +898,16 @@ long: -0.121327
 lat: 51.518527
 open: no
 ---
+id: paradise-unbakery-kensal-green
+name: Paradise Unbakery
+address: 59 Chamberlayne Road, Kensal Green, NW10 3ND
+description: Cafe offering raw and cooked vegan food as well as raw cakes.
+twitter: ParadiseUnbaker
+fatgayvegan: http://fatgayvegan.com/2016/10/31/new-vegan-cafe-in-london/
+lat: 51.533289
+long: -0.21835957
+open: yes
+---
 id: pepperton-selhurst
 name: Pepperton
 address: 25 Selhurst Road, SE25 5PP
