@@ -299,7 +299,7 @@ open: yes
 id: courthouse-garden-cafe-kennington
 name: Courthouse Garden Cafe
 address: Jamyang Buddhist Centre, 43 Renfrew Road, Kennington, SE11 4NA
-website: http://www.jamyang.co.uk/index.php/facilities/cafe-at-jamayag
+website: https://www.jamyang.co.uk/index.php/services/cafe-at-jamyang
 other_links: <li><a href="http://www.vegetarianliving.co.uk/placestogo.php?do=view&article=156">Vegetarian Living review</a></li><li><a href="http://kenningtonrunoff.com/cafe-at-jamyang-buddhist-centre/">Kennington Runoff review</a></li>
 long: -0.105717
 lat: 51.491875
@@ -904,6 +904,7 @@ address: 59 Chamberlayne Road, Kensal Green, NW10 3ND
 description: Cafe offering raw and cooked vegan food as well as raw cakes.
 twitter: ParadiseUnbaker
 fatgayvegan: http://fatgayvegan.com/2016/10/31/new-vegan-cafe-in-london/
+other_links: <li><a href="http://www.vegannigerian.com/2016/10/paradise-unbakery-vegan-cafe.html">Vegan Nigerian review</a></li>
 lat: 51.533289
 long: -0.21835957
 open: yes
