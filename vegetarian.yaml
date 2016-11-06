@@ -408,7 +408,7 @@ lat: 51.529759
 open: yes
 ---
 id: the-gate-hammersmith
-name: The Gate
+name: The Gate (Hammersmith)
 address: 51 Queen Caroline Street, Hammersmith, W6 9QL
 photo: http://www.flickr.com/photos/kake_pugh/3648910176/
 rgl: http://london.randomness.org.uk/wiki.cgi?Gate,_W6_9QL
@@ -417,7 +417,7 @@ lat: 51.490282
 open: yes
 ---
 id: the-gate-st-john-street
-name: The Gate
+name: The Gate (Islington)
 address: 370 St John Street, EC1V 4NN
 photo: https://www.flickr.com/photos/90117465@N00/14676756522/
 website: http://thegaterestaurants.com/islington.php
