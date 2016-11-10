@@ -308,6 +308,7 @@ open: yes
 id: diwana-bhel-poori-house-drummond-street
 name: Diwana Bhel-Poori House
 address: 121-123 Drummond Street, Euston, NW1 2HL
+website: http://www.diwanabph.com/
 photo: http://flickr.com/photos/kake_pugh/3133510715/
 rgl: http://london.randomness.org.uk/wiki.cgi?Diwana_Bhel-Poori_House,_NW1_2HL
 long: -0.136616
@@ -318,10 +319,10 @@ checked: November 2009
 id: diwana-bhel-poori-brick-lane
 name: Diwana Bhel Poori (Brick Lane)
 address: 96 Brick Lane, E1 6RL
-website: http://www.diwanabhelpoori.com/
+description: Closed down by October 2015.
 long: -0.071835
 lat: 51.519599
-open: yes
+open: no
 ---
 id: dou-dou-camden-town
 name: Dou Dou Restaurant
@@ -804,6 +805,17 @@ long: -0.136449
 lat: 51.513016
 open: yes
 checked: February 2008
+---
+id: mooshies-brick-lane
+name: Mooshies
+address: 104 Brick Lane, E1 6RL
+description: Vegan burgers, beers, and milkshakes.
+website: https://veganburger.org/
+phone: 07931 842458
+fatgayvegan: http://fatgayvegan.com/2016/11/07/new-vegan-burger-bar-in-london/
+lat: 51.519702
+long: -0.071735278
+open: yes
 ---
 id: ms-cupcake-brixton
 name: Ms Cupcake
