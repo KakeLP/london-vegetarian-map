@@ -412,16 +412,27 @@ id: the-gate-hammersmith
 name: The Gate (Hammersmith)
 address: 51 Queen Caroline Street, Hammersmith, W6 9QL
 photo: http://www.flickr.com/photos/kake_pugh/3648910176/
+website: http://thegaterestaurants.com/hammersmith/
 rgl: http://london.randomness.org.uk/wiki.cgi?Gate,_W6_9QL
 long: -0.225413
 lat: 51.490282
+open: yes
+---
+id: the-gate-marylebone
+name: The Gate (Marylebone)
+address: 22-24 Seymour Place, Marylebone, W1H 7NL
+website: http://thegaterestaurants.com/seymour-place/
+description: Opened in December 2016.
+phone: 020 7724 6656
+lat: 51.515079
+long: -0.16121377
 open: yes
 ---
 id: the-gate-st-john-street
 name: The Gate (Islington)
 address: 370 St John Street, EC1V 4NN
 photo: https://www.flickr.com/photos/90117465@N00/14676756522/
-website: http://thegaterestaurants.com/islington.php
+website: http://thegaterestaurants.com/islington/
 rgl: http://london.randomness.org.uk/wiki.cgi?Gate,_EC1V_4NN
 long: -0.105486
 lat: 51.530366
