@@ -1397,6 +1397,18 @@ lat: 51.539943
 open: yes
 checked: June 2009
 ---
+id: vegan-express-upper-tooting
+name: Vegan Express
+address: 913 Garratt Lane, Upper Tooting, SW17 0LT
+website: http://www.veganexpress.co.uk/
+twitter: Express_Vegan
+phone: 020 8127 6560
+description: Vegan restaurant.
+fatgayvegan: http://fatgayvegan.com/2017/01/03/vegan-dining-in-tooting/
+lat: 51.431526
+long: -0.17594446
+open: yes
+---
 id: vegan-hippo-soho
 name: Vegan Hippo
 address: 52 Rupert Street, Soho, W1D 6DS
