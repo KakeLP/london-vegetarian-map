@@ -389,6 +389,17 @@ long: -0.125678
 lat: 51.514138
 open: no
 ---
+id: full-nelson-deptford
+name: The Full Nelson
+address: 47 Deptford Broadway, SE8 4PH
+website: http://thefullnelsondeptford.co.uk/home/
+twitter: FullNelsonSE8
+description: Bar with vegetarian food.
+other_links: <li><a href="http://deptforddame.blogspot.co.uk/2017/01/new-deptford-eateries-full-nelson.html">Deptford Dame review</a></li>
+lat: 51.474721
+long: -0.025209680
+open: yes
+---
 id: g-and-t-bethnal-green
 name: G & T
 address: 204 Cambridge Heath Road, Bethnal Green, E2 9NQ
