@@ -660,6 +660,18 @@ long: -0.371314
 lat: 51.572119
 open: yes
 ---
+id: kathiawadi-cuisine-thornton-heath
+name: Kathiawadi Cuisine
+address: 844 London Road, Thornton Heath, CR7 7PA
+phone: 020 3620 7736
+photo: https://www.flickr.com/photos/kake_pugh/16208352918/
+rgl: http://london.randomness.org.uk/wiki.cgi?Kathiawadi_Cuisine,_CR7_7PA
+description: Gujarati cafe/restaurant specialising in food from the Kathiawad peninsula.  Most dishes can be made vegan on request.
+lat: 51.395708
+long: -0.11487
+open: yes
+checked: February 2017
+---
 id: kin-fitzrovia
 name: Kin
 address: 22 Foley Street, Fitzrovia, W1W 6DT
@@ -885,12 +897,14 @@ id: nutkin-peckham
 name: Nutkin
 address: Holdron's Arcade, 135a Rye Lane, SE15 4ST
 description: Gluten-free vegetarian cafe.
+photo: https://www.flickr.com/photos/kake_pugh/32684262085/
 website: http://www.wearenutkin.com/
 twitter: WeAreNutkin
 other_links: <li><a href="http://peckhampeculiar.tumblr.com/post/151615823484/customers-go-nuts-for-nutkin">Peckham Peculiar article</a></li>
 lat: 51.469722
 long: -0.067990512
 open: yes
+checked: February 2017
 ---
 id: old-school-hounslow
 name: Old School
@@ -1771,8 +1785,10 @@ id: zionly-manna-peckham
 name: Zionly Manna
 address: Unit 41, Rye Lane Market, 48 Rye Lane, Peckham, SE15 5BY
 description: Vegan Caribbean restaurant.
+photo: https://www.flickr.com/photos/kake_pugh/31872209073/
 twitter: ZionlyArts
 other_links: <li><a href="http://peckhampeculiar.tumblr.com/post/143782351389/the-taste-maker">Peckham Peculiar article</a></li>
 lat: 51.471211
 long: -0.069849685
 open: yes
+checked: February 2017
