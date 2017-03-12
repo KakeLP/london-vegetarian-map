@@ -1145,6 +1145,16 @@ lat: 51.514433
 long: -0.12637858
 open: yes
 ---
+id: sanctuary-fulham
+name: Sanctuary
+address: 651 Fulham Road, SW6 5PU
+description: Vegan cafe.
+fatgayvegan: http://fatgayvegan.com/2017/03/03/review-of-sanctuary-london/
+other_links: <li><a href="http://www.greenbaysupermarket.co.uk/blog/new-100-vegan-eatery-london">GreenBay review</a></li><li><a href="https://www.happycow.net/reviews/sanctuary-london-86137">HappyCow</a></li>
+lat: 51.479241
+long: -0.19941379
+open: yes
+---
 id: sangeetha-hounslow
 name: Sangeetha
 address: 320 Bath Road, Hounslow, TW4 7HW
@@ -1355,6 +1365,17 @@ website: http://www.tanyascafe.com/
 other_links: <li><a href="http://londontastin.com/post/96448612522/tanyas-cafe-raw-vegan-in-chelsea">London Tastin' review</a></li>
 long: -0.168545
 lat: 51.491917
+open: yes
+---
+id: temple-of-hackney
+name: Temple of Hackney
+address: 10 Morning Lane, Hackney, E9 6NA
+twitter: TempleOfSeitan
+description: Vegan "fried chicken" shop.
+fatgayvegan: http://fatgayvegan.com/2017/02/24/temple-of-hackney-update/
+other_links: <li><a href="https://www.happycow.net/reviews/temple-of-hackney-east-london-77702">HappyCow</a></li>
+lat: 51.545915
+long: -0.054196313
 open: yes
 ---
 id: tibits-mayfair
