@@ -41,7 +41,7 @@ name: Amico Bio (EC1)
 address: 44 Cloth Fair, EC1A 7JQ
 description: The original branch.  It used to have <a href="amico-bio-new-oxford-street.html">another branch in Holborn</a>, but that one has now closed.
 website: http://www.amicobio.co.uk/
-other_links: <li><a href="http://www.thisislondon.co.uk/restaurants/review-23829226-go-green-for-a-taste-of-naples-at-amico-bio.do">Fay Maschler</a></li>
+other_links: <li><a href="http://www.standard.co.uk/goingout/restaurants/go-green-for-a-taste-of-naples-at-amico-bio-7419657.html">Fay Maschler's review in the Evening Standard</a></li>
 long: -0.099687
 lat: 51.519075
 open: yes
@@ -334,16 +334,6 @@ lat: 51.539641
 long: -0.14221434
 open: yes
 ---
-id: down-to-earth-kensington
-name: Down To Earth
-address: 240-242 Kensington High Street, W8 6ND.
-description: Previously known as Luscious Organics.
-website: http://www.downtoearth.co.uk/
-fatgayvegan: http://fatgayvegan.com/2013/08/17/vegan-breakfast-kensington-london-review/
-long: -0.19958900000000002
-lat: 51.498839
-open: yes
----
 id: ethos-soho
 name: Ethos
 address: 48 Eastcastle Street, Soho, W1W 8DX
@@ -463,7 +453,7 @@ checked: May 2009
 id: grass-roots-peckham
 name: Grass Roots
 address: 194 Bellenden Road, Peckham, SE15 4BW
-other_links: <li><a href="http://www.londonlesbianvegans.org/locations/2220.html">London Lesbian Vegans review</a></li>
+other_links: <li><a href="http://web.archive.org/web/20090922205813/http://www.londonlesbianvegans.org/locations/2220.html">London Lesbian Vegans review</a></li>
 yelp: http://www.yelp.co.uk/biz/grass-roots-wholefoods-london
 long: -0.073203
 lat: 51.466628
@@ -481,7 +471,6 @@ id: greens-and-beans-drummond-street
 name: Greens and Beans
 address: 131 Drummond Street, Euston, NW1 2HL
 description: Closed down some time between 2009 and 2012.
-website: http://www.greensandbeans.co.uk/
 long: -0.136699
 lat: 51.527065
 open: no
@@ -501,6 +490,17 @@ address: Arch 393, Mentmore Terrace, Hackney, E8 3PH
 timeout: http://www.timeout.com/london/restaurants/happy-kitchen
 long: -0.057598
 lat: 51.540994
+open: yes
+---
+id: the-hive-kensington
+name: The Hive
+address: 240-242 Kensington High Street, W8 6ND
+description: Previously Luscious Organics and Down To Earth.
+website: http://www.thehivekensington.com/
+yelp: https://www.yelp.com/biz/the-hive-london-7
+other_links: <li><a href="https://www.happycow.net/reviews/the-hive-west-london-34614">HappyCow</a></li>
+lat: 51.498839
+long: -0.19958900000000002
 open: yes
 ---
 id: honey-hive-sydenham
@@ -654,11 +654,12 @@ open: no
 id: karma-free-pizza-company-rayners-lane
 name: Karma Free Pizza Company
 address: 387 Alexandra Avenue, Rayners Lane, HA2 9EF
-website: https://sites.google.com/site/karmafreepizza/
+description: Closed down by mid-2014.
 fatgayvegan: http://fatgayvegan.com/2012/06/20/cheesy-vegan-stuffed-crust-deep-dish-pizza-do-i-have-your-attention/
+other_links: <li><a href="https://www.happycow.net/reviews/the-karma-free-pizza-company-north-west-london-27982">HappyCow</a></li>
 long: -0.371314
 lat: 51.572119
-open: yes
+open: no
 ---
 id: kathiawadi-cuisine-thornton-heath
 name: Kathiawadi Cuisine
@@ -1058,7 +1059,7 @@ checked: July 2016
 id: riverside-vegetaria-kingston
 name: Riverside Vegetaria
 address: 64 High Street, Kingston, KT1 1HN
-website: http://www.rsveg.plus.com/
+website: http://riversidevegetaria.co.uk/
 timeout: http://www.timeout.com/london/restaurants/riverside-vegetaria
 long: -0.308089
 lat: 51.406983
@@ -1264,7 +1265,6 @@ id: shaolin-restaurant-upper-holloway
 name: Shaolin Restaurant
 address: 207A Junction Road, Upper Holloway, N19 5QA
 description: Chinese vegetarian restaurant, part of the Shaolin Temple.  Closed down in November 2013, and as of August 2014 it's still closed and they're not sure when it's going to reopen.
-website: http://www.shaolinrestaurant.org/
 long: -0.137214
 lat: 51.5593
 open: no
@@ -1313,10 +1313,10 @@ open: yes
 id: spring-gardens-cafe-vauxhall
 name: Spring Gardens Cafe
 address: 100 Vauxhall Walk, SE11 5EL
-website: http://www.springgardenscafe.co.uk/
+website: http://web.archive.org/web/20100823025823/http://springgardenscafe.co.uk/
 long: -0.120512
 lat: 51.489407
-open: yes
+open: no
 ---
 id: super-singhs-hatton
 name: Super Singh's (Hatton)
@@ -1559,6 +1559,7 @@ open: yes
 id: woodlands-piccadilly-circus
 name: Woodlands (Piccadilly Circus)
 address: 37 Panton Street, SW1Y 4EA
+website: http://www.woodlandsrestaurant.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/25935667713/
 rgl: http://london.randomness.org.uk/wiki.cgi?Woodlands,_SW1Y_4EA
 long: -0.131857
@@ -1569,6 +1570,7 @@ checked: April 2016
 id: woodlands-marylebone
 name: Woodlands (Marylebone)
 address: 77 Marylebone Lane, W1U 2PS
+website: http://www.woodlandsrestaurant.co.uk/
 photo: http://flickr.com/photos/kake_pugh/2564790928/
 rgl: http://london.randomness.org.uk/wiki.cgi?Woodlands,_W1U_2PS
 long: -0.151126
@@ -1579,7 +1581,7 @@ checked: June 2008
 id: woodlands-hampstead
 name: Woodlands (Hampstead)
 address: 102 Heath Street, Hampstead, NW3 1DR
-website: http://www.woodlandsrestaurant.co.uk/branch2.html
+website: http://www.woodlandsrestaurant.co.uk/
 long: -0.17851700000000004
 lat: 51.558757
 open: yes
@@ -1598,7 +1600,7 @@ name: Blah Blah Blah
 address: 157 Heath Road, Twickenham, TW1 4BH
 description: Previously at 78 Goldhawk Road, W12 8HA (pictured); moved to Twickenham in late 2012, then closed.
 photo: https://www.flickr.com/photos/kake_pugh/3579064271
-website: http://blahvegetarian.com/
+website: http://web.archive.org/web/20130809013359/http://www.blahvegetarian.com/
 other_links: <li><a href="http://www.tohappyvegans.com/wordpress/blah-blah-bla-shepherds-bush/">To Happy Vegans review</a></li><li><a href="http://www.grumblinggourmet.com/2010/06/review-of-blah-blah-blah-june-2010.html">Grumbling Gourmet review</a></li>
 long: -0.337524
 lat: 51.44522800000001
@@ -1608,7 +1610,7 @@ id: cafe-luna-harringay
 name: Cafe Luna
 address: 386 Green Lanes, Harringay, N4 1DW
 description: Opened in mid-2010, closed a few months later.
-website: http://cafe-luna.co.uk/
+website: http://web.archive.org/web/20101222074340/http://cafe-luna.co.uk/
 other_links: <li><a href="http://www.harringayonline.com/forum/topics/la-luna-vegetarian-restaurant">Harringay Online</a></li>
 long: -0.098276
 lat: 51.575109
@@ -1760,7 +1762,7 @@ id: spirited-palace-crystal-palace
 name: Spirited Palace
 address: 105 Church Road, Crystal Palace, SE19 2PR
 description: Vegan Caribbean restaurant attached to a health food shop.  Now closed.
-other_links: <li><a href="http://www.veggieplaces.co.uk/list_reviews.php?place_id=2333">Veggie Places</a></li><li><a href="http://www.happycow.net/reviews.php?id=13495">HappyCow</a></li>
+other_links: <li><a href="http://web.archive.org/web/20111216132923/http://www.veggieplaces.co.uk/list_reviews.php?place_id=2333">Veggie Places</a></li><li><a href="http://www.happycow.net/reviews.php?id=13495">HappyCow</a></li>
 long: -0.081174
 lat: 51.416726000000004
 open: no
@@ -1787,7 +1789,7 @@ id: veggie-inn-harrow
 name: Veggie Inn
 address: 123 Headstone Road, Harrow, HA1 1PG
 description: Closed in late 2011.
-other_links: <li><a href="http://www.veggieplaces.co.uk/list_reviews.php?place_id=355">Veggie Places comments</a></li>
+other_links: <li><a href="http://web.archive.org/web/20060928094420/http://www.veggieplaces.co.uk/list_reviews.php?place_id=355">Veggie Places comments</a></li>
 yelp: http://www.yelp.co.uk/biz/veggie-inn-harrow
 long: -0.34107
 lat: 51.583737000000006
@@ -1796,7 +1798,6 @@ open: no
 id: zilli-green-soho
 name: Zilli Green
 address: 41 Dean Street, Soho, W1D 4PY
-website: http://www.zillirestaurants.co.uk/green/
 description: Now closed.
 long: -0.132287
 lat: 51.513417
