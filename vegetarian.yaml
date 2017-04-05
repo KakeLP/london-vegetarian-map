@@ -374,8 +374,9 @@ name: The Fields Beneath
 address: 52A Prince of Wales Road, Kentish Town, NW5 3LN
 twitter: FieldsBeneath
 phone: 020 7424 8838
-description: Cafe and coffee shop at Kentish Town West Station.
+description: Vegan cafe and coffee shop at Kentish Town West Station.
 fatgayvegan: http://fatgayvegan.com/2017/01/26/non-vegan-cafe-switching-to-vegan/
+other_links: <li><a href="http://www.kentishtowner.co.uk/2017/03/29/fields-beneath-gone-vegan/">Kentish Towner</a></li>
 lat: 51.546530
 long: -0.14665702
 open: yes
@@ -977,6 +978,18 @@ yelp: http://www.yelp.co.uk/biz/peppertons-london
 long: -0.089757
 lat: 51.389231
 open: no
+---
+id: picky-wops-fulham
+name: Picky Wops
+address: Unit 7, Shopping Palace, 347 North End Road, Fulham, SW6 1NN
+website: http://www.pickywops.com/
+twitter: PickyWops
+phone: 07552 085472
+description: Vegan pizzeria.
+fatgayvegan: http://fatgayvegan.com/2017/04/02/london-pizza-shop-turns-vegan/
+lat: 51.484682
+long: -0.20184387
+open: yes
 ---
 id: pilpel-spitalfields
 name: Pilpel
