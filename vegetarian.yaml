@@ -989,6 +989,18 @@ lat: 51.518971
 open: yes
 checked: May 2011
 ---
+id: radhika-sweet-mart-harrow
+name: Radhika Sweet Mart
+address: 63 Station Road, Harrow, HA1 2TY
+phone: 020 8424 2752
+website: http://www.radhikasweetmart.com/
+photo: https://www.flickr.com/photos/kake_pugh/33663138095/
+description: Vegetarian Indian cafe.
+lat: 51.587113
+long: -0.33223142
+open: yes
+checked: March 2017
+---
 id: rams-kenton
 name: Ram's
 address: 203 Kenton Road, Kenton, HA3 0HD
@@ -1303,15 +1315,15 @@ open: yes
 ---
 id: shree-krishna-vada-pav-harrow
 name: Shree Krishna Vada Pav (Harrow)
-address: 63 Station Road, Harrow, HA1 2TY
-description: Indian cafe specialising in Mumbai snacks.
+address: 55 Station Road, Harrow, HA1 2TY
+description: Indian cafe specialising in Mumbai snacks.  Previously at number 63, but moved to number 55 around 2014-ish.
 website: http://www.shreekrishnavadapav.com/
-photo: http://www.flickr.com/photos/kake_pugh/9303288938/
+photo: https://www.flickr.com/photos/kake_pugh/33622063036/
 rgl: http://london.randomness.org.uk/wiki.cgi?Shree_Krishna_Vada_Pav,_HA1_2TY
-lat: 51.586609
-long: -0.330658
+lat: 51.587340
+long: -0.33225019
 open: yes
-checked: July 2013
+checked: March 2017
 ---
 id: shree-krishna-vada-pav-hounslow
 name: Shree Krishna Vada Pav (Hounslow)
@@ -1320,6 +1332,16 @@ description: Indian cafe specialising in Mumbai snacks.
 website: http://www.shreekrishnavadapav.com/
 lat: 51.469455
 long: -0.35924086
+open: yes
+---
+id: shree-sai-vada-pav-rayners-lane
+name: Shree Sai Vada Pav
+address: 332 Rayners Lane, HA5 5ED
+website: http://shreesaivadapav.com/
+phone: 020 3302 7613
+description: Indian cafe specialising in Mumbai snacks.
+lat: 51.575828
+long: -0.37069698
 open: yes
 ---
 id: smithfield-tavern-clerkenwell
@@ -1612,10 +1634,10 @@ id: yummy-v-harrow
 name: Yummy V
 address: 55 Station Road, Harrow, HA1 2TY
 photo: https://www.flickr.com/photos/kake_pugh/9300187627
-website: http://www.yummyv.co.uk/
+description: Closed down by mid-2014 and replaced by <a href="/venues/shree-krishna-vada-pav-harrow.html">Shree Krishna Vada Pav</a>.
 long: -0.332133
 lat: 51.587223
-open: yes
+open: no
 ---
 id: blah-blah-blah
 name: Blah Blah Blah
