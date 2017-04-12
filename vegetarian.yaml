@@ -17,6 +17,18 @@ lat: 51.485966
 open: yes
 checked: June 2009
 ---
+id: ahimsa-pinner
+name: Ahimsa
+address: 7 Red Lion Parade, Bridge Street, Pinner, HA5 3JD
+website: http://ahimsathevegancafe.com/
+phone: 020 7018 2133
+description: Vegan cafe.
+fatgayvegan: http://fatgayvegan.com/2017/04/11/vegan-cafe-in-pinner/
+other_links: <li><a href="https://www.happycow.net/reviews/ahimsa-the-vegan-cafe-north-west-london-83881">Happy Cow comments</a></li>
+lat: 51.594587
+long: -0.38267304
+open: yes
+---
 id: alara-wholefoods-bloomsbury
 name: Alara Wholefoods
 address: 58-60 Marchmont Street, Bloomsbury, WC1N 1AB
