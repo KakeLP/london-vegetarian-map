@@ -24,7 +24,7 @@ website: http://ahimsathevegancafe.com/
 phone: 020 7018 2133
 description: Vegan cafe.
 fatgayvegan: http://fatgayvegan.com/2017/04/11/vegan-cafe-in-pinner/
-other_links: <li><a href="https://www.happycow.net/reviews/ahimsa-the-vegan-cafe-north-west-london-83881">Happy Cow comments</a></li>
+happycow: https://www.happycow.net/reviews/ahimsa-the-vegan-cafe-north-west-london-83881
 lat: 51.594587
 long: -0.38267304
 open: yes
@@ -43,7 +43,7 @@ id: alkarmel-cafe-clapham
 name: Alkarmel Cafe
 address: 95 Landor Road, Clapham, SW9 9PH
 twitter: alkarmel_cafe
-other_links: <li><a href="http://www.brixtonblog.com/vegging-in-brixton-our-meat-free-recommendations/11609">Brixton Blog (scroll down)</a></li>
+brixtonblog: http://www.brixtonblog.com/vegging-in-brixton-our-meat-free-recommendations/11609
 long: -0.12577400000000002
 lat: 51.465812
 open: yes
@@ -53,7 +53,7 @@ name: Amico Bio (EC1)
 address: 44 Cloth Fair, EC1A 7JQ
 description: The original branch.  It used to have <a href="amico-bio-new-oxford-street.html">another branch in Holborn</a>, but that one has now closed.
 website: http://www.amicobio.co.uk/
-other_links: <li><a href="http://www.standard.co.uk/goingout/restaurants/go-green-for-a-taste-of-naples-at-amico-bio-7419657.html">Fay Maschler's review in the Evening Standard</a></li>
+eveningstandard: http://www.standard.co.uk/goingout/restaurants/go-green-for-a-taste-of-naples-at-amico-bio-7419657.html
 long: -0.099687
 lat: 51.519075
 open: yes
@@ -125,7 +125,6 @@ checked: November 2014
 id: blue-brick-cafe-east-dulwich
 name: Blue Brick Cafe
 address: 14 Fellbrigg Road, East Dulwich, SE22 9HH
-other_links: <li><a href="http://www.eastdulwichforum.co.uk/forum/read.php?30,606220,606918">East Dulwich forum thread</a></li>
 long: -0.073321
 lat: 51.456989
 open: yes
@@ -163,7 +162,7 @@ name: Cafe Morningside
 address: Morningside Community Centre, Cresset Road, Hackney, E9 6SJ
 website: http://cafemorningside.wordpress.com/
 phone: 07587 083131
-other_links: <li><a href="http://hackneycitizen.co.uk/2014/09/03/community-cafe-opens-on-morningside-estate/?utm_source=rss&utm_medium=rss&utm_campaign=community-cafe-opens-on-morningside-estate">Hackney Citizen article</a></li>
+hackneycitizen: http://hackneycitizen.co.uk/2014/09/03/community-cafe-opens-on-morningside-estate/
 lat: 51.544637
 long: -0.048396975
 open: yes
@@ -175,7 +174,7 @@ phone: 020 8806 2449
 twitter: CafeSoVegan
 description: Vegan cafe in a pub.
 fatgayvegan: http://fatgayvegan.com/2016/01/15/new-vegan-food-in-hackney/
-other_links: <li><a href="http://hackneycitizen.co.uk/2016/07/27/cafe-sovegan-clapton-restaurant-review/">Hackney Citizen review</a></li>
+hackneycitizen: http://hackneycitizen.co.uk/2016/07/27/cafe-sovegan-clapton-restaurant-review/
 lat: 51.562705
 long: -0.063203171
 open: yes
@@ -213,7 +212,9 @@ name: Chennai Dosa (Wembley)
 address: 3 Ealing Road, Wembley, HA0 2AA
 description: "Now closed; as of 2015 the premises are occupied by Kailash Parbat.  This was two restaurants side by side; one veggie, one non-veggie, with separate kitchens.  The entrance to the veg side was on Ealing Road and the entrance to the non-veg side was on Wembley High Road (and sometimes used the address 529 High Road, HA0 2DH)."
 yelp: http://www.yelp.co.uk/biz/chennai-dosa-wembley
-other_links: <li><a href="http://tamarindandthyme.wordpress.com/2011/06/17/chennai-dosa-and-its-family-dosa/">Tamarind And Thyme review</a></li><li><a href="http://eatlovenoodles.blogspot.com/2011/07/family-dosa-chennai-dosa.html">Eat Noodles Love Noodles review</a></li><li><a href="http://fussyveggie.blogspot.com/2009/05/chennai-dosa-wembley.html">Fussy Veggie review</a></li>
+sulin: http://tamarindandthyme.wordpress.com/2011/06/17/chennai-dosa-and-its-family-dosa/
+sung: http://eatlovenoodles.blogspot.com/2011/07/family-dosa-chennai-dosa.html
+fussyveggie: http://fussyveggie.blogspot.com/2009/05/chennai-dosa-wembley.html
 lat: 51.551909
 long: -0.29888754
 open: no
@@ -236,7 +237,7 @@ address: 348 Bath Road, Hounslow, TW4 7HW
 website: http://www.chinichor.com/
 phone: 020 8570 3500
 description: Delhi and Mumbai chaat, Punjabi curries, and Indian-Chinese vegetatian food.
-other_links: <li><a href="http://www.indianewsbulletin.com/review-chini-chor-hounslow-southall">India Bulletin review</a></li>
+indiabulletin: http://www.indianewsbulletin.com/review-chini-chor-hounslow-southall
 lat: 51.473414
 long: -0.38834994
 open: yes
@@ -303,7 +304,7 @@ address: Unit 55, BOXPARK, 2-10 Bethnal Green Road, Shoreditch, E1 6GY
 website: https://www.boxpark.co.uk/brand/cook-daily/
 twitter: KingCookDaily
 description: Vegan food in the BOXPARK shoppping centre.
-other_links: <li><a href="http://flickingthevs.blogspot.co.uk/2015/08/lovegift-and-cookdaily-two-excellent.html">Flicking The Vs review</a></li>
+flickingthevs: http://flickingthevs.blogspot.co.uk/2015/08/lovegift-and-cookdaily-two-excellent.html
 lat: 51.523482
 long: -0.075962439
 open: yes
@@ -312,7 +313,8 @@ id: courthouse-garden-cafe-kennington
 name: Courthouse Garden Cafe
 address: Jamyang Buddhist Centre, 43 Renfrew Road, Kennington, SE11 4NA
 website: https://www.jamyang.co.uk/index.php/services/cafe-at-jamyang
-other_links: <li><a href="http://www.vegetarianliving.co.uk/placestogo.php?do=view&article=156">Vegetarian Living review</a></li><li><a href="http://kenningtonrunoff.com/cafe-at-jamyang-buddhist-centre/">Kennington Runoff review</a></li>
+vegliving: http://www.vegetarianliving.co.uk/placestogo.php?do=view&article=156
+kenningtonrunoff: http://kenningtonrunoff.com/cafe-at-jamyang-buddhist-centre/
 long: -0.105717
 lat: 51.491875
 open: yes
@@ -341,7 +343,7 @@ name: Dou Dou Restaurant
 address: 6 Kentish Town Road, Camden Town, NW1 9NX
 description: All-you-can-eat Chinese buffet.
 fatgayvegan: http://fatgayvegan.com/2016/01/15/vegan-restaurant-not-closed/
-other_links: <li><a href="http://www.happycow.net/reviews/dou-dou-north-west-london-701">Happy Cow comments</a></li>
+happycow: http://www.happycow.net/reviews/dou-dou-north-west-london-701
 lat: 51.539641
 long: -0.14221434
 open: yes
@@ -388,7 +390,7 @@ twitter: FieldsBeneath
 phone: 020 7424 8838
 description: Vegan cafe and coffee shop at Kentish Town West Station.
 fatgayvegan: http://fatgayvegan.com/2017/01/26/non-vegan-cafe-switching-to-vegan/
-other_links: <li><a href="http://www.kentishtowner.co.uk/2017/03/29/fields-beneath-gone-vegan/">Kentish Towner</a></li>
+kentishtowner: http://www.kentishtowner.co.uk/2017/03/29/fields-beneath-gone-vegan/
 lat: 51.546530
 long: -0.14665702
 open: yes
@@ -409,7 +411,7 @@ address: 47 Deptford Broadway, SE8 4PH
 website: http://thefullnelsondeptford.co.uk/home/
 twitter: FullNelsonSE8
 description: Bar with vegetarian food.
-other_links: <li><a href="http://deptforddame.blogspot.co.uk/2017/01/new-deptford-eateries-full-nelson.html">Deptford Dame review</a></li>
+deptforddame: http://deptforddame.blogspot.co.uk/2017/01/new-deptford-eateries-full-nelson.html
 lat: 51.474721
 long: -0.025209680
 open: yes
@@ -477,7 +479,7 @@ checked: May 2009
 id: grass-roots-peckham
 name: Grass Roots
 address: 194 Bellenden Road, Peckham, SE15 4BW
-other_links: <li><a href="http://web.archive.org/web/20090922205813/http://www.londonlesbianvegans.org/locations/2220.html">London Lesbian Vegans review</a></li>
+lesbianveg: http://web.archive.org/web/20090922205813/http://www.londonlesbianvegans.org/locations/2220.html
 yelp: http://www.yelp.co.uk/biz/grass-roots-wholefoods-london
 long: -0.073203
 lat: 51.466628
@@ -522,7 +524,7 @@ address: 240-242 Kensington High Street, W8 6ND
 description: Previously Luscious Organics and Down To Earth.
 website: http://www.thehivekensington.com/
 yelp: https://www.yelp.com/biz/the-hive-london-7
-other_links: <li><a href="https://www.happycow.net/reviews/the-hive-west-london-34614">HappyCow</a></li>
+happycow: https://www.happycow.net/reviews/the-hive-west-london-34614
 lat: 51.498839
 long: -0.19958900000000002
 open: yes
@@ -556,7 +558,7 @@ website: http://iklectikartlab.com/
 twitter: iklectikartlab
 phone: 07809 727199
 description: Fully licensed vegetarian and vegan cafe in an arts space.
-other_links: <a href="http://kenningtonrunoff.com/the-top-ten-best-lunch-spots-in-kennington-no-6-iklectik/">Kennington Runoff review</a></li>
+kenningtonrunoff: http://kenningtonrunoff.com/the-top-ten-best-lunch-spots-in-kennington-no-6-iklectik/
 lat: 51.498471
 long: -0.11647721
 open: yes
@@ -599,7 +601,8 @@ phone: 020 7272 1680
 description: Indian vegetarian restaurant.
 photo: https://www.flickr.com/photos/kake_pugh/29500908433/
 timeout: http://www.timeout.com/london/restaurants/jai-krishna
-other_links: <li><a href="https://highteaandhighheels.com/2015/08/14/jai-krishna-a-southern-indian-vegetarian-in-finsbury-park/">High Tea and High Heels</a></li><li><a href="http://www.londoncheapeats.com/entries/aubergine-curry-with-sides-jai-krishna-775">London Cheap Eats</a></li>
+highteaheels: https://highteaandhighheels.com/2015/08/14/jai-krishna-a-southern-indian-vegetarian-in-finsbury-park/
+cheapeats: http://www.londoncheapeats.com/entries/aubergine-curry-with-sides-jai-krishna-775
 lat: 51.570096
 long: -0.11427109
 open: yes
@@ -680,7 +683,7 @@ name: Karma Free Pizza Company
 address: 387 Alexandra Avenue, Rayners Lane, HA2 9EF
 description: Closed down by mid-2014.
 fatgayvegan: http://fatgayvegan.com/2012/06/20/cheesy-vegan-stuffed-crust-deep-dish-pizza-do-i-have-your-attention/
-other_links: <li><a href="https://www.happycow.net/reviews/the-karma-free-pizza-company-north-west-london-27982">HappyCow</a></li>
+happycow: https://www.happycow.net/reviews/the-karma-free-pizza-company-north-west-london-27982
 long: -0.371314
 lat: 51.572119
 open: no
@@ -762,7 +765,8 @@ open: yes
 id: lovegift-vegan-honor-oak-park
 name: LoveGift Vegan Cafe
 address: 108 Brockley Rise, Honor Oak Park, SE23 1NH
-other_links: <li><a href="http://flickingthevs.blogspot.co.uk/2015/08/lovegift-and-cookdaily-two-excellent.html">Flicking The Vs review</a> (scroll down)</li><li><a href="http://www.happycow.net/reviews/lovegift-vegan-cafe-south-east-london-57965">Happy Cow comments</a></li>
+flickingthevs: http://flickingthevs.blogspot.co.uk/2015/08/lovegift-and-cookdaily-two-excellent.html
+happycow: http://www.happycow.net/reviews/lovegift-vegan-cafe-south-east-london-57965
 lat: 51.448738
 long: -0.039800495
 open: yes
@@ -817,7 +821,7 @@ id: mary-ward-centre-cafe-bloomsbury
 name: Mary Ward Centre Cafe
 address: 42 Queen Square, Bloomsbury, WC1N 3AQ
 description: Only open in term-time.
-other_links: <li><a href="http://eatandbemerryfortomorrowwediet.blogspot.com/2011/03/mary-ward-centre-cafe.html">Eat And Be Merry review</a></li>
+eatandbemerry: http://eatandbemerryfortomorrowwediet.blogspot.co.uk/2011/03/mary-ward-centre-cafe.html
 fatgayvegan: http://fatgayvegan.com/2013/03/09/the-only-thing-that-helps-me-pass-the-time-away/
 long: -0.12184200000000002
 lat: 51.521074
@@ -883,7 +887,6 @@ description: Vegan bakery with cafe seating.
 website: http://www.mscupcake.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/26542290102/
 fatgayvegan: http://fatgayvegan.com/2011/04/01/cupcakes-in-the-capital/
-other_links: <a href="http://www.sustainweb.org/jelliedeel/articles/193/">Jellied Eel article</a></li>
 lat: 51.461711
 long: -0.11327156
 open: yes
@@ -894,7 +897,7 @@ name: Museum of Garden History cafe (Garden Cafe)
 address: Lambeth Palace Road, SE1 7LB
 website: http://www.gardenmuseum.org.uk/visitingthemuseum/the_garden_cafe.html
 chowhound: http://chowhound.chow.com/topics/670751
-other_links: <li><a href="http://www.veggieheaven.com/uk/england/The_Garden_Cafe_6432/">Veggie Heaven</a></li>
+veggieheaven: http://www.veggieheaven.com/uk/england/The_Garden_Cafe_6432/
 long: -0.12033500000000001
 lat: 51.495132
 open: yes
@@ -902,7 +905,7 @@ open: yes
 id: my-village-camden-town
 name: My Village
 address: 37 Chalk Farm Road, Camden Town, NW1 8AJ
-other_links: <li><a href="http://www.thecnj.com/review/2008/040308/rest040308_01html.html">Camden New Journal article</a></li>
+cnj: http://www.thecnj.com/review/2008/040308/rest040308_01html.html
 yelp: http://www.yelp.co.uk/biz/my-village-cafe-london
 long: -0.148085
 lat: 51.542749
@@ -925,7 +928,7 @@ description: Gluten-free vegetarian cafe.
 photo: https://www.flickr.com/photos/kake_pugh/32684262085/
 website: http://www.wearenutkin.com/
 twitter: WeAreNutkin
-other_links: <li><a href="http://peckhampeculiar.tumblr.com/post/151615823484/customers-go-nuts-for-nutkin">Peckham Peculiar article</a></li>
+peckhampeculiar: http://peckhampeculiar.tumblr.com/post/151615823484/customers-go-nuts-for-nutkin
 lat: 51.469722
 long: -0.067990512
 open: yes
@@ -977,7 +980,7 @@ address: 59 Chamberlayne Road, Kensal Green, NW10 3ND
 description: Cafe offering raw and cooked vegan food as well as raw cakes.
 twitter: ParadiseUnbaker
 fatgayvegan: http://fatgayvegan.com/2016/10/31/new-vegan-cafe-in-london/
-other_links: <li><a href="http://www.vegannigerian.com/2016/10/paradise-unbakery-vegan-cafe.html">Vegan Nigerian review</a></li>
+vegannigerian: http://www.vegannigerian.com/2016/10/paradise-unbakery-vegan-cafe.html
 lat: 51.533289
 long: -0.21835957
 open: yes
@@ -1199,7 +1202,7 @@ name: Sanctuary
 address: 651 Fulham Road, SW6 5PU
 description: Vegan cafe.
 fatgayvegan: http://fatgayvegan.com/2017/03/03/review-of-sanctuary-london/
-other_links: <li><a href="http://www.greenbaysupermarket.co.uk/blog/new-100-vegan-eatery-london">GreenBay review</a></li><li><a href="https://www.happycow.net/reviews/sanctuary-london-86137">HappyCow</a></li>
+happycow: https://www.happycow.net/reviews/sanctuary-london-86137
 lat: 51.479241
 long: -0.19941379
 open: yes
@@ -1333,7 +1336,7 @@ name: Shayona
 address: 54-62 Meadow Garth, Neasden, NW10 8HD
 description: Located in the car park of the Swaminarayan Temple.
 website: http://www.shayonarestaurants.com/
-other_links: <li><a href="http://www.telegraph.co.uk/foodanddrink/9207342/Shayona-Neasden-London-restaurant-review.html">Telegraph review</a></li>
+telegraph: http://www.telegraph.co.uk/foodanddrink/9207342/Shayona-Neasden-London-restaurant-review.html
 long: -0.262674
 lat: 51.547796
 open: yes
@@ -1431,7 +1434,7 @@ name: Tanya's
 address: myhotel Chelsea, 35 Ixworth Place, SW3 3QX.
 description: Raw food and cocktails.
 website: http://www.tanyascafe.com/
-other_links: <li><a href="http://londontastin.com/post/96448612522/tanyas-cafe-raw-vegan-in-chelsea">London Tastin' review</a></li>
+londontastin: http://londontastin.com/post/96448612522/tanyas-cafe-raw-vegan-in-chelsea
 long: -0.168545
 lat: 51.491917
 open: yes
@@ -1442,7 +1445,7 @@ address: 10 Morning Lane, Hackney, E9 6NA
 twitter: TempleOfSeitan
 description: Vegan "fried chicken" shop.
 fatgayvegan: http://fatgayvegan.com/2017/02/24/temple-of-hackney-update/
-other_links: <li><a href="https://www.happycow.net/reviews/temple-of-hackney-east-london-77702">HappyCow</a></li>
+happycow: https://www.happycow.net/reviews/temple-of-hackney-east-london-77702
 lat: 51.545915
 long: -0.054196313
 open: yes
@@ -1456,7 +1459,7 @@ twitter: Tibits_UK
 chowhound: http://chowhound.chow.com/topics/564141
 yelp: http://www.yelp.co.uk/biz/tibits-london-3
 timeout: http://www.timeout.com/london/restaurants/tibits
-other_links: <li><a href="http://www.telegraph.co.uk/foodanddrink/restaurants/8244281/Tibits-London-W1-Restaurant-review.html">The Telegraph</a></li>
+telegraph: http://www.telegraph.co.uk/foodanddrink/restaurants/8244281/Tibits-London-W1-Restaurant-review.html
 long: -0.139475
 lat: 51.51112
 open: yes
@@ -1531,7 +1534,7 @@ twitter: Vegan_Hippo
 description: Vegan cafe in Soho.  It closed in early 2016 but reopened a few months later.
 photo: https://www.flickr.com/photos/kake_pugh/30584608166/
 fatgayvegan: http://fatgayvegan.com/2015/10/28/vegan-hippo-cafe-review/
-other_links: <li><a href="http://www.happycow.net/reviews/vegan-hippo-london-62262">Happy Cow</a></li>
+happycow: http://www.happycow.net/reviews/vegan-hippo-london-62262
 lat: 51.512233
 long: -0.13355349
 open: yes
@@ -1608,7 +1611,7 @@ id: wholsum-dalston
 name: Wholsum
 address: 16 Dalston Lane, E8 1PQ
 description: Closed by mid-2012.
-other_links: <li><a href="http://conceivedin84.blogspot.com/2010/05/wholsum.html">Richard Orwell's blog review</a></li>
+richardorwell: http://conceivedin84.blogspot.co.uk/2010/05/wholsum.html
 long: -0.065215
 lat: 51.548367
 open: no
@@ -1618,7 +1621,7 @@ name: Wild Food Cafe
 address: 1st floor, 14 Neal's Yard, Covent Garden, WC2H 9DP
 website: http://www.wildfoodcafe.com/
 timeout: http://www.timeout.com/london/restaurants/wild-food-cafe
-other_links: <li><a href="http://www.standard.co.uk/goingout/restaurants/wild-food-cafe--review-7428060.html">Evening Standard review</a></li>
+eveningstandard: http://www.standard.co.uk/goingout/restaurants/wild-food-cafe--review-7428060.html
 open: yes
 description: Their website doesn't say they're completely vegetarian, but they told me by email (October 2011) that they are.
 long: -0.126509
@@ -1670,7 +1673,8 @@ address: 157 Heath Road, Twickenham, TW1 4BH
 description: Previously at 78 Goldhawk Road, W12 8HA (pictured); moved to Twickenham in late 2012, then closed.
 photo: https://www.flickr.com/photos/kake_pugh/3579064271
 website: http://web.archive.org/web/20130809013359/http://www.blahvegetarian.com/
-other_links: <li><a href="http://www.tohappyvegans.com/wordpress/blah-blah-bla-shepherds-bush/">To Happy Vegans review</a></li><li><a href="http://www.grumblinggourmet.com/2010/06/review-of-blah-blah-blah-june-2010.html">Grumbling Gourmet review</a></li>
+tohappyvegans: http://www.tohappyvegans.com/wordpress/blah-blah-bla-shepherds-bush/
+grumblinggourmet: http://web.archive.org/web/20130529153519/http://www.grumblinggourmet.com:80/2010/06/review-of-blah-blah-blah-june-2010.html
 long: -0.337524
 lat: 51.44522800000001
 open: no
@@ -1680,7 +1684,7 @@ name: Cafe Luna
 address: 386 Green Lanes, Harringay, N4 1DW
 description: Opened in mid-2010, closed a few months later.
 website: http://web.archive.org/web/20101222074340/http://cafe-luna.co.uk/
-other_links: <li><a href="http://www.harringayonline.com/forum/topics/la-luna-vegetarian-restaurant">Harringay Online</a></li>
+harringayonline: http://www.harringayonline.com/forum/topics/la-luna-vegetarian-restaurant
 long: -0.098276
 lat: 51.575109
 open: no
@@ -1717,7 +1721,7 @@ id: indian-mischief-east-dulwich
 name: Indian Mischief
 address: 71 Lordship Lane, East Dulwich, SE22 8EP
 description: Closed in mid-2013.
-other_links: <li><a href="http://www.grumblinggourmet.com/2011/01/indian-mischief-in-east-dulwich-jan.html">Grumbling Gourmet review</a></li>
+grumblinggourmet: http://web.archive.org/web/20140426134909/http://www.grumblinggourmet.com:80/2011/01/indian-mischief-in-east-dulwich-jan.html
 long: -0.074823
 lat: 51.45866000000001
 open: no
@@ -1775,7 +1779,6 @@ name: Otarian (Shaftesbury Avenue)
 address: 190 Shaftesbury Avenue, Soho, WC2H 8JL
 description: As of October 2011, their website states they are experiencing a "time of development" during which they will "not be functioning in the UK".
 website: http://www.otarian.com/
-other_links: <li><a href="http://www.sustainweb.org/jelliedeel/articles/25/">Jellied Eel article</a></li>
 long: -0.126745
 lat: 51.515379
 open: no
@@ -1785,7 +1788,7 @@ name: Otarian (Wardour Street)
 address: 181-183 Wardour Street, Soho, W1F 8WZ
 description: As of October 2011, their website states they are experiencing a "time of development" during which they will "not be functioning in the UK".
 website: http://www.otarian.com/
-other_links: <li><a href="http://www.guardian.co.uk/lifeandstyle/2010/oct/24/jay-rayner-restaurant-review-otarian-london">Jay Rayner's review</a></li>
+guardian: http://www.guardian.co.uk/lifeandstyle/2010/oct/24/jay-rayner-restaurant-review-otarian-london
 long: -0.135441
 lat: 51.515166
 open: no
@@ -1831,7 +1834,8 @@ id: spirited-palace-crystal-palace
 name: Spirited Palace
 address: 105 Church Road, Crystal Palace, SE19 2PR
 description: Vegan Caribbean restaurant attached to a health food shop.  Now closed.
-other_links: <li><a href="http://web.archive.org/web/20111216132923/http://www.veggieplaces.co.uk/list_reviews.php?place_id=2333">Veggie Places</a></li><li><a href="http://www.happycow.net/reviews.php?id=13495">HappyCow</a></li>
+veggieplaces: http://web.archive.org/web/20111216132923/http://www.veggieplaces.co.uk/list_reviews.php?place_id=2333
+happycow: http://www.happycow.net/reviews.php?id=13495
 long: -0.081174
 lat: 51.416726000000004
 open: no
@@ -1849,7 +1853,7 @@ name: Vegan Routes
 address: NCP car park, Brewer Street, Soho, W1F 0LA
 description: Closed in mid-2010.
 photo: https://www.flickr.com/photos/kake_pugh/4473861792
-other_links: <li><a href="http://www.tohappyvegans.com/wordpress/another-day-another-vegan-bus/">To Happy Vegans review</a></li>
+tohappyvegans: http://www.tohappyvegans.com/wordpress/another-day-another-vegan-bus/
 long: -0.135022
 lat: 51.512116
 open: no
@@ -1858,7 +1862,7 @@ id: veggie-inn-harrow
 name: Veggie Inn
 address: 123 Headstone Road, Harrow, HA1 1PG
 description: Closed in late 2011.
-other_links: <li><a href="http://web.archive.org/web/20060928094420/http://www.veggieplaces.co.uk/list_reviews.php?place_id=355">Veggie Places comments</a></li>
+veggieplaces: http://web.archive.org/web/20060928094420/http://www.veggieplaces.co.uk/list_reviews.php?place_id=355
 yelp: http://www.yelp.co.uk/biz/veggie-inn-harrow
 long: -0.34107
 lat: 51.583737000000006
@@ -1878,7 +1882,7 @@ address: Unit 41, Rye Lane Market, 48 Rye Lane, Peckham, SE15 5BY
 description: Vegan Caribbean restaurant.
 photo: https://www.flickr.com/photos/kake_pugh/31872209073/
 twitter: ZionlyArts
-other_links: <li><a href="http://peckhampeculiar.tumblr.com/post/143782351389/the-taste-maker">Peckham Peculiar article</a></li>
+peckhampeculiar: http://peckhampeculiar.tumblr.com/post/143782351389/the-taste-maker
 lat: 51.471211
 long: -0.069849685
 open: yes
