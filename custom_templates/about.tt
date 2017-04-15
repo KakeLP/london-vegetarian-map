@@ -11,7 +11,7 @@ href="mailto:kake@earth.li">kake@earth.li</a>).</p>
 href="https://github.com/KakeLP/map-site-maker">MapSite.pm</a>, <a
 href="https://www.google.com/fonts/specimen/Lora">Lora from Google
 Fonts</a>, and <a
-href="http://design-seeds.com/index.php/home/entry/succulent-hues25">Succulent
-Hues from Design Seeds</a>.
+href="http://web.archive.org/web/20150324005929/http://design-seeds.com/home/entry/succulent-hues25">Succulent Hues</a>
+from <a href="https://www.design-seeds.com/">Design Seeds</a>.
 
 [% INCLUDE footer.tt %]
