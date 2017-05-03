@@ -564,6 +564,18 @@ lat: 51.576029
 open: yes
 checked: August 2013
 ---
+id: hullabaloo-deptford
+name: Hullabaloo
+address: 111b Douglas Way, Deptford, SE8 4NS
+description: Small Indian restaurant/takeaway in Deptford.  It opened in February 2017.
+photo: https://www.flickr.com/photos/kake_pugh/33493633944/
+brockleycentral: http://brockleycentral.blogspot.com/2017/02/hullabaloo-deptford.html
+happycow: https://www.happycow.net/reviews/hullabaloo-south-east-london-89653
+lat: 51.477634
+long: -0.026202098
+open: yes
+checked: April 2017.
+---
 id: iklectik-waterloo
 name: i'klectik
 address: Old Paradise Yard, 20 Carlisle Lane, SE1 7LG
@@ -950,6 +962,7 @@ checked: February 2017
 id: old-school-hounslow
 name: Old School
 address: 248 Hanworth Road, Hounslow, TW3 3TY
+photo: https://www.flickr.com/photos/kake_pugh/34301415101/
 website: http://www.oldschoolveg.com/
 phone: 020 7018 7830
 fatgayvegan: http://fatgayvegan.com/2016/08/15/vegan-food-in-hounslow/
@@ -1370,10 +1383,12 @@ id: shree-krishna-vada-pav-hounslow
 name: Shree Krishna Vada Pav (Hounslow)
 address: 121 Hounslow High Street, TW3 1QL
 description: Indian cafe specialising in Mumbai snacks.
+photo: https://www.flickr.com/photos/kake_pugh/34301415611/
 website: http://www.shreekrishnavadapav.com/
 lat: 51.469455
 long: -0.35924086
 open: yes
+checked: May 2017
 ---
 id: shree-sai-vada-pav-rayners-lane
 name: Shree Sai Vada Pav
