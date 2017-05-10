@@ -764,6 +764,17 @@ long: -0.05128400000000001
 lat: 51.52829
 open: yes
 ---
+id: leles-hackney
+name: Lele's
+address: 50 Lower Clapton Road, Hackney, E5 0RN
+website: https://www.leleslondon.com/
+description: Vegetarian cafe.
+fatgayvegan: http://fatgayvegan.com/2017/05/07/more-vegan-options-in-hackney/
+happycow: https://www.happycow.net/reviews/leles-east-london-85652
+lat: 51.551654
+long: -0.051752821
+open: yes
+---
 id: lighthouse-catford
 name: Lighthouse
 address: 7 Catford Broadway, SE6 4SP
@@ -1019,6 +1030,18 @@ yelp: http://www.yelp.co.uk/biz/peppertons-london
 long: -0.089757
 lat: 51.389231
 open: no
+---
+id: piadina-genuina-homerton
+name: Piadina Genuina
+address: 251 Wick Road, Homerton, E9 5DG
+website: https://www.piadinagenuina.co.uk/
+phone: 07497 674699
+description: Italian cafe specialising in filled freshly-cooked flatbreads.
+fatgayvegan: http://fatgayvegan.com/2017/05/01/new-vegan-italian-food-spot/
+happycow: https://www.happycow.net/reviews/piadina-genuina-east-london-89932
+lat: 51.545301
+long: -0.035478517
+open: yes
 ---
 id: picky-wops-fulham
 name: Picky Wops
