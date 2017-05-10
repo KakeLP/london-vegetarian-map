@@ -1133,6 +1133,16 @@ long: -0.081983596
 open: yes
 checked: July 2016
 ---
+id: retreat-richmond
+name: The Retreat
+description: Vegan cafe.
+address: 11 Hill Rise, Richmond, TW10 6UA
+website: http://www.theretreatkitchen.co.uk/
+twitter: RetreatKitchen
+lat: 51.457908
+long: -0.30496676
+open: yes
+---
 id: riverside-vegetaria-kingston
 name: Riverside Vegetaria
 address: 64 High Street, Kingston, KT1 1HN
