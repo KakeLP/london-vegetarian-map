@@ -385,6 +385,15 @@ long: -0.113565
 lat: 51.461868
 open: no
 ---
+id: farmacy-westbourne-green
+name: Farmacy
+address: 74 Westbourne Grove, W2 5SH
+website: http://farmacylondon.com/
+phone: 020 7221 0705
+lat: 51.515376
+long: -0.19278833
+open: yes
+---
 id: fed-by-water-dalston
 name: Fed By Water
 address: Unit 1b, Dalston Cross Shopping Centre, 64 Kingsland High Street, E8 2LX
@@ -835,6 +844,16 @@ description: Closed down by April 2012, according to Google Street View.
 long: -0.018904
 lat: 51.44639800000001
 open: no
+---
+id: maloko-camberwell
+name: Maloko
+address: 60 Camberwell Church Street, SE5 8QZ
+phone: 020 3305 8913
+description: Vegetarian and vegan sweet and savoury crepes and galettes.
+londonist: http://londonist.com/2013/07/whats-for-lunch-maloko-camberwell
+lat: 51.473590
+long: -0.088701591
+open: yes
 ---
 id: manna-primrose-hill
 name: Manna
