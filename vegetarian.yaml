@@ -203,6 +203,17 @@ long: -0.140316
 lat: 51.5375
 open: no
 ---
+id: calthorpe-project-st-pancras
+name: Calthorpe Project
+address: 258-274 Gray's Inn Road, St Pancras, WC1X 8LH
+website: http://calthorpeproject.org.uk/environmental-education/
+description: Vegetarian cafe in a community garden.
+photo: https://www.flickr.com/photos/kake_pugh/34679667396/
+lat: 51.526945
+long: -0.11816029
+open: yes
+checked: May 2017
+---
 id: carnevale-ec1
 name: Carnevale
 address: 135 Whitecross Street, EC1Y 8JL
