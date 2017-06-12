@@ -1573,9 +1573,9 @@ long: -0.054196313
 open: yes
 ---
 id: tibits-mayfair
-name: Tibits
+name: Tibits (Mayfair)
 address: 12-14 Heddon Street, off Regent Street, Mayfair, W1B 4DA
-description: A London branch of the Swiss chain (original is in Zurich).
+description: A London branch of the Swiss chain (original is in Zurich).  There's another one <a href="/venues/tibits-south-bank.html">on the South Bank</a>.
 website: http://www.tibits.co.uk/
 twitter: Tibits_UK
 chowhound: http://chowhound.chow.com/topics/564141
@@ -1584,6 +1584,17 @@ timeout: http://www.timeout.com/london/restaurants/tibits
 telegraph: http://www.telegraph.co.uk/foodanddrink/restaurants/8244281/Tibits-London-W1-Restaurant-review.html
 long: -0.139475
 lat: 51.51112
+open: yes
+---
+id: tibits-south-bank
+name: Tibits (South Bank)
+address: 124 Southwark Street, SE1 0SW
+description: A London branch of the Swiss chain (original is in Zurich).  There's another one <a href="/venues/tibits-mayfair.html">in Mayfair</a>.
+website: http://www.tibits.co.uk/
+twitter: Tibits_UK
+fatgayvegan: http://fatgayvegan.com/2017/06/04/tibits-gets-a-new-location/
+lat: 51.506227
+long: -0.10154267
 open: yes
 ---
 id: tide-tables-cafe-richmond
