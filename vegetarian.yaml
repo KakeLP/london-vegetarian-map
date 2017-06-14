@@ -75,7 +75,6 @@ name: Amico Bio (New Oxford Street)
 address: 43 New Oxford Street, WC1A 1BH
 description: Now closed, as is <a href="amico-bio-ec1.html">the original branch near Smithfield Market</a>.
 photo: http://www.flickr.com/photos/rjw1/8545245209/
-website: http://www.amicobio.co.uk/
 rgl: http://london.randomness.org.uk/wiki.cgi?Amico_Bio,_WC1A_1BH
 long: -0.125506
 lat: 51.51707
@@ -539,7 +538,6 @@ id: greenz-tulse-hill
 name: Greenz
 address: 5 Station Rise, Tulse Hill, SE27 9BW
 description: Closed down <a href="http://web.archive.org/web/20151202105047/http://greenzrestaurant.com/">in late 2015</a>.  Previously known as A Taste of Heaven.
-website: http://greenzrestaurant.com/
 long: -0.10569
 lat: 51.439972
 open: no
@@ -987,8 +985,8 @@ id: museum-of-garden-history-cafe-lambeth
 name: Museum of Garden History cafe (Garden Cafe)
 address: Lambeth Palace Road, SE1 7LB
 website: http://www.gardenmuseum.org.uk/visitingthemuseum/the_garden_cafe.html
-chowhound: http://chowhound.chow.com/topics/670751
-veggieheaven: http://www.veggieheaven.com/uk/england/The_Garden_Cafe_6432/
+chowhound: https://www.chowhound.com/post/garden-museum-cafe-london-670751
+veggieheaven: http://veggieheaven.com/restaurant/the-garden-cafe_6432/
 long: -0.12033500000000001
 lat: 51.495132
 open: yes
