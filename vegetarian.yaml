@@ -1421,6 +1421,16 @@ lat: 51.551292
 open: yes
 checked: May 2017
 ---
+id: sazzy-and-fran-hackney
+name: Sazzy and Fran
+address: Unit 16c, 499-505 Hackney Road (entrance on Oval Street), E2 9ED
+twitter: SazzyAndFran
+description: Vegan cafe.
+fatgayvegan: http://fatgayvegan.com/2017/06/12/new-vegan-cafe-for-london/
+lat: 51.532727
+long: -0.058817759
+open: yes
+---
 id: shahanshah-southall
 name: Shahanshah
 address: 60 North Road, Southall, UB1 2JL
@@ -1569,6 +1579,16 @@ lat: 51.545915
 long: -0.054196313
 open: yes
 ---
+id: thenga-cafe-bloomsbury
+name: Thenga Cafe
+address: 120 Cromer Street (entrance on Judd Street), Bloomsbury, WC1H 8BS
+twitter: ThengaCafe
+description: Vegan and vegetarian "spice-inspired" cafe.
+fatgayvegan: http://fatgayvegan.com/2017/06/16/vegan-options-in-heart-of-bloomsbury/
+lat: 51.527519
+long: -0.12448052
+open: yes
+---
 id: tibits-mayfair
 name: Tibits (Mayfair)
 address: 12-14 Heddon Street, off Regent Street, Mayfair, W1B 4DA
@@ -1609,8 +1629,8 @@ id: cafe-van-gogh-brixton-road
 name: Cafe Van Gogh
 address: 88 Brixton Road, Stockwell, SW9 6BE
 website: http://www.cafevangogh.co.uk/
-description: Vegetarian and vegan cafe in (but independent of) a church.
-fatgayvegan: http://fatgayvegan.com/2016/10/07/sw9-vegan-brunch/
+description: Vegan (previously vegetarian) cafe in (but independent of) a church.
+fatgayvegan: http://fatgayvegan.com/2017/07/01/south-london-cafe-turns-vegan/
 lat: 51.477674
 long: -0.11249815
 open: yes
