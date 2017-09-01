@@ -428,6 +428,17 @@ lat: 51.546530
 long: -0.14665702
 open: yes
 ---
+id: flavours-of-paani-puri-kingsbury
+name: Flavours Of Paani Puri
+address: Delight Food & Wine, 513 Kingsbury Road, NW9 9EG
+description: Casual Indian vegetarian cafe specialising in street food.
+photo: https://www.flickr.com/photos/kake_pugh/36152247973/
+rgl: http://london.randomness.org.uk/wiki.cgi?Flavours_Of_Paani_Puri,_NW9_9EG
+lat: 51.585305
+long: -0.27753313
+open: yes
+checked: August 2017
+---
 id: food-for-thought-covent-garden
 name: Food For Thought
 address: 31 Neal Street, Covent Garden, WC2H 9PR
@@ -1240,7 +1251,7 @@ rgl: http://london.randomness.org.uk/wiki.cgi?Rose_Vegetarian,_NW9_9HH
 long: -0.277201
 lat: 51.58568300000001
 open: yes
-checked: September 2016
+checked: August 2017
 ---
 id: sagar-fitzrovia
 name: Sagar (Fitzrovia)
