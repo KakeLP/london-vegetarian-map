@@ -701,6 +701,7 @@ website: http://www.just-fab.org/
 twitter: Just_FaB_VegIta
 phone: 07414 917637
 description: Vegan Italian food from a converted double-decker bus.
+photo: https://www.flickr.com/photos/kake_pugh/37105996605/
 fatgayvegan: http://fatgayvegan.com/2015/09/10/on-the-map/
 lat: 51.532185
 long: -0.060335889
@@ -1437,11 +1438,13 @@ id: sazzy-and-fran-hackney
 name: Sazzy and Fran
 address: Unit 16c, 499-505 Hackney Road (entrance on Oval Street), E2 9ED
 twitter: SazzyAndFran
-description: Vegan cafe.
+description: Vegan cafe in the Gossamer City development
+photo: https://www.flickr.com/photos/kake_pugh/37105995135/.
 fatgayvegan: http://fatgayvegan.com/2017/06/12/new-vegan-cafe-for-london/
 lat: 51.532727
 long: -0.058817759
 open: yes
+checked: September 2017
 ---
 id: shahanshah-southall
 name: Shahanshah
