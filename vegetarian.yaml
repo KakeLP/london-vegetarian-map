@@ -472,7 +472,7 @@ open: yes
 id: gallery-cafe-bethnal-green
 name: Gallery Cafe
 address: 21 Old Ford Road, Bethnal Green, E2 9PL
-website: http://www.stmargaretshouse.org.uk/thegallerycafe/
+website: http://www.stmargaretshouse.org.uk/gallerycafe/
 yelp: http://www.yelp.co.uk/biz/gallery-cafe-london-3
 fatgayvegan: http://fatgayvegan.com/2013/09/30/waffles-and-pizza/
 long: -0.054417
@@ -996,13 +996,13 @@ checked: April 2016
 ---
 id: museum-of-garden-history-cafe-lambeth
 name: Museum of Garden History cafe (Garden Cafe)
-address: Lambeth Palace Road, SE1 7LB
-website: http://www.gardenmuseum.org.uk/visitingthemuseum/the_garden_cafe.html
+description: Closed down and replaced by a non-vegetarian cafe.
+address: 5 Lambeth Palace Road, SE1 7LB
 chowhound: https://www.chowhound.com/post/garden-museum-cafe-london-670751
 veggieheaven: http://veggieheaven.com/restaurant/the-garden-cafe_6432/
 long: -0.12033500000000001
 lat: 51.495132
-open: yes
+open: no
 ---
 id: my-village-camden-town
 name: My Village
@@ -1709,13 +1709,10 @@ checked: October 2016
 id: veg-bar-brixton
 name: Veg Bar
 address: 45 Tulse Hill, Brixton, SW2 2TJ
-description: Vegan restaurant and bar.
-website: http://www.vegbar.co.uk/
-twitter: VegBarBrixton
-phone: 020 8678 0697
+description: Vegan restaurant and bar which closed down in early 2017.
 lat: 51.453888
 long: -0.11303325
-open: yes
+open: no
 ---
 id: vegetarians-paradise-bloomsbury
 name: Vegetarian's Paradise
