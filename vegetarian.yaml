@@ -231,18 +231,6 @@ long: 0.04954600000000001
 lat: 51.543906
 open: yes
 ---
-id: chennai-dosa-wembley
-name: Chennai Dosa (Wembley)
-address: 3 Ealing Road, Wembley, HA0 2AA
-description: "Now closed; as of 2015 the premises are occupied by Kailash Parbat.  This was two restaurants side by side; one veggie, one non-veggie, with separate kitchens.  The entrance to the veg side was on Ealing Road and the entrance to the non-veg side was on Wembley High Road (and sometimes used the address 529 High Road, HA0 2DH)."
-yelp: http://www.yelp.co.uk/biz/chennai-dosa-wembley
-sulin: http://tamarindandthyme.wordpress.com/2011/06/17/chennai-dosa-and-its-family-dosa/
-sung: http://eatlovenoodles.blogspot.com/2011/07/family-dosa-chennai-dosa.html
-fussyveggie: http://fussyveggie.blogspot.com/2009/05/chennai-dosa-wembley.html
-lat: 51.551909
-long: -0.29888754
-open: no
----
 id: chetnas-bhel-poori-house-kenton
 name: Chetna's Bhel Poori House
 address: 333a Kenton Road, HA3 0XS
@@ -747,6 +735,18 @@ long: -0.223997
 lat: 51.491885
 open: no
 ---
+id: kailash-parbat-wembley
+name: Kailash Parbat (Wembley)
+address: 529 Wembley High Road, HA0 2DH
+photo: https://www.flickr.com/photos/kake_pugh/37219275015/
+description: "Indian vegetarian restaurant.  The premises were previously occupied by Chennai Dosa (two branches side by side; one veggie, one non-veggie, with separate kitchens)."
+website: http://kailashparbat.co.uk/
+chowhound: https://www.chowhound.com/post/mumbai-street-food-uk-982630?commentId=9066674
+lat: 51.551909
+long: -0.29888754
+open: yes
+checked: September 2017
+---
 id: karma-free-pizza-company-rayners-lane
 name: Karma Free Pizza Company
 address: 387 Alexandra Avenue, Rayners Lane, HA2 9EF
@@ -799,6 +799,17 @@ description: Now closed.
 long: 0.073852
 lat: 51.5578
 open: no
+---
+id: krishna-wembley
+name: Krishna (Wembley)
+address: 590 Wembley High Road, HA0 2AF
+description: Indian vegetarian restaurant.
+photo: https://www.flickr.com/photos/kake_pugh/37028766166/
+rgl: http://london.randomness.org.uk/wiki.cgi?Krishna,_HA0_2AF
+lat: 51.552138
+long: -0.29955406
+open: yes
+checked: September 2017
 ---
 id: the-larder-bethnal-green
 name: The Larder
@@ -1356,11 +1367,20 @@ open: yes
 checked: March 2016
 ---
 id: sarashwathy-bavans-tooting
-name: Sarashwathy Bavans
+name: Sarashwathy Bavans (Tooting)
 address: 70 Tooting High Street, SW17 0RN
-website: http://www.sarashwathy.com/
+description: Now closed, though there's <a href="/venues/sarashwathy-bavans-wembley.html">another branch in Wembley</a>.
 long: -0.169022
 lat: 51.427444
+open: no
+---
+id: sarashwathy-bavans-wembley
+name: Sarashwathy Bavans (Wembley)
+address: 549 Wembley High Road, HA0 2DJ
+photo: https://www.flickr.com/photos/kake_pugh/37028765736/
+website: http://www.sarashwathy.com/
+lat: 51.551999
+long: -0.30010660
 open: yes
 ---
 id: saravanaa-bhavan-croydon
