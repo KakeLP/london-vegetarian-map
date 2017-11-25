@@ -1035,6 +1035,30 @@ long: -0.200364
 lat: 51.516803
 open: yes
 ---
+id: natraj-rayners-lane
+name: Natraj (Rayners Lane)
+address: 467 Alexandra Avenue, Rayners Lane, HA2 9RY
+website: http://www.natrajfood.co.uk/
+phone: 020 8617 3858
+photo: https://www.flickr.com/photos/kake_pugh/26823655959/
+description: Indian vegetarian cafe.  It has <a href="/venues/natraj-south-harrow.html">another branch</a> in South Harrow.
+rgl: http://london.randomness.org.uk/wiki.cgi?Natraj,_HA2_9RY
+lat: 51.574769
+long: -0.37102555
+open: yes
+checked: November 2017
+---
+id: natraj-south-harrow
+name: Natraj (South Harrow)
+address: 341 Northolt Road, Harrow, HA2 8JB
+website: http://www.natrajfood.co.uk/
+phone: 020 8426 8903
+description: Indian vegetarian cafe.  It has <a href="/venues/natraj-rayners-lane.html">another branch</a> near Rayners Lane Station.
+happycow: https://www.happycow.net/reviews/natraj-north-west-london-14967
+lat: 51.561980
+long: -0.35652016
+open: yes
+---
 id: nutkin-peckham
 name: Nutkin
 address: Holdron's Arcade, 135a Rye Lane, SE15 4ST
@@ -1528,12 +1552,12 @@ checked: May 2017
 ---
 id: shree-sai-vada-pav-rayners-lane
 name: Shree Sai Vada Pav
-address: 332 Rayners Lane, HA5 5ED
+address: 17 Village Way, Rayners Lane, HA2 7LX
 website: http://shreesaivadapav.com/
 phone: 020 3302 7613
-description: Indian cafe specialising in Mumbai snacks.
-lat: 51.575828
-long: -0.37069698
+description: Indian cafe specialising in Mumbai snacks.  Previously at 332 Rayners Lane.
+lat: 51.577356
+long: -0.36994193
 open: yes
 ---
 id: smithfield-tavern-clerkenwell
