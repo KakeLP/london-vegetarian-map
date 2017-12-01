@@ -222,6 +222,26 @@ lat: 51.523164
 open: yes
 checked: April 2009
 ---
+id: ceremony-tufnell-park
+name: Ceremony
+address: 131 Fortess Road, Tufnell Park, NW5 2HP
+website: https://www.ceremonyrestaurant.london/
+eveningstandard: https://www.standard.co.uk/goingout/restaurants/grace-dent-reviews-ceremony-a-restaurant-joyously-bucking-the-vegetarian-clich-s-a3677801.html
+kentishtowner: https://www.kentishtowner.co.uk/2017/09/22/review-ceremony-tufnell-park/
+lat: 51.555942
+long: -0.13918076
+open: yes
+---
+id: chai-naasto-queensbury
+name: Chai Naasto
+address: 242 Streatfield Road, Queensbury, HA3 9BX
+website: https://www.chai-naasto.co.uk/restaurant/harrow
+phone: 020 8204 4660
+description: Indian vegetarian.
+lat: 51.595580
+long: -0.29657547
+open: yes
+---
 id: chennai-dosa-east-ham
 name: Chennai Dosa (East Ham)
 address: 339 High Street North, East Ham, E12 6PQ
@@ -360,6 +380,27 @@ lat: 51.539641
 long: -0.14221434
 open: yes
 ---
+id: essence-cuisine-shoreditch
+name: Essence Cuisine
+address: 94 Leonard Street, Shoreditch, EC2A 4RH
+website: https://www.essence-cuisine.com/
+phone: 020 7729 5678
+description: Vegan and raw restaurant.
+hackneycitizen: https://www.hackneycitizen.co.uk/2017/09/08/essence-cuisine-shoreditch-restaurant-review-raw-order/
+lat: 51.524642
+long: -0.081845865
+open: yes
+---
+id: essential-vegan-shoreditch
+name: Essential Vegan
+address: 6 Calvert Avenue, Shoreditch, E2 7JP
+website: http://essentialvegan.uk/cafe/
+description: Brazilian-inspired vegan cafe.
+lat: 51.526346
+long: -0.077361211
+open: yes
+checked: November 2017
+---
 id: ethos-soho
 name: Ethos
 address: 48 Eastcastle Street, Soho, W1W 8DX
@@ -383,6 +424,17 @@ facebook: https://www.facebook.com/lExpresscafe
 long: -0.113565
 lat: 51.461868
 open: no
+---
+id: ez-moss-highbury
+name: EZ & Moss
+address: 183 Holloway Road, N7 8LX
+twitter: EZandMoss
+phone: 020 7619 9523
+description: Vegetarian and vegan cafe.
+timeout: https://www.timeout.com/london/restaurants/ez-moss
+lat: 51.550173
+long: -0.10924731
+open: yes
 ---
 id: farmacy-westbourne-green
 name: Farmacy
@@ -561,13 +613,12 @@ open: yes
 id: the-hive-kensington
 name: The Hive
 address: 240-242 Kensington High Street, W8 6ND
-description: Previously Luscious Organics and Down To Earth.
-website: http://www.thehivekensington.com/
+description: Now closed.  As of November 2017 the premises are occupied by a branch of Gail's bakery.  Previously Luscious Organics and Down To Earth.
 yelp: https://www.yelp.com/biz/the-hive-london-7
 happycow: https://www.happycow.net/reviews/the-hive-west-london-34614
 lat: 51.498839
 long: -0.19958900000000002
-open: yes
+open: no
 ---
 id: honey-hive-sydenham
 name: Honey Hive
@@ -971,6 +1022,16 @@ lat: 51.513016
 open: yes
 checked: February 2008
 ---
+id: miranda-cafe-crouch-end
+name: Miranda Cafe
+address: 28 Broadway Parade, Crouch End, N8 9DB
+website: http://mirandacafe.co.uk/
+twitter: MirandaCafeUK
+fatgayvegan: http://fatgayvegan.com/2017/09/02/vegan-options-in-crouch-end/
+lat: 51.581208
+long: -0.12166326
+open: yes
+---
 id: mooshies-brick-lane
 name: Mooshies
 address: 104 Brick Lane, E1 6RL
@@ -1265,6 +1326,7 @@ address: 11 Hill Rise, Richmond, TW10 6UA
 website: http://www.theretreatkitchen.co.uk/
 twitter: RetreatKitchen
 photo: https://www.flickr.com/photos/kake_pugh/33874278204/
+fatgayvegan: http://fatgayvegan.com/2017/07/29/new-vegan-kitchen-in-west-london/
 lat: 51.457908
 long: -0.30496676
 open: yes
@@ -1443,9 +1505,12 @@ id: saravanaa-bhavan-rayners-lane
 name: Saravanaa Bhavan (Rayners Lane)
 address: 403 Alexandra Avenue, Rayners Lane, HA2 9SG
 website: http://www.saravanabhavan.co.uk/restaurants/Harrow-2.html
+phone: 020 8869 9966
+photo: https://www.flickr.com/photos/kake_pugh/26823653949/
 long: -0.371454
 lat: 51.572789
 open: yes
+checked: November 2017
 ---
 id: saravanaa-bhavan-southall
 name: Saravanaa Bhavan (Southall)
@@ -1866,6 +1931,17 @@ long: -0.17851700000000004
 lat: 51.558757
 open: yes
 ---
+id: wulf-and-lamb-chelsea
+name: Wulf & Lamb
+address: 243 Pavilion Road, Chelsea, SW1X 0BP
+website: http://wulfandlamb.com/
+twitter: WulfAndLamb
+description: Vegan comfort food restaurant.
+fatgayvegan: http://fatgayvegan.com/2017/10/05/best-vegan-restaurant-in-london/
+lat: 51.492947
+long: -0.15857314
+open: yes
+---
 id: yummy-v-harrow
 name: Yummy V
 address: 55 Station Road, Harrow, HA1 2TY
@@ -2048,6 +2124,17 @@ long: -0.081174
 lat: 51.416726000000004
 open: no
 ---
+id: unripe-banana
+name: Unripe Banana
+address: 268 Hackney Road, E2 7SJ
+website: http://www.unripebanana.co.uk/
+description: Vegan cafe and art space.
+fatgayvegan: http://fatgayvegan.com/2017/10/08/new-vegan-cafe-and-art-space/
+happycow: https://www.happycow.net/reviews/unripe-banana-east-london-102639
+lat: 51.530967
+long: -0.068858609
+open: yes
+---
 id: urban-eats-bloomsbury
 name: Urban Eats
 address: 39 Lamb's Conduit Street, Bloomsbury, WC1N 3NG
@@ -2075,6 +2162,18 @@ yelp: http://www.yelp.co.uk/biz/veggie-inn-harrow
 long: -0.34107
 lat: 51.583737000000006
 open: no
+---
+id: young-vegans-camden
+name: Young Vegans
+address: 60 Camden Lock Place, Camden, NW1 8AF
+website: http://www.youngvegans.co.uk/
+twitter: YoungVegansLDN
+description: Vegan pie and mash shop.
+fatgayvegan: http://fatgayvegan.com/2017/10/25/london-gets-a-vegan-pie-and-mash-shop/
+kentishtowner: https://www.kentishtowner.co.uk/2017/11/29/worlds-first-vegan-pie-mash-joint-comes-camden/
+lat: 51.541294
+long: -0.14670168
+open: yes
 ---
 id: zilli-green-soho
 name: Zilli Green
