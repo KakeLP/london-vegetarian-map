@@ -344,7 +344,7 @@ open: yes
 id: courthouse-garden-cafe-kennington
 name: Courthouse Garden Cafe
 address: Jamyang Buddhist Centre, 43 Renfrew Road, Kennington, SE11 4NA
-website: https://www.jamyang.co.uk/index.php/services/cafe-at-jamyang
+website: https://www.jamyang.co.uk/
 vegliving: http://www.vegetarianliving.co.uk/placestogo.php?do=view&article=156
 kenningtonrunoff: http://kenningtonrunoff.com/cafe-at-jamyang-buddhist-centre/
 long: -0.105717
@@ -532,7 +532,7 @@ open: yes
 id: the-gate-marylebone
 name: The Gate (Marylebone)
 address: 22-24 Seymour Place, Marylebone, W1H 7NL
-website: http://thegaterestaurants.com/seymour-place/
+website: http://thegaterestaurants.com/marylebone/
 description: Opened in December 2016.
 phone: 020 7724 6656
 lat: 51.515079
@@ -606,6 +606,7 @@ name: Hawraman
 address: 38 Chalk Farm Road, NW1 8AJ
 website: https://www.hawramancamdencafe.com/
 kentishtowner: https://www.kentishtowner.co.uk/2017/05/19/must-3-vegan-lunches/
+yelp: https://www.yelp.co.uk/biz/hawraman-cafe-bar-london
 lat: 51.542867
 long: -0.14828686
 open: yes
@@ -1080,11 +1081,12 @@ id: my-village-camden-town
 name: My Village
 address: 37 Chalk Farm Road, Camden Town, NW1 8AJ
 website: http://www.myvillagecafebar.co.uk/
+description: <a href="https://www.facebook.com/249012889052/photos/a.10150811176504053.405827.249012889052/10154861767469053/?type=3&theater">Closed down</a> in mid-2017, but the owners have opened next door as <a href="/venues/hawraman-chalk-farm">Hawraman</a>.
 cnj: http://www.thecnj.com/review/2008/040308/rest040308_01html.html
-yelp: http://www.yelp.co.uk/biz/my-village-cafe-london
+yelp: https://www.yelp.co.uk/biz/my-village-caf%C3%A9-london-2
 long: -0.148085
 lat: 51.542749
-open: yes
+open: no
 ---
 id: nama-notting-hill
 name: Nama
@@ -1118,6 +1120,17 @@ description: Indian vegetarian cafe.  It has <a href="/venues/natraj-rayners-lan
 happycow: https://www.happycow.net/reviews/natraj-north-west-london-14967
 lat: 51.561980
 long: -0.35652016
+open: yes
+---
+id: new-roots-cafe-caledonian-road
+name: New Roots Cafe
+address: 346 Caledonian Road, N1 1DU
+twitter: NewRootsCafe
+description: Vegetarian and vegan social enterprise cafe.
+gasholder: https://www.gasholder.london/2017/11/29/new-roots-cafe-open-two-vegan-cafes-consider/
+timeout: https://www.timeout.com/london/restaurants/new-roots-cafe
+lat: 51.540970
+long: -0.11689697
 open: yes
 ---
 id: nutkin-peckham
@@ -1229,6 +1242,17 @@ lat: 51.518971
 open: yes
 checked: May 2011
 ---
+id: pride-kitchen-neals-yard
+name: Pride Kitchen
+address: 2 Neal's Yard, Covent Garden, WC2H 9DP
+description: Vegan cafe focusing on salads, soups, and cakes.  Previously known as Salad Pride.
+website: https://www.pride.kitchen/
+twitter: ThePrideKitchen
+fatgayvegan: http://fatgayvegan.com/2016/09/11/another-london-cafe-turns-vegan/
+lat: 51.514433
+long: -0.12637858
+open: yes
+---
 id: radhika-sweet-mart-harrow
 name: Radhika Sweet Mart
 address: 63 Station Road, Harrow, HA1 2TY
@@ -1318,6 +1342,17 @@ lat: 51.526627
 long: -0.081983596
 open: yes
 checked: July 2016
+---
+id: rehab-hackney
+name: Rehab
+address: 271 Well Street, Hackney, E9 6RG
+website: http://rehabhackney.com/
+description: Vegan cafe/bar.
+fatgayvegan: http://fatgayvegan.com/2017/11/04/new-vegan-cafe-alert/
+hackneycitizen: https://www.hackneycitizen.co.uk/2017/12/20/rehab-hackney-restaurant-review-vegan-well-street/
+lat: 51.545024
+long: -0.046283394
+open: yes
 ---
 id: retreat-richmond
 name: The Retreat
@@ -1409,17 +1444,6 @@ photo: https://www.flickr.com/photos/kake_pugh/9300803561
 website: http://www.sakonis.co.uk/
 long: -0.33254
 lat: 51.58616
-open: yes
----
-id: salad-pride-neals-yeard
-name: Salad Pride
-address: 2 Neal's Yard, Covent Garden, WC2H 9DP
-description: Vegan cafe focusing on salads, soups, and cakes.
-website: http://www.saladpride.com/
-twitter: NealsYardPride
-fatgayvegan: http://fatgayvegan.com/2016/09/11/another-london-cafe-turns-vegan/
-lat: 51.514433
-long: -0.12637858
 open: yes
 ---
 id: sanctuary-fulham
@@ -1775,10 +1799,11 @@ id: vantra-oxford-street
 name: Vantra
 address: 25-27 Oxford Street, W1D 2DW
 photo: https://www.flickr.com/photos/90117465@N00/14166855590/
-rgl: http://london.randomness.org.uk/wiki.cgi?Vantra,_W1D_2DW
+description: Now closed, but as of late 2017 they have a lunchtime market stall outside the American International Church on Tottenham Court Road.
+rgl: http://london.randomness.org.uk/wiki.cgi?Vitao,_W1D_2DW
 long: -0.131474
 lat: 51.516316
-open: yes
+open: no
 checked: March 2016
 ---
 id: vasanta-bhavan-east-ham
@@ -1815,6 +1840,19 @@ lat: 51.512233
 long: -0.13355349
 open: yes
 checked: October 2016
+---
+id: vegan-yes-brick-lane
+name: Vegan Yes
+address: 64 Brick Lane, E1 6RF
+website: http://veganyes.uk/menubrick.html
+twitter: Vegan_Yes
+phone: 07879 536269
+description: Vegan Korean-Italian cafe.
+rgl: http://london.randomness.org.uk/wiki.cgi?Vegan_Yes,_E1_6RF
+lat: 51.518734
+long: -0.071404025
+open: yes
+checked: November 2017
 ---
 id: veg-bar-brixton
 name: Veg Bar
