@@ -125,27 +125,6 @@ table.entity_list td.open span,
   background-color: #00e13c;
 }
 
-div#map_canvas {
-  float: right;
-  width: 75%;
-}
-
-div#map_key {
-  padding-top: 1em;
-}
-
-div#entity_list {
-  float: left;
-  max-width: 20%;
-  height: 90%;
-  margin-top: -2em;
-}
-
-div#entity_list ul {
-  height: 400px;
-  overflow: auto;
-}
-
 div#entity_info table {
   text-align: left;
 }
@@ -175,6 +154,27 @@ img.entity_photo {
 }
 
 @media (min-width: 1000px) {
+  div#map_canvas {
+    float: right;
+    width: 75%;
+  }
+
+  div#map_key {
+    padding-top: 1em;
+  }
+
+  div#entity_list {
+    float: left;
+    max-width: 20%;
+    height: 90%;
+    margin-top: -2em;
+  }
+
+  div#entity_list ul {
+    height: 400px;
+    overflow: auto;
+  }
+
   div.entity_table_key {
     float: right;
     padding-bottom: 1em;
@@ -196,6 +196,10 @@ img.entity_photo {
 }
 
 @media (max-width: 999px) {
+  div#map_canvas {
+    width: 100%;
+  }
+
   div#main_content {
     display: flex;
     flex-direction: column;
