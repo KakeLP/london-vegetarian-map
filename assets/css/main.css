@@ -13,8 +13,8 @@ a {
 div#banner {
   background-color: #789968; /* light green */
   margin: -1em -1em 0 -1em;
-  padding-left: 1em;
-  padding-bottom: 0.1em;
+  padding: 1em;
+  text-align: center;
 }
 
 h1.page_header {
@@ -36,20 +36,31 @@ div#navbar_wrapper {
   margin-right: -1em;
 }
 
+div#navbar {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
 div#navbar ul {
+  padding: 0;
+  margin: 0;
   list-style: none;
-  display: inline;
+  display: inline-block;
 }
 
 div#navbar ul li {
-  display: inline;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
 }
 
 div#navbar ul li a {
   color: #e3d8a1; /* yellow-beige */
   text-decoration: none;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
+  padding: 1em 0.5em;
+  margin: 0;
+  display: inline-block;
 }
 
 div#navbar a:hover {
@@ -67,7 +78,6 @@ div#main_content {
 }
 
 div#main_content a {
-#  color: #9a001e;
   color: #637056;
 }
 
@@ -86,11 +96,6 @@ div.entity_table_key th.status span {
   width: 1.5em;
   text-align: center;
   display: block;
-}
-
-div.entity_table_key {
-  float: right;
-  padding-bottom: 1em;
 }
 
 table.entity_list th {
@@ -141,20 +146,6 @@ div#entity_list ul {
   overflow: auto;
 }
 
-div#entity_photo {
-  float: right;
-  padding-right: 1em;
-  margin-top: -3em;
-}
-
-div#entity_info {
-  float: left;
-}
-
-div.entity_info_with_photo {
-  max-width: 45%;
-}
-
 div#entity_info table {
   text-align: left;
 }
@@ -181,4 +172,51 @@ tr.entity_last_updated {
 
 img.entity_photo {
   border: thin solid black;
+}
+
+@media (min-width: 1000px) {
+  div.entity_table_key {
+    float: right;
+    padding-bottom: 1em;
+  }
+
+  div#entity_photo {
+    float: right;
+    padding-right: 1em;
+    margin-top: -3em;
+  }
+
+  div#entity_info {
+    float: left;
+  }
+
+  div.entity_info_with_photo {
+    max-width: 45%;
+  }
+}
+
+@media (max-width: 999px) {
+  div#main_content {
+    display: flex;
+    flex-direction: column;
+  }
+  h2.entity_name {
+    order: 1;
+    text-align: center;
+  }
+  div#entity_photo {
+    order: 2;
+    margin: 1em auto;
+  }
+  div#entity_info {
+    order: 3;
+  }
+  div#photo_copyright, div#entity_photo_date {
+    font-size: 0.8em;
+    text-align: right;
+  }
+  img.entity_photo {
+    max-width: 100%;
+    height: auto;
+  }
 }
