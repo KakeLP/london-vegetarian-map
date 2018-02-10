@@ -92,6 +92,18 @@ long: -0.075825647
 open: yes
 checked: August 2016
 ---
+id: arancini-brothers-old-street
+name: Arancini Brothers (Old Street)
+address: 42 Old Street, EC1V 9AE
+website: http://www.arancinibrothers.com/
+twitter: AranciniBros
+phone: 020 7253 5718
+description: An Australian take on Italian risotto balls.  This branch is now completely vegan.
+fatgayvegan: http://fatgayvegan.com/2018/01/18/arancini-brothers-to-stay-vegan/
+lat: 51.523931
+long: -0.096490726
+open: yes
+---
 id: ashna-hounslow
 name: Ashna
 address: 368 Staines Road, TW4 5BD
@@ -135,6 +147,17 @@ lat: 51.550845
 open: yes
 checked: November 2014
 ---
+id: blacksmith-and-toffeemaker
+name: The Blacksmith and the Toffeemaker
+address: 292-294 St John Street, Clerkenwell, EC1V 4PA
+website: https://www.theblacksmithandthetoffeemaker.co.uk/
+twitter: TB_and_TT
+description: Pub with a completely vegan menu.
+fatgayvegan: http://fatgayvegan.com/2018/01/14/vegan-pub-food-in-london/
+lat: 51.528182
+long: -0.10468487
+open: yes
+---
 id: blue-brick-cafe-east-dulwich
 name: Blue Brick Cafe
 address: 14 Fellbrigg Road, East Dulwich, SE22 9HH
@@ -152,6 +175,16 @@ lat: 51.484884
 open: yes
 checked: April 2014
 ---
+id: brook-hackney
+name: The Brook
+address: 171 Mare Street, Hackney, E8 3RH
+website: http://www.the-brook.co.uk/
+description: Vegan restaurant and cocktail bar, previously located in Wallington.
+hackneycitizen: https://www.hackneycitizen.co.uk/2018/01/31/the-brook-restaurant-review-hackney-central/
+lat: 51.540011
+long: -0.055957183
+open: yes
+---
 id: buttercream-dreams-camden-town
 name: Buttercream Dreams
 address: 126 Camden Road, NW1 9EE
@@ -159,6 +192,16 @@ description: Vegan bakery and cafe, previously at the Project B events venue in 
 lat: 51.542293
 long: -0.13770957
 open: no
+---
+id: by-chloe-covent-garden
+name: By Chloe
+address: Drury House, 34-43 Russell Street, WC2B 5HA
+website: https://eatbychloe.com/
+twitter: EatByChloe
+description: Vegan comfort food at the first London outpost of American chain By Chloe.
+lat: 51.513503
+long: -0.12032041
+open: yes
 ---
 id: cafe-crema-new-cross
 name: Cafe Crema
@@ -211,6 +254,15 @@ lat: 51.526945
 long: -0.11816029
 open: yes
 checked: May 2017
+---
+id: canvas-cafe-spitalfields
+name: Canvas Cafe
+address: 42 Hanbury Street, Spitalfields, E1 5JL
+website: http://www.thecanvascafe.org/
+description: Vegan cafe just off Brick Lane.
+lat: 51.520245
+long: -0.071473762
+open: yes
 ---
 id: carnevale-ec1
 name: Carnevale
@@ -1652,11 +1704,24 @@ open: yes
 id: smithfield-tavern-clerkenwell
 name: Smithfield Tavern
 address: 105 Charterhouse Street, Clerkenwell, EC1M 6HR
-description: Vegetarian and vegan pub.
+description: Previously a vegetarian and vegan pub, stopped being vegetarian around 2014, closed down around 2015.
 photo: https://www.flickr.com/photos/55935853@N00/3778338719
 rgl: http://london.randomness.org.uk/wiki.cgi?Smithfield_Tavern,_EC1M_6HR
 long: -0.101009
 lat: 51.519998
+open: no
+---
+id: spread-eagle-homerton
+name: Spread Eagle (Homerton)
+address: 224 Homerton High Street, E9 6AS
+website: https://www.thespreadeaglelondon.co.uk/
+twitter: SpreadEagleLDN
+phone: 020 8985 0400
+description: Vegan pub.
+guardian: https://www.theguardian.com/lifeandstyle/2018/jan/14/spread-eagle-hackney-vegan-meat-free-food
+hackneycitizen: https://www.hackneycitizen.co.uk/2018/02/02/the-spread-eagle-review-homerton-pub-restaurant-vegan/
+lat: 51.548677
+long: -0.040739268
 open: yes
 ---
 id: spring-gardens-cafe-vauxhall
