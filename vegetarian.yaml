@@ -1716,11 +1716,26 @@ long: -0.168545
 lat: 51.491917
 open: yes
 ---
+id: temple-of-camden
+name: Temple of Camden
+address: 103a Camley Street, N1C 4PF
+website: https://templeofseitan.co.uk/
+twitter: TempleOfSeitan
+description: Vegan "fried chicken" shop.  Also has <a href="/venues/temple-of-hackney.html">a branch in Hackney</a>.
+fatgayvegan: http://fatgayvegan.com/2018/01/31/why-today-is-a-big-day-for-vegan-london/
+happycow: https://www.happycow.net/reviews/temple-of-camden-north-london-111116
+kentishtowner: https://www.kentishtowner.co.uk/2018/02/01/temple-camden-open-seitanic-glory/
+simplylivingvegan: http://simplylivingvegan.com/2018/02/07/vegan-london-temple-of-camden/
+lat: 51.537904
+long: -0.13092050
+open: yes
+---
 id: temple-of-hackney
 name: Temple of Hackney
 address: 10 Morning Lane, Hackney, E9 6NA
+website: https://templeofseitan.co.uk/
 twitter: TempleOfSeitan
-description: Vegan "fried chicken" shop.
+description: Vegan "fried chicken" shop.  Also has <a href="/venues/temple-of-camden.html">a branch in Camden</a>.
 fatgayvegan: http://fatgayvegan.com/2017/02/24/temple-of-hackney-update/
 happycow: https://www.happycow.net/reviews/temple-of-hackney-east-london-77702
 lat: 51.545915
