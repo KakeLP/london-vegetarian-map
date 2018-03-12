@@ -33,7 +33,7 @@ open: yes
 id: ahimsa-pinner
 name: Ahimsa
 address: 7 Red Lion Parade, Bridge Street, Pinner, HA5 3JD
-website: http://ahimsathevegancafe.com/
+website: http://www.thevegancafe.com/
 phone: 020 7018 2133
 description: Vegan cafe.
 fatgayvegan: http://fatgayvegan.com/2017/04/11/vegan-cafe-in-pinner/
@@ -372,15 +372,12 @@ checked: June 2012
 id: coffee7-forest-gate
 name: CoffeE7
 address: 10 Sebert Road, Forest Gate, E7 0NQ
-description: Vegetarian cafe near Forest Gate Station.
+description: CoffeE7 was a vegetarian cafe near Forest Gate Station.  It <a href="http://www.newhamrecorder.co.uk/news/talks-to-take-over-much-loved-forest-gate-coffee-shop-1-5145665">closed down in July 2017</a>.
 rgl: http://london.randomness.org.uk/wiki.cgi?CoffeE7,_E7_0NQ
 photo: https://www.flickr.com/photos/kake_pugh/28908958015/
-website: http://www.coffee7.co.uk/
-twitter: Coffee7FG
 lat: 51.550091
 long: 0.025412053
-open: yes
-checked: August 2016
+open: no
 ---
 id: cookdaily-shoreditch
 name: CookDaily
@@ -1133,7 +1130,7 @@ id: my-village-camden-town
 name: My Village
 address: 37 Chalk Farm Road, Camden Town, NW1 8AJ
 website: http://www.myvillagecafebar.co.uk/
-description: <a href="https://www.facebook.com/249012889052/photos/a.10150811176504053.405827.249012889052/10154861767469053/?type=3&theater">Closed down</a> in mid-2017, but the owners have opened next door as <a href="/venues/hawraman-chalk-farm">Hawraman</a>.
+description: <a href="https://www.facebook.com/249012889052/photos/a.10150811176504053.405827.249012889052/10154861767469053/?type=3&theater">Closed down</a> in mid-2017, but the owners have opened next door as <a href="/venues/hawraman-chalk-farm.html">Hawraman</a>.
 cnj: http://www.thecnj.com/review/2008/040308/rest040308_01html.html
 yelp: https://www.yelp.co.uk/biz/my-village-caf%C3%A9-london-2
 long: -0.148085
@@ -1362,12 +1359,11 @@ id: rawligion-fitzrovia
 name: Rawligion
 address: 3 Tottenham Street, Fitzrovia, W1T 2AF
 phone: 020 7580 8388
-twitter: Rawligion
-website: http://www.rawligion.co.uk/
+description: Closed down in early 2018.
 fatgayvegan: http://fatgayvegan.com/2016/09/02/rawligion-in-central-london/
 lat: 51.520679
 long: -0.13481507
-open: yes
+open: no
 ---
 id: redemption-notting-hill
 name: Redemption (Notting Hill)
@@ -1924,8 +1920,7 @@ checked: October 2016
 id: vegan-yes-brick-lane
 name: Vegan Yes
 address: 64 Brick Lane, E1 6RF
-website: http://veganyes.uk/menubrick.html
-twitter: Vegan_Yes
+website: http://veganyes.uk/
 phone: 07879 536269
 description: Vegan Korean-Italian cafe.
 rgl: http://london.randomness.org.uk/wiki.cgi?Vegan_Yes,_E1_6RF
