@@ -104,6 +104,15 @@ lat: 51.523931
 long: -0.096490726
 open: yes
 ---
+id: ashers-africana-wembley
+name: Asher's Africana
+address: 244 Ealing Road, Wembley, HA0 4QL
+description: Indian vegetarian cafe.
+timeout: https://www.timeout.com/london/restaurants/ashers
+lat: 51.543981
+long: -0.29711862
+open: yes
+---
 id: ashna-hounslow
 name: Ashna
 address: 368 Staines Road, TW4 5BD
@@ -1020,6 +1029,16 @@ long: -0.132072
 lat: 51.512782
 open: no
 ---
+id: marus-bhajia-house-wembley
+name: Maru's Bhajia House
+address: 230 Ealing Road, Wembley, HA0 4QL
+phone: 020 8903 6771
+description: Kenyan-Indian vegetarian cafe specialising in potato fritters.
+yelp: https://www.yelp.co.uk/biz/marus-bhajia-house-wembley
+lat: 51.543850
+long: -0.29717495
+open: yes
+---
 id: mary-ward-centre-cafe-bloomsbury
 name: Mary Ward Centre Cafe
 address: 42 Queen Square, Bloomsbury, WC1N 3AQ
@@ -1115,6 +1134,24 @@ lat: 51.461711
 long: -0.11327156
 open: yes
 checked: April 2016
+---
+id: mumbai-local-harrow
+name: Mumbai Local (Harrow)
+address: 207 Station Road, Harrow, HA1 2TP
+website: http://mumbailocal.co.uk/restaurants/harrow/
+description: Indian vegetarian cafe.  It also has <a href="/venues/mumbai-local-wembley.html">a branch in Wembley</a>.
+lat: 51.584857
+long: -0.33246973
+open: yes
+---
+id: mumbai-local-wembley
+name: Mumbai Local (Wembley)
+address: 141 Ealing Road, Wembley, HA0 4BP
+website: http://mumbailocal.co.uk/restaurants/wembley/
+description: Indian vegetarian cafe.  It also has <a href="/venues/mumbai-local-harrow.html">a branch in Harrow</a>.
+lat: 51.545186
+long: -0.29698183
+open: yes
 ---
 id: museum-of-garden-history-cafe-lambeth
 name: Museum of Garden History cafe (Garden Cafe)
