@@ -621,11 +621,12 @@ checked: May 2009
 id: grass-roots-peckham
 name: Grass Roots
 address: 194 Bellenden Road, Peckham, SE15 4BW
+description: Closed down by May 2012, according to Google Street View.
 lesbianveg: http://web.archive.org/web/20090922205813/http://www.londonlesbianvegans.org/locations/2220.html
 yelp: http://www.yelp.co.uk/biz/grass-roots-wholefoods-london
 long: -0.073203
 lat: 51.466628
-open: yes
+open: no
 ---
 id: green-note-camden-town
 name: Green Note
