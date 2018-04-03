@@ -80,6 +80,17 @@ long: -0.125506
 lat: 51.51707
 open: no
 ---
+id: amrutha-lounge-earlsfield
+name: Amrutha Lounge
+address: 326 Garratt Lane, Earlsfield, SW18 4EJ
+website: http://www.amrutha.co.uk/
+description: Vegan soul food.
+fatgayvegan: http://fatgayvegan.com/2018/03/08/vegan-in-earlsfield/
+happycow: https://www.happycow.net/reviews/amrutha-lounge-south-west-london-112580
+lat: 51.443688
+long: -0.18992950
+open: yes
+---
 id: andu-cafe-dalston
 name: Andu Cafe
 address: 528 Kingsland Road, Dalston, E8 4AH
@@ -92,13 +103,38 @@ long: -0.075825647
 open: yes
 checked: August 2016
 ---
+id: arancini-brothers-dalston
+name: Arancini Brothers (Dalston)
+address: 592 Kingsland Road, Dalston, E8 4AH
+website: http://www.arancinibrothers.com/
+twitter: AranciniBros
+phone: 020 3583 7303
+description: An Australian take on Italian risotto balls, made vegan.
+fatgayvegan: http://fatgayvegan.com/2018/02/12/uk-chain-turns-completely-vegan/
+lat: 51.545903
+long: -0.075568154
+open: yes
+---
+id: arancini-brothers-kentish-town
+name: Arancini Brothers (Kentish Town)
+address: 115a Kentish Town Road, NW1 8PB
+website: http://www.arancinibrothers.com/
+twitter: AranciniBros
+phone: 020 3583 2242
+description: An Australian take on Italian risotto balls, made vegan.
+fatgayvegan: http://fatgayvegan.com/2018/02/12/uk-chain-turns-completely-vegan/
+kentishtowner: https://www.kentishtowner.co.uk/2018/02/15/arancini-brothers-now-vegan-byo/
+lat: 51.544338
+long: -0.14160950
+open: yes
+---
 id: arancini-brothers-old-street
 name: Arancini Brothers (Old Street)
 address: 42 Old Street, EC1V 9AE
 website: http://www.arancinibrothers.com/
 twitter: AranciniBros
 phone: 020 7253 5718
-description: An Australian take on Italian risotto balls.  This branch is now completely vegan.
+description: An Australian take on Italian risotto balls, made vegan.
 fatgayvegan: http://fatgayvegan.com/2018/01/18/arancini-brothers-to-stay-vegan/
 lat: 51.523931
 long: -0.096490726
@@ -172,6 +208,26 @@ name: Blue Brick Cafe
 address: 14 Fellbrigg Road, East Dulwich, SE22 9HH
 long: -0.073321
 lat: 51.456989
+open: yes
+---
+id: bodega-50-stoke-newington
+name: Bodega 50 (Stoke Newington)
+address: 50 Allen Road, Stoke Newington, N16 8RZ
+phone: 020 7683 3869
+description: Mostly-vegan cafe.  It has <a href="/venues/bodega-50-walthamstow.html">another branch</a> in Walthamstow.
+happycow: https://www.happycow.net/reviews/bodega-50-north-london-42587
+tastyfever: https://tastyfever.com/2013/08/11/bodega-50/
+lat: 51.555316
+long: -0.081780151
+open: yes
+---
+id: bodega-50-walthamstow
+name: Bodega 50 (Walthamstow)
+address: 442 Hoe Street, Walthamstow, E17 9AP
+description: Mostly-vegan cafe.  It has <a href="/venues/bodega-50-stoke-newington.html">another branch</a> in Stoke Newington.
+walthamstowfoodies: https://walthamstowfoodies.com/2018/02/22/busy-down-at-the-bakers-arms/
+lat: 51.576303
+long: -0.015355244
 open: yes
 ---
 id: bonnington-cafe-vauxhall
@@ -634,6 +690,15 @@ address: 106 Parkway, Camden Town, NW1 7AN
 website: http://www.greennote.co.uk/
 long: -0.145676
 lat: 51.537380000000006
+open: yes
+---
+id: green-rhino-camden
+name: Green Rhino
+address: 25a Pratt Street, Camden, NW1 0BG
+description: Vegan restaurant.
+fatgayvegan: http://fatgayvegan.com/2018/03/21/new-vegan-eatery-in-camden/
+lat: 51.537726
+long: -0.13972123
 open: yes
 ---
 id: greens-and-beans-drummond-street
@@ -1120,6 +1185,7 @@ website: http://www.mother.works/
 instagram: mother.works
 description: Smoothie and juice bar that also does sweet and savoury food.
 fatgayvegan: http://fatgayvegan.com/2017/05/10/new-vegan-spot-for-london/
+leytonstoner: https://www.leytonstoner.london/2018/02/14/must-mother-east/
 lat: 51.547513
 long: -0.024879366
 open: yes
@@ -2021,6 +2087,16 @@ facebook: http://www.facebook.com/pages/The-Waiting-Room/174709262577639
 fatgayvegan: http://fatgayvegan.com/2015/09/04/south-of-the-river-treats/
 long: -0.026071
 lat: 51.479422
+open: yes
+---
+id: what-the-pitta-camden
+name: What The Pitta
+address: 91 Bayham Street, Camden, NW1 0AG
+website: http://whatthepitta.com/
+description: Vegan doner kebabs.
+fatgayvegan: http://fatgayvegan.com/2018/03/29/inside-look-at-londons-flagship-vegan-kebab-shop/
+lat: 51.537826
+long: -0.14034082
 open: yes
 ---
 id: whole-meal-streatham
