@@ -1,0 +1,80 @@
+[% USE CGI %]
+[% USE JSON ( convert_blessed => 1, allow_blessed => 1 ) %]
+
+[% do_map = 1 %]
+[% INCLUDE header.tt %]
+
+<div id="hiatus_warning">
+Please note that updates to this site are currently on hiatus; see <a href="/about.html">About</a> for more details.
+</div>
+
+<div id="map_canvas"></div>
+
+<div id="entity_list">
+
+  [% INCLUDE map_key.tt %]
+
+  <p><span id="entity_list_scope">All</span> [% entity_type %]
+     <span id="toggle_closed"></span>
+     (<a href="[% index_url %]">view without a map</a>):</p>
+  <ul>
+    [% i = 0 %]
+    [% FOREACH entity = entities %]
+      [% i = i + 1 %]
+      <li class="[% IF entity.open %]open[% ELSE %]closed[% END %]">
+        <span>
+        [% IF entity.not_on_map %]
+          [% CGI.escapeHTML( entity.name ) %] (not on map &#8212;
+          <a href="[% base_url %][% entity_type %]/[% entity.id %].html">view info</a>)
+        [% ELSE %]
+          <a href="#" onclick="return show_marker( [% i %] )">[% CGI.escapeHTML( entity.name ) %]</a>
+        [% END %]
+        </span>
+      </li>
+    [% END %]
+  </ul>
+
+  <p>Last updated at [% updated | html %].</p>
+
+</div>
+
+<script type="text/javascript">
+
+  min_lat = [% min_lat %];
+  min_long = [% min_long %];
+  max_lat = [% max_lat %];
+  max_long = [% max_long %];
+  centre_lat = [% centre_lat %];
+  centre_long = [% centre_long %];
+
+  function add_open_markers() {
+    var entity;
+    [% i = 0 %]
+    [% FOREACH entity = entities %]
+      [% i = i + 1 %] [%# Increment even if not adding marker so things don't get out of sync when we add/unadd with Javascript. %]
+      [% IF entity.open %]
+        entity = [% entity.json %];
+        add_marker( [% i %], entity );
+      [% END %]
+    [% END %]
+  }
+
+  function add_closed_markers() {
+    var entity;
+    [% i = 0 %]
+    [% FOREACH entity = entities %]
+      [% i = i + 1 %]
+      [% IF !entity.open %]
+        entity = [% entity.json %];
+        add_marker( [% i %], entity );
+      [% END %]
+    [% END %]
+  }
+
+  function add_markers() {
+    add_open_markers();
+    add_closed_markers();
+  }
+</script>
+
+[% INCLUDE footer.tt %]

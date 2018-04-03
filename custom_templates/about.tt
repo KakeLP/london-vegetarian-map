@@ -1,11 +1,24 @@
 [% INCLUDE header.tt subtitle="About this site" %]
 
-<p>This website is a work in progress, and probably always will be.
-Its aim is to list every vegetarian restaurant and cafe in London.</p>
+<p><strong>Please note that this website is not currently being
+actively updated.</strong> To be more specific, I am not currently
+deliberately searching out information about new/moved/closed/etc
+businesses to add to/amend/remove from the map.</p>
 
-<p>The administrator of this website is <a
-href="http://www.earth.li/~kake/">Kake</a> (<a
-href="mailto:kake@earth.li">kake@earth.li</a>).</p>
+<p>If you have clear and convincing proof that one of the businesses
+listed here has closed or is no longer vegetarian, please email me (<a
+href="http://www.earth.li/~kake/">Kake</a>) at <a
+href="mailto:kake@earth.li">kake@earth.li</a> and I'll make the
+required amendments.  Please note that this does need to be convincing
+proof (e.g. a tweet from the business stating that they've closed
+down, a photo or Google Street View link showing a "closed down" sign,
+etc); I won't risk damaging someone's business by marking them closed
+on the basis of hearsay.</p>
+
+<p>The original intention of this website was to list every vegetarian
+cafe and restaurant in London.  It originated as a Google map, but in
+January 2015 I moved it over to run on its own domain using custom
+software.</p>
 
 <p>Website created using <a
 href="https://github.com/KakeLP/map-site-maker">MapSite.pm</a>, <a

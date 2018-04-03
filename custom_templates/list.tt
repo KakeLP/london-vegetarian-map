@@ -1,0 +1,41 @@
+[% USE CGI %]
+
+[% INCLUDE header.tt %]
+
+<div id="hiatus_warning">
+Please note that updates to this site are currently on hiatus; see <a href="/about.html">About</a> for more details.
+</div>
+
+<div id="entity_list_no_map">
+
+  <div class="entity_table_key">
+    <table>
+      <tr><th class="status open"><span>O</span></th><td>= still in existence</td></tr>
+      <tr><th class="status closed"><span>C</span></th><td>= closed permanently</td></tr>
+    </table>
+  </div>
+
+  <p>All [% entity_type %]
+     (<a href="[% map_url %]">view them on a map</a>):</p>
+
+  <table class="entity_list">
+    <tr>
+      <th></th><th>Name</th><th>Address</th>
+    </tr>
+    [% FOREACH entity = entities %]
+      <tr>
+        [% IF entity.open %]
+          <td class="status open"><span>O</span></td>
+        [% ELSE %]
+          <td class="status closed"><span>C</span></td>
+        [% END %]
+        <td><a href="[% base_url %][% entity_type %]/[% entity.id | html %].html">[% entity.name | html %]</a></td>
+        <td>[% entity.address | html %]</td>
+      </tr>
+    [% END %]
+  </table>
+</div>
+
+<p>Last updated at [% updated | html %].</p>
+
+[% INCLUDE footer.tt %]

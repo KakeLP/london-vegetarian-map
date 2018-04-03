@@ -85,6 +85,24 @@ div#main_content a:hover {
   color: #789968; /* light green */
 }
 
+div#hiatus_warning {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
+  background-color: #789968;
+  margin-bottom: 1em;
+}
+
+div#hiatus_warning a {
+  color: #e3d8a1;
+  padding: 1em 0;
+}
+
+div#hiatus_warning a:hover {
+  color: #e3d8a1;
+  background-color: #637056;
+}
+
 div#front_page_text {
   padding-top: 0.5em;
 }
