@@ -90,7 +90,6 @@ div#hiatus_warning {
   padding-bottom: 1em;
   text-align: center;
   background-color: #789968;
-  margin-bottom: 1em;
 }
 
 div#hiatus_warning a {
@@ -107,40 +106,22 @@ div#front_page_text {
   padding-top: 0.5em;
 }
 
-div.entity_table_key th.status span {
-  font-size: 0.8em;
-  font-weight: bold;
-  border: thin solid black;
-  width: 1.5em;
-  text-align: center;
-  display: block;
-}
-
 table.entity_list th {
   text-align: left;
   padding-left: 0.5em;
 }
 
-table.entity_list td.status {
+table.entity_list td.category, div.entity_table_key td.category {
+  border: thin solid black;
+  width: 0.4em;
+  height: 0.4em;
+  display: block;
+}
+
+table.entity_list span, div.entity_table_key span {
   font-size: 0.8em;
   font-weight: bold;
-}
-
-table.entity_list td.status span {
-  border: thin solid black;
-  width: 1.5em;
   display: block;
-  text-align: center;
-}
-
-table.entity_list td.closed span,
-  div.entity_table_key th.closed span {
-  background-color: #fc6355;
-}
-
-table.entity_list td.open span,
-  div.entity_table_key th.open span {
-  background-color: #00e13c;
 }
 
 div#entity_info table {
@@ -171,7 +152,35 @@ img.entity_photo {
   border: thin solid black;
 }
 
+ul.category_list li {
+  list-style: none;
+  position: relative;
+}
+
+ul.category_list li:before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 0.6em;
+  height: 0.6em;
+  border-radius: 0.6em;
+  left: -20px;
+  top: 0.3em;
+  border: thin solid black;
+}
+
+li.cat_colour_green:before, td.cat_colour_green {
+  background-color: #00e13c;
+}
+li.cat_colour_red:before, td.cat_colour_red {
+  background-color: #fc6355;
+}
+
 @media (min-width: 1000px) {
+  div#hiatus_warning {
+    margin-bottom: 1em;
+  }
+
   div#map_canvas {
     float: right;
     width: 75%;
@@ -179,6 +188,12 @@ img.entity_photo {
 
   div#map_key {
     padding-top: 1em;
+  }
+
+  div#category_list {
+    float: left;
+    max-width: 20%;
+    padding-bottom: 1em;
   }
 
   div#entity_list {
@@ -222,6 +237,20 @@ img.entity_photo {
     display: flex;
     flex-direction: column;
   }
+
+  div#hiatus_warning {
+    order: 1;
+  }
+  div#category_list {
+    order: 2;
+  }
+  div#map_canvas {
+    order: 3;
+  }
+  div#entity_list {
+    order: 4;
+  }
+
   h2.entity_name {
     order: 1;
     text-align: center;
@@ -233,6 +262,7 @@ img.entity_photo {
   div#entity_info {
     order: 3;
   }
+
   div#photo_copyright, div#entity_photo_date {
     font-size: 0.8em;
     text-align: right;
