@@ -1,3 +1,6 @@
+# Ignore emacs droppings.
+*~
+
 cache/
 conf/flickr_secrets.conf
 site/
