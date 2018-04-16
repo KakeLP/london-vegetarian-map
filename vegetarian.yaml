@@ -1,11 +1,15 @@
 id: 42-degrees-raw-mayfair
 name: 42ºRaw
 address: Burlington Arcade, Burlington Gardens, Mayfair, W1S 3ES
-website: http://42raw.co.uk/locations/?store_id=2
+description: Now closed.
+eveningstandard: https://www.standard.co.uk/go/london/restaurants/grace-dent-reviews-42-raw-8577984.html
 goodforlunch: http://www.goodforlunch.com/reviews/20317/42raw-burlington-arcade
+happycow: https://www.happycow.net/reviews/42-raw-london-32395
+telegraph: https://www.telegraph.co.uk/foodanddrink/restaurants/9387113/42-Raw-London-W1-restaurant-review.html
+yelp: https://www.yelp.co.uk/biz/42raw-london-london
 long: -0.140827
 lat: 51.509721
-open: yes
+open: no
 ---
 id: 222-veggie-vegan-restaurant-west-brompton
 name: 222 Veggie Vegan Restaurant
