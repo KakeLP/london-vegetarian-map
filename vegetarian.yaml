@@ -390,7 +390,7 @@ address: 348 Bath Road, Hounslow, TW4 7HW
 website: http://www.chinichor.com/
 phone: 020 8570 3500
 description: Delhi and Mumbai chaat, Punjabi curries, and Indian-Chinese vegetatian food.
-indiabulletin: http://www.indianewsbulletin.com/review-chini-chor-hounslow-southall
+indiabulletin: http://web.archive.org/web/20170620070658/http://www.indianewsbulletin.com/review-chini-chor-hounslow-southall
 lat: 51.473414
 long: -0.38834994
 open: yes
@@ -568,11 +568,11 @@ name: Fed By Water
 address: Unit 1b, Dalston Cross Shopping Centre, 64 Kingsland High Street, E8 2LX
 website: http://fedbywater.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/28623828430/
-description: Vegan Italian restaurant; previously omnivorous but <a href="http://fatgayvegan.com/2016/05/26/restaurant-ditches-meat-becomes-100-vegan/">switched to 100% vegan</a> in May 2016.
+description: Closed at this location but may reopen elsewhere.  Was a vegan Italian restaurant; previously omnivorous but <a href="http://fatgayvegan.com/2016/05/26/restaurant-ditches-meat-becomes-100-vegan/">switched to 100% vegan</a> in May 2016.
 phone: 020 7249 6242
 lat: 51.547900
 long: -0.075261980
-open: yes
+open: no
 ---
 id: the-fields-beneath-kentish-town
 name: The Fields Beneath
@@ -1366,14 +1366,12 @@ open: no
 id: piadina-genuina-homerton
 name: Piadina Genuina
 address: 251 Wick Road, Homerton, E9 5DG
-website: https://www.piadinagenuina.co.uk/
-phone: 07497 674699
-description: Italian cafe specialising in filled freshly-cooked flatbreads.
+description: Now closed; was an Italian cafe specialising in filled freshly-cooked flatbreads.  May reopen at some point.
 fatgayvegan: http://fatgayvegan.com/2017/05/01/new-vegan-italian-food-spot/
 happycow: https://www.happycow.net/reviews/piadina-genuina-east-london-89932
 lat: 51.545301
 long: -0.035478517
-open: yes
+open: no
 ---
 id: picky-wops-fulham
 name: Picky Wops
@@ -1401,13 +1399,13 @@ checked: May 2011
 id: pride-kitchen-neals-yard
 name: Pride Kitchen
 address: 2 Neal's Yard, Covent Garden, WC2H 9DP
-description: Vegan cafe focusing on salads, soups, and cakes.  Previously known as Salad Pride.
+description: <a href="https://www.instagram.com/p/Bc0SgdigGiV/">Closed down</a> around the end of 2017.  Pride Kitchen was a vegan cafe focusing on salads, soups, and cakes, previously known as Salad Pride.  As of early 2018 the business continues as a series of popups and residencies.
 website: https://www.pride.kitchen/
 twitter: ThePrideKitchen
 fatgayvegan: http://fatgayvegan.com/2016/09/11/another-london-cafe-turns-vegan/
 lat: 51.514433
 long: -0.12637858
-open: yes
+open: no
 ---
 id: radhika-sweet-mart-harrow
 name: Radhika Sweet Mart
@@ -1651,7 +1649,7 @@ open: yes
 id: saravanaa-bhavan-croydon
 name: Saravanaa Bhavan (Croydon)
 address: 18 George Street, Croydon, CR0 1PA
-website: http://www.saravanabhavan.co.uk/
+website: http://www.saravanabhavan.com/
 photo: https://www.flickr.com/photos/kake_pugh/33604310576/
 description: Indian vegetarian restaurant, part of a small chain.  This one opened in March 2017.
 lat: 51.373766
@@ -1672,7 +1670,7 @@ checked: August 2014
 id: saravanaa-bhavan-ilford
 name: Saravanaa Bhavan (Ilford)
 address: 115-127 Cranbrook Road, Ilford, IG1 4PU
-website: http://www.saravanabhavan.co.uk/restaurants/Ilford-3.html
+website: http://www.saravanabhavan.com/
 photo: https://www.flickr.com/photos/kake_pugh/28291314954/
 rgl: http://london.randomness.org.uk/wiki.cgi?Saravanaa_Bhavan,_IG1_4PU
 long: 0.068724
@@ -1683,7 +1681,7 @@ checked: August 2016
 id: saravanaa-bhavan-rayners-lane
 name: Saravanaa Bhavan (Rayners Lane)
 address: 403 Alexandra Avenue, Rayners Lane, HA2 9SG
-website: http://www.saravanabhavan.co.uk/restaurants/Harrow-2.html
+website: http://www.saravanabhavan.com/
 phone: 020 8869 9966
 photo: https://www.flickr.com/photos/kake_pugh/26823653949/
 long: -0.371454
@@ -1695,7 +1693,7 @@ id: saravanaa-bhavan-southall
 name: Saravanaa Bhavan (Southall)
 address: Glassy Junction, 97 South Road, Southall, UB1 1SQ
 photo: https://www.flickr.com/photos/kake_pugh/16029200966
-website: http://www.saravanabhavan.co.uk/restaurants/Southall-4.html
+website: http://www.saravanabhavan.com/
 long: -0.37817
 lat: 51.507273000000005
 open: yes
@@ -1703,7 +1701,7 @@ open: yes
 id: saravanaa-bhavan-tooting
 name: Saravanaa Bhavan (Tooting)
 address: 254 Upper Tooting Road, SW17 0DN
-website: http://www.saravanabhavan.co.uk/restaurants/Toothing-6.html
+website: http://www.saravanabhavan.com/
 photo: https://www.flickr.com/photos/kake_pugh/26161737834/
 rgl: http://london.randomness.org.uk/wiki.cgi?Saravanaa_Bhavan,_SW17_0DN
 long: -0.166002
@@ -1714,7 +1712,7 @@ checked: April 2016
 id: saravanaa-bhavan-wembley
 name: Saravanaa Bhavan (Wembley)
 address: 22-22A Ealing Road, Wembley, HA0 4TL
-website: http://www.saravanabhavan.co.uk/restaurants/Wembley-5.html
+website: http://www.saravanabhavan.com/
 photo: https://www.flickr.com/photos/kake_pugh/33907180173/
 rgl: http://london.randomness.org.uk/wiki.cgi?Saravanaa_Bhavan,_HA0_4TL
 long: -0.298959
