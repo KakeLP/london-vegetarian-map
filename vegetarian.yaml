@@ -29,7 +29,7 @@ twitter: 90degreemelt
 phone: 020 3754 5711
 description: American vegetarian restaurant specialising in grilled cheese sandwiches including vegan versions.
 fatgayvegan: http://fatgayvegan.com/2017/04/13/vegan-melted-cheese-in-east-london/
-youngdomesticgoddess: http://www.theyoungdomesticgoddess.co.uk/2017/04/review-90-degree-melt-stepney-green.html
+youngdomesticgoddess: http://web.archive.org/web/20170415151727/http://www.theyoungdomesticgoddess.co.uk/2017/04/review-90-degree-melt-stepney-green.html
 lat: 51.522261
 long: -0.044725433
 open: yes
@@ -220,7 +220,7 @@ address: 50 Allen Road, Stoke Newington, N16 8RZ
 phone: 020 7683 3869
 description: Mostly-vegan cafe.  It has <a href="/venues/bodega-50-walthamstow.html">another branch</a> in Walthamstow.
 happycow: https://www.happycow.net/reviews/bodega-50-north-london-42587
-tastyfever: https://tastyfever.com/2013/08/11/bodega-50/
+tastyfever: http://web.archive.org/web/20180403114306/https://tastyfever.com/2013/08/11/bodega-50/
 lat: 51.555316
 long: -0.081780151
 open: yes
@@ -327,7 +327,7 @@ checked: May 2017
 id: canvas-cafe-spitalfields
 name: Canvas Cafe
 address: 42 Hanbury Street, Spitalfields, E1 5JL
-website: http://www.thecanvascafe.org/
+website: https://www.thecanvascafe.org/
 description: Vegan cafe just off Brick Lane.
 lat: 51.520245
 long: -0.071473762
@@ -817,13 +817,13 @@ open: yes
 id: itadaki-zen-kings-cross
 name: Itadaki Zen
 address: 139 King's Cross Road, WC1X 9BJ
-website: http://www.itadakizen.com/
+website: http://www.itadakizen-uk.com/
 photo: https://www.flickr.com/photos/kake_pugh/5590501854/
 rgl: https://london.randomness.org.uk/wiki.cgi?Itadaki_Zen,_WC1X_9BJ
 long: -0.11595700000000002
 lat: 51.52953800000001
 open: yes
-checked: May 2011
+checked: March 2018
 ---
 id: jai-krishna-stroud-green
 name: Jai Krishna
@@ -832,7 +832,7 @@ phone: 020 7272 1680
 description: Indian vegetarian restaurant.
 photo: https://www.flickr.com/photos/kake_pugh/29500908433/
 timeout: http://www.timeout.com/london/restaurants/jai-krishna
-highteaheels: https://highteaandhighheels.com/2015/08/14/jai-krishna-a-southern-indian-vegetarian-in-finsbury-park/
+highteaheels: http://web.archive.org/web/20160613123632/https://highteaandhighheels.com/2015/08/14/jai-krishna-a-southern-indian-vegetarian-in-finsbury-park/
 cheapeats: http://www.londoncheapeats.com/entries/aubergine-curry-with-sides-jai-krishna-775
 lat: 51.570096
 long: -0.11427109
@@ -918,12 +918,11 @@ id: kailash-parbat-wembley
 name: Kailash Parbat (Wembley)
 address: 529 Wembley High Road, HA0 2DH
 photo: https://www.flickr.com/photos/kake_pugh/37219275015/
-description: "Indian vegetarian restaurant.  The premises were previously occupied by Chennai Dosa (two branches side by side; one veggie, one non-veggie, with separate kitchens)."
-website: http://kailashparbat.co.uk/
+description: "Closed and replaced by Masala Canteen.  Was an Indian vegetarian restaurant.  The premises were previously occupied by Chennai Dosa (two branches side by side; one veggie, one non-veggie, with separate kitchens)."
 chowhound: https://www.chowhound.com/post/mumbai-street-food-uk-982630?commentId=9066674
 lat: 51.551909
 long: -0.29888754
-open: yes
+open: no
 checked: September 2017
 ---
 id: karma-free-pizza-company-rayners-lane
@@ -988,7 +987,7 @@ rgl: https://london.randomness.org.uk/wiki.cgi?Krishna,_HA0_2AF
 lat: 51.552138
 long: -0.29955406
 open: yes
-checked: September 2017
+checked: August 2018
 ---
 id: the-larder-bethnal-green
 name: The Larder
@@ -1012,14 +1011,14 @@ open: yes
 id: lighthouse-catford
 name: Lighthouse
 address: 7 Catford Broadway, SE6 4SP
-website: http://www.lighthousehealthyeating.co.uk/
+website: http://web.archive.org/web/20171013122839/http://www.lighthousehealthyeating.co.uk/
 twitter: lighthouselove
-description: Vegetarian cafe in Catford, also catering well for vegans.  It has a lunchtime buffet with options of single-plate or all-you-can-eat.
+description: Now closed.  Was a vegetarian cafe in Catford, also catering well for vegans.
 photo: https://www.flickr.com/photos/kake_pugh/28606591190/
 rgl: https://london.randomness.org.uk/wiki.cgi?Lighthouse,_SE6_4SP
 lat: 51.444984
 long: -0.022347763
-open: yes
+open: no
 checked: August 2016
 ---
 id: love-and-scandal-waterloo
@@ -1347,7 +1346,9 @@ id: paradise-unbakery-kensal-green
 name: Paradise Unbakery
 address: 59 Chamberlayne Road, Kensal Green, NW10 3ND
 description: Cafe offering raw and cooked vegan food as well as raw cakes.
-twitter: ParadiseUnbaker
+website: https://paradiseplantbased.com/
+twitter: Paradise__Vegan
+phone: 020 8968 8321
 fatgayvegan: http://fatgayvegan.com/2016/10/31/new-vegan-cafe-in-london/
 vegannigerian: http://www.vegannigerian.com/2016/10/paradise-unbakery-vegan-cafe.html
 lat: 51.533289
@@ -1641,10 +1642,12 @@ id: sarashwathy-bavans-wembley
 name: Sarashwathy Bavans (Wembley)
 address: 549 Wembley High Road, HA0 2DJ
 photo: https://www.flickr.com/photos/kake_pugh/37028765736/
+rgl: https://london.randomness.org.uk/wiki.cgi?Sarashwathy_Bhavan,_HA0_2DJ
 website: http://www.sarashwathy.com/
 lat: 51.551999
 long: -0.30010660
 open: yes
+checked: August 2018
 ---
 id: saravanaa-bhavan-croydon
 name: Saravanaa Bhavan (Croydon)
@@ -1948,7 +1951,7 @@ name: Tide Tables Cafe
 address: 2 The Arches, Richmond, TW9 1TH
 description: Located in one of the arches underneath Richmond Bridge.
 photo: https://www.flickr.com/photos/kake_pugh/33874278734/
-website: http://tidetablescafe.com/
+website: http://www.tidetablescafe.co.uk/
 fatgayvegan: http://fatgayvegan.com/2012/12/10/here-comes-the-rising-tide/
 long: -0.306544
 lat: 51.457604
