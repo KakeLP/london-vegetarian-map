@@ -248,11 +248,11 @@ id: brook-hackney
 name: The Brook
 address: 171 Mare Street, Hackney, E8 3RH
 website: http://www.the-brook.co.uk/
-description: Vegan restaurant and cocktail bar, previously located in Wallington.
+description: Previously a vegan restaurant and cocktail bar located first in Wallington and then in Hackney.  The Hackney location <a href="https://www.facebook.com/thebrooksocial/photos/a.552397844800087/2021927581180432/">closed down</a> in September 2018.
 hackneycitizen: https://www.hackneycitizen.co.uk/2018/01/31/the-brook-restaurant-review-hackney-central/
 lat: 51.540011
 long: -0.055957183
-open: yes
+open: no
 ---
 id: buttercream-dreams-camden-town
 name: Buttercream Dreams
