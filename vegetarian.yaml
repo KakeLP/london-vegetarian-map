@@ -2126,11 +2126,12 @@ address: 1st floor, 14 Neal's Yard, Covent Garden, WC2H 9DP
 website: http://www.wildfoodcafe.com/
 timeout: http://www.timeout.com/london/restaurants/wild-food-cafe
 eveningstandard: http://www.standard.co.uk/goingout/restaurants/wild-food-cafe--review-7428060.html
-open: yes
 description: Their website doesn't say they're completely vegetarian, but they told me by email (October 2011) that they are.
+photo: https://www.flickr.com/photos/kake_pugh/45135841021/
 long: -0.126509
 lat: 51.51433300000001
 open: yes
+checked: October 2018
 ---
 id: woodlands-piccadilly-circus
 name: Woodlands (Piccadilly Circus)
