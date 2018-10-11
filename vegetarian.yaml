@@ -1915,11 +1915,12 @@ id: thenga-cafe-bloomsbury
 name: Thenga Cafe
 address: 120 Cromer Street (entrance on Judd Street), Bloomsbury, WC1H 8BS
 twitter: ThengaCafe
-description: Vegan and vegetarian "spice-inspired" cafe.
-fatgayvegan: http://fatgayvegan.com/2017/06/16/vegan-options-in-heart-of-bloomsbury/
+photo: https://www.flickr.com/photos/kake_pugh/44332309235/
+rgl: https://london.randomness.org.uk/wiki.cgi?Thenga_Cafe,_WC1H_8BS
 lat: 51.527519
 long: -0.12448052
 open: yes
+checked: October 2018
 ---
 id: tibits-mayfair
 name: Tibits (Mayfair)
