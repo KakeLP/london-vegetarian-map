@@ -1379,12 +1379,11 @@ name: Picky Wops
 address: Unit 7, Shopping Palace, 347 North End Road, Fulham, SW6 1NN
 website: http://www.pickywops.com/
 twitter: PickyWops
-phone: 07552 085472
-description: Vegan pizzeria.
+description: Vegan pizzeria which <a href="https://twitter.com/PickyWops/status/1054156682740330496">closed down</a> in October 2018.
 fatgayvegan: http://fatgayvegan.com/2017/04/02/london-pizza-shop-turns-vegan/
 lat: 51.484682
 long: -0.20184387
-open: yes
+open: no
 ---
 id: pilpel-spitalfields
 name: Pilpel
