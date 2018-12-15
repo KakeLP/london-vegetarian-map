@@ -356,7 +356,7 @@ open: yes
 id: chai-naasto-queensbury
 name: Chai Naasto
 address: 242 Streatfield Road, Queensbury, HA3 9BX
-website: https://www.chai-naasto.co.uk/restaurant/harrow
+website: https://www.chai-naasto.co.uk/
 phone: 020 8204 4660
 description: Indian vegetarian.
 lat: 51.595580
@@ -375,13 +375,11 @@ open: yes
 id: chetnas-bhel-poori-house-kenton
 name: Chetna's Bhel Poori House
 address: 333a Kenton Road, HA3 0XS
-website: http://www.chetnas.co.uk/
-phone: 020 8907 5103
-description: Vegetarian Indian cafe.
+description: Vegetarian Indian cafe.  Closed down by April 2018, according to Google Street View.
 photo: https://www.flickr.com/photos/kake_pugh/29426434311/
 lat: 51.586553
 long: -0.30627702
-open: yes
+open: no
 checked: September 2016
 ---
 id: chini-chor-hounslow
@@ -1627,7 +1625,7 @@ rgl: https://london.randomness.org.uk/wiki.cgi?Santok_Maa%27s,_CR7_7PA
 lat: 51.395797
 long: -0.11491616
 open: yes
-checked: March 2016
+checked: December 2018
 ---
 id: sarashwathy-bavans-tooting
 name: Sarashwathy Bavans (Tooting)
@@ -1893,7 +1891,7 @@ description: Vegan "fried chicken" shop.  Also has <a href="/venues/temple-of-ha
 fatgayvegan: http://fatgayvegan.com/2018/01/31/why-today-is-a-big-day-for-vegan-london/
 happycow: https://www.happycow.net/reviews/temple-of-camden-north-london-111116
 kentishtowner: https://www.kentishtowner.co.uk/2018/02/01/temple-camden-open-seitanic-glory/
-simplylivingvegan: http://simplylivingvegan.com/2018/02/07/vegan-london-temple-of-camden/
+simplylivingvegan: http://web.archive.org/web/20180210151651/http://simplylivingvegan.com/2018/02/07/vegan-london-temple-of-camden/
 lat: 51.537904
 long: -0.13092050
 open: yes
