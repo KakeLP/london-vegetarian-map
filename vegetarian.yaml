@@ -1388,7 +1388,6 @@ name: Pride Kitchen
 address: 2 Neal's Yard, Covent Garden, WC2H 9DP
 description: <a href="https://www.instagram.com/p/Bc0SgdigGiV/">Closed down</a> around the end of 2017.  Pride Kitchen was a vegan cafe focusing on salads, soups, and cakes, previously known as Salad Pride.  As of early 2018 the business continues as a series of popups and residencies.
 website: https://www.pride.kitchen/
-twitter: ThePrideKitchen
 fatgayvegan: http://fatgayvegan.com/2016/09/11/another-london-cafe-turns-vegan/
 lat: 51.514433
 long: -0.12637858
@@ -2281,7 +2280,6 @@ id: otarian-shaftesbury-avenue
 name: Otarian (Shaftesbury Avenue)
 address: 190 Shaftesbury Avenue, Soho, WC2H 8JL
 description: As of October 2011, their website states they are experiencing a "time of development" during which they will "not be functioning in the UK".
-website: http://www.otarian.com/
 long: -0.126745
 lat: 51.515379
 open: no
@@ -2290,8 +2288,7 @@ id: otarian-wardour-street
 name: Otarian (Wardour Street)
 address: 181-183 Wardour Street, Soho, W1F 8WZ
 description: As of October 2011, their website states they are experiencing a "time of development" during which they will "not be functioning in the UK".
-website: http://www.otarian.com/
-guardian: http://www.guardian.co.uk/lifeandstyle/2010/oct/24/jay-rayner-restaurant-review-otarian-london
+guardian: https://www.theguardian.com/lifeandstyle/2010/oct/24/jay-rayner-restaurant-review-otarian-london
 long: -0.135441
 lat: 51.515166
 open: no
