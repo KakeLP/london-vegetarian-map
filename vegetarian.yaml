@@ -1038,17 +1038,6 @@ lat: 51.448738
 long: -0.039800495
 open: yes
 ---
-id: loving-hut-edgware
-name: Loving Hut (Edgware)
-address: 236 Station Road, Edgware, HA8 7AU
-photo: https://www.flickr.com/photos/kake_pugh/6323829250/
-website: http://edgware.lovinghut.co.uk/
-rgl: https://london.randomness.org.uk/wiki.cgi?Loving_Hut,_HA8_7AU
-long: -0.275517
-lat: 51.615182
-open: yes
-checked: September 2017
----
 id: loving-hut-holloway-road
 name: Loving Hut (Holloway Road)
 address: 669 Holloway Road, N19 5SE
@@ -2404,6 +2393,17 @@ kentishtowner: https://www.kentishtowner.co.uk/2017/11/29/worlds-first-vegan-pie
 lat: 51.541294
 long: -0.14670168
 open: yes
+---
+id: zen-buddha-edgware
+name: Zen Buddha (Edgware)
+address: 236 Station Road, Edgware, HA8 7AU
+website: https://www.zen-buddha.co.uk/
+rgl: https://london.randomness.org.uk/wiki.cgi?Zen_Buddha,_HA8_7AU
+description: Previously known as Loving Hut (<a href="https://www.flickr.com/photos/kake_pugh/6323829250/">photo</a>).
+long: -0.275517
+lat: 51.615182
+open: yes
+checked: September 2017
 ---
 id: zilli-green-soho
 name: Zilli Green
