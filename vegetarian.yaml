@@ -449,13 +449,11 @@ open: no
 id: cookdaily-shoreditch
 name: CookDaily
 address: Unit 55, BOXPARK, 2-10 Bethnal Green Road, Shoreditch, E1 6GY
-website: https://www.boxpark.co.uk/brand/cook-daily/
-twitter: KingCookDaily
-description: Vegan food in the BOXPARK shoppping centre.
+description: This branch of <a href="https://www.cookdaily.co.uk/">CookDaily</a> was located in the Shoreditch BOXPARK shoppping centre, but has now closed.
 flickingthevs: http://flickingthevs.blogspot.co.uk/2015/08/lovegift-and-cookdaily-two-excellent.html
 lat: 51.523482
 long: -0.075962439
-open: yes
+open: no
 ---
 id: courthouse-garden-cafe-kennington
 name: Courthouse Garden Cafe
