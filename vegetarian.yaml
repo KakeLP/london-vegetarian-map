@@ -1255,13 +1255,14 @@ checked: November 2017
 id: natraj-south-harrow
 name: Natraj (South Harrow)
 address: 341 Northolt Road, Harrow, HA2 8JB
-website: http://www.natrajfood.co.uk/
 phone: 020 8426 8903
-description: Indian vegetarian cafe.  It has <a href="/venues/natraj-rayners-lane.html">another branch</a> near Rayners Lane Station.
+photo: https://www.flickr.com/photos/kake_pugh/48257933836/
+description: Indian vegetarian takeaway.  It has <a href="/venues/natraj-rayners-lane.html">another branch</a> (a cafe) near Rayners Lane Station.
 happycow: https://www.happycow.net/reviews/natraj-north-west-london-14967
 lat: 51.561980
 long: -0.35652016
 open: yes
+checked: July 2019
 ---
 id: new-roots-cafe-caledonian-road
 name: New Roots Cafe
@@ -1373,7 +1374,7 @@ open: no
 ---
 id: pilpel-spitalfields
 name: Pilpel
-address: 38 Brushfield Street, Spitalfieds, E1 6AT
+address: 38 Brushfield Street, Spitalfields, E1 6AT
 photo: https://www.flickr.com/photos/kake_pugh/5776599822/
 website: http://www.pilpel.co.uk/
 rgl: https://london.randomness.org.uk/wiki.cgi?Pilpel,_E1_6AT
