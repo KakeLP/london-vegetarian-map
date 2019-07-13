@@ -1292,12 +1292,11 @@ id: old-school-hounslow
 name: Old School
 address: 248 Hanworth Road, Hounslow, TW3 3TY
 photo: https://www.flickr.com/photos/kake_pugh/34301415101/
-website: http://www.oldschoolveg.com/
-phone: 020 7018 7830
+description: Closed down by July 2019, replaced by <a href="https://www.flickr.com/photos/kake_pugh/48258004642/">Singh's Corner</a> (also vegetarian, but run by different people).
 fatgayvegan: http://fatgayvegan.com/2016/08/15/vegan-food-in-hounslow/
 lat: 51.464089
 long: -0.36518906
-open: yes
+open: no
 ---
 id: only-parathas-queensbury
 name: Only Parathas
@@ -1778,7 +1777,7 @@ website: http://www.shreekrishnavadapav.com/
 lat: 51.469455
 long: -0.35924086
 open: yes
-checked: May 2017
+checked: July 2019
 ---
 id: shree-sai-vada-pav-rayners-lane
 name: Shree Sai Vada Pav
