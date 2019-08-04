@@ -329,10 +329,13 @@ id: canvas-cafe-spitalfields
 name: Canvas Cafe
 address: 42 Hanbury Street, Spitalfields, E1 5JL
 website: https://www.thecanvascafe.org/
+photo: https://www.flickr.com/photos/kake_pugh/48451564261/
+rgl: https://london.randomness.org.uk/wiki.cgi?Canvas_Cafe,_E1_5JL
 description: Vegan cafe just off Brick Lane.
 lat: 51.520245
 long: -0.071473762
 open: yes
+checked: August 2019
 ---
 id: carnevale-ec1
 name: Carnevale
@@ -1159,12 +1162,14 @@ id: mooshies-brick-lane
 name: Mooshies
 address: 104 Brick Lane, E1 6RL
 description: Vegan burgers, beers, and milkshakes.
+photo: https://www.flickr.com/photos/kake_pugh/48451718577/
 website: https://veganburger.org/
 phone: 07931 842458
 fatgayvegan: http://fatgayvegan.com/2016/11/07/new-vegan-burger-bar-in-london/
 lat: 51.519702
 long: -0.071735278
 open: yes
+checked: August 2019
 ---
 id: mother-juice-works-hackney-wick
 name: Mother Juice Works
@@ -2014,13 +2019,14 @@ id: vegan-yes-brick-lane
 name: Vegan Yes
 address: 64 Brick Lane, E1 6RF
 website: http://veganyes.uk/
+photo: https://www.flickr.com/photos/kake_pugh/48451563006/
 phone: 07879 536269
 description: Vegan Korean-Italian cafe.
 rgl: https://london.randomness.org.uk/wiki.cgi?Vegan_Yes,_E1_6RF
 lat: 51.518734
 long: -0.071404025
 open: yes
-checked: November 2017
+checked: August 2019
 ---
 id: veg-bar-brixton
 name: Veg Bar
