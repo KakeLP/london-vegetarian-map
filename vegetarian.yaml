@@ -371,10 +371,10 @@ id: chennai-dosa-east-ham
 name: Chennai Dosa (East Ham)
 address: 339 High Street North, East Ham, E12 6PQ
 photo: https://www.flickr.com/photos/kake_pugh/3698134582
-website: http://www.chennaidosa.com/
+description: Closed by September 2019, replaced by Priya Express
 long: 0.04954600000000001
 lat: 51.543906
-open: yes
+open: no
 ---
 id: chetnas-bhel-poori-house-kenton
 name: Chetna's Bhel Poori House
@@ -1988,7 +1988,7 @@ rgl: https://london.randomness.org.uk/wiki.cgi?Vasanta_Bhavan,_E6_2JA
 long: 0.051112
 lat: 51.539943
 open: yes
-checked: June 2009
+checked: August 2019
 ---
 id: vegan-express-upper-tooting
 name: Vegan Express
