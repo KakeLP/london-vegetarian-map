@@ -491,12 +491,13 @@ open: no
 id: dou-dou-camden-town
 name: Dou Dou Restaurant
 address: 6 Kentish Town Road, Camden Town, NW1 9NX
-description: All-you-can-eat Chinese buffet.
+description: Was an all-you-can-eat Chinese buffet; closed down by September 2019 (pictured).
+photo: https://www.flickr.com/photos/kake_pugh/48675881653/
 fatgayvegan: http://fatgayvegan.com/2016/01/15/vegan-restaurant-not-closed/
 happycow: http://www.happycow.net/reviews/dou-dou-north-west-london-701
 lat: 51.539641
 long: -0.14221434
-open: yes
+open: no
 ---
 id: essence-cuisine-shoreditch
 name: Essence Cuisine
@@ -1122,10 +1123,12 @@ id: mildreds-camden-town
 name: Mildreds (Camden Town)
 address: 9 Jamestown Road, Camden Town, NW1 7BW
 website: http://www.mildreds.co.uk/
+photo: https://www.flickr.com/photos/kake_pugh/48676396447/
 description: Second branch of <a href="mildreds-soho.html">the original one in Soho</a>.
 lat: 51.540433
 long: -0.14491935
 open: yes
+checked: September 2019
 ---
 id: mildreds-kings-cross
 name: Mildreds (King's Cross)
@@ -2388,6 +2391,7 @@ id: young-vegans-camden
 name: Young Vegans
 address: 60 Camden Lock Place, Camden, NW1 8AF
 website: http://www.youngvegans.co.uk/
+photo: https://www.flickr.com/photos/kake_pugh/48676223301/
 twitter: YoungVegansLDN
 description: Vegan pie and mash shop.
 fatgayvegan: http://fatgayvegan.com/2017/10/25/london-gets-a-vegan-pie-and-mash-shop/
@@ -2395,6 +2399,7 @@ kentishtowner: https://www.kentishtowner.co.uk/2017/11/29/worlds-first-vegan-pie
 lat: 51.541294
 long: -0.14670168
 open: yes
+checked: September 2019
 ---
 id: zen-buddha-edgware
 name: Zen Buddha (Edgware)
