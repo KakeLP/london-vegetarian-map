@@ -200,13 +200,12 @@ checked: November 2014
 id: blacksmith-and-toffeemaker
 name: The Blacksmith and the Toffeemaker
 address: 292-294 St John Street, Clerkenwell, EC1V 4PA
-website: https://www.theblacksmithandthetoffeemaker.co.uk/
-twitter: TB_and_TT
-description: Pub with a completely vegan menu.
+photo: http://www.flickr.com/photos/55935853@N00/7668090366/
+description: Was a pub with a completely vegan menu; <a href="http://islingtonnow.co.uk/popular-islington-student-changing-owner/">closed down</a> in early 2019.
 fatgayvegan: http://fatgayvegan.com/2018/01/14/vegan-pub-food-in-london/
 lat: 51.528182
 long: -0.10468487
-open: yes
+open: no
 ---
 id: blue-brick-cafe-east-dulwich
 name: Blue Brick Cafe
@@ -350,12 +349,12 @@ checked: April 2009
 id: ceremony-tufnell-park
 name: Ceremony
 address: 131 Fortess Road, Tufnell Park, NW5 2HP
-website: https://www.ceremonyrestaurant.london/
+description: <a href="https://www.kentishtowner.co.uk/2019/03/20/ceremony-restaurant-closes-on-30th-march/">Closed down</a> in early 2019.
 eveningstandard: https://www.standard.co.uk/goingout/restaurants/grace-dent-reviews-ceremony-a-restaurant-joyously-bucking-the-vegetarian-clich-s-a3677801.html
 kentishtowner: https://www.kentishtowner.co.uk/2017/09/22/review-ceremony-tufnell-park/
 lat: 51.555942
 long: -0.13918076
-open: yes
+open: no
 ---
 id: chai-naasto-queensbury
 name: Chai Naasto
@@ -502,13 +501,11 @@ open: no
 id: essence-cuisine-shoreditch
 name: Essence Cuisine
 address: 94 Leonard Street, Shoreditch, EC2A 4RH
-website: https://www.essence-cuisine.com/
-phone: 020 7729 5678
-description: Vegan and raw restaurant.
+description: Was a vegan and raw restaurant; closed down and replaced with another business called The Good Yard by April 2019.
 hackneycitizen: https://www.hackneycitizen.co.uk/2017/09/08/essence-cuisine-shoreditch-restaurant-review-raw-order/
 lat: 51.524642
 long: -0.081845865
-open: yes
+open: no
 ---
 id: essential-vegan-shoreditch
 name: Essential Vegan
@@ -2353,7 +2350,6 @@ open: no
 id: unripe-banana
 name: Unripe Banana
 address: 268 Hackney Road, E2 7SJ
-website: http://www.unripebanana.co.uk/
 description: Now closed; was a vegan cafe and art space.
 fatgayvegan: http://fatgayvegan.com/2017/10/08/new-vegan-cafe-and-art-space/
 happycow: https://www.happycow.net/reviews/unripe-banana-east-london-102639
