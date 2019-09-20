@@ -1515,8 +1515,9 @@ checked: May 2017
 id: riverside-vegetaria-kingston
 name: Riverside Vegetaria
 address: 64 High Street, Kingston, KT1 1HN
+photo: https://www.flickr.com/photos/kake_pugh/48749722958/
 website: http://riversidevegetaria.co.uk/
-timeout: http://www.timeout.com/london/restaurants/riverside-vegetaria
+timeout: http://web.archive.org/web/20140221030359/http://www.timeout.com/london/restaurants/riverside-vegetaria
 long: -0.308089
 lat: 51.406983
 open: yes
