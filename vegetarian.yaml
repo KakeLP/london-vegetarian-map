@@ -2072,11 +2072,10 @@ checked: July 2016
 id: vx-lounge-kings-cross
 name: Vx Lounge
 address: 73 Caledonian Road, King's Cross, N1 9BT
-description: A product of the Secret Society of Vegans (SSoV) — basement cafe doing coffee, tea, and cakes.
-website: http://www.vegancross.com/
+description: A product of the Secret Society of Vegans (SSoV) — basement cafe doing coffee, tea, and cakes.  It <a href="https://twitter.com/vx_london/status/1196348354285985792">closed down for good</a> in November 2019.
 long: -0.11943299999999998
 lat: 51.533069
-open: yes
+open: no
 ---
 id: waiting-room-deptford
 name: The Waiting Room
