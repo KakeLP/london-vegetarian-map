@@ -3,7 +3,6 @@ name: 42ºRaw
 address: Burlington Arcade, Burlington Gardens, Mayfair, W1S 3ES
 description: Now closed.
 eveningstandard: https://www.standard.co.uk/go/london/restaurants/grace-dent-reviews-42-raw-8577984.html
-goodforlunch: http://www.goodforlunch.com/reviews/20317/42raw-burlington-arcade
 happycow: https://www.happycow.net/reviews/42-raw-london-32395
 telegraph: https://www.telegraph.co.uk/foodanddrink/restaurants/9387113/42-Raw-London-W1-restaurant-review.html
 yelp: https://www.yelp.co.uk/biz/42raw-london-london
@@ -621,11 +620,10 @@ checked: September 2019
 id: g-and-t-bethnal-green
 name: G & T
 address: 204 Cambridge Heath Road, Bethnal Green, E2 9NQ
-description: Entirely vegan aside from cow's milk option for coffee.
-website: http://gandtlondon.tumblr.com/
+description: Now closed.  Was entirely vegan aside from cow's milk option for coffee.
 long: -0.056412
 lat: 51.531013
-open: yes
+open: no
 ---
 id: gallery-cafe-bethnal-green
 name: Gallery Cafe
@@ -2062,7 +2060,6 @@ name: Vijays Chawalla
 address: 268-270 Green Street, Upton Park, E7 8LF
 rgl: https://london.randomness.org.uk/wiki.cgi?Vijay%27s_Chawalla,_E7_8LF
 photo: https://www.flickr.com/photos/kake_pugh/28564071492/
-website: http://www.vijayschawalla.co.uk/
 long: 0.033302000000000005
 lat: 51.538501
 open: yes
