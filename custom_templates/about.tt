@@ -1,19 +1,24 @@
 [% INCLUDE header.tt subtitle="About this site" %]
 
-<p><strong>Please note that this website is not currently being
-actively updated.</strong> To be more specific, I am not currently
-deliberately searching out information about new/moved/closed/etc
-businesses to add to/amend/remove from the map.</p>
+<p><strong>Please note that this website is not being actively updated, and
+will be going away entirely at the end of 2020.</strong> The <a
+href="https://github.com/KakeLP/map-site-maker">code</a> and <a
+href="https://github.com/KakeLP/london-vegetarian-map">data</a> will still
+be available on GitHub, and <a href="https://london-vegetarian.org/">the
+root of the site</a> will likely remain as a placeholder for some time after
+the rest of the site goes away, but from 2021 onwards the only way to view
+the individual entries in HTML form will be via the Internet Archive.</p>
 
-<p>If you have clear and convincing proof that one of the businesses
-listed here has closed or is no longer vegetarian, please email me (<a
+<p>As of 2019, I am no longer deliberately searching out information about
+new/moved/closed/etc businesses to add to/amend/remove from the map.  If you
+have clear and convincing proof that one of the businesses listed here has
+closed or is no longer vegetarian, please email me (<a
 href="http://www.earth.li/~kake/">Kake</a>) at <a
-href="mailto:kake@earth.li">kake@earth.li</a> and I'll make the
-required amendments.  Please note that this does need to be convincing
-proof (e.g. a tweet from the business stating that they've closed
-down, a photo or Google Street View link showing a "closed down" sign,
-etc); I won't risk damaging someone's business by marking them closed
-on the basis of hearsay.</p>
+href="mailto:kake@earth.li">kake@earth.li</a> and I'll make the required
+amendments.  Note that this does need to be convincing proof (e.g. a
+tweet from the business stating that they've closed down, a photo or Google
+Street View link showing a "closed down" sign, etc); I won't risk damaging
+someone's business by marking them closed on the basis of hearsay.</p>
 
 <p>The original intention of this website was to list every vegetarian
 cafe and restaurant in London.  It originated as a Google map, but in

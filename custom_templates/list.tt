@@ -2,9 +2,9 @@
 
 [% INCLUDE header.tt %]
 
-<div id="hiatus_warning">
-Please note that updates to this site are currently on hiatus; see <a href="/about.html">About</a> for more details.
-</div>
+<div id="hiatus_warning">Please note that this site is no longer being
+actively updated, and will be going away completely at the end of 2020; see
+<a href="/about.html">About</a> for more details.</div>
 
 <div id="entity_list_no_map">
 
