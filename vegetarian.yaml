@@ -1186,13 +1186,13 @@ open: yes
 id: ms-cupcake-brixton
 name: Ms Cupcake
 address: 408 Coldharbour Lane, Brixton, SW9 8LF
-description: Vegan bakery with cafe seating.
+description: Vegan bakery with cafe seating.  It <a href="https://www.mscupcake.co.uk/open-seven-days-a-week-until-29th-march/">closed down for good</a> in March 2020.
 website: http://www.mscupcake.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/26542290102/
 fatgayvegan: http://fatgayvegan.com/2011/04/01/cupcakes-in-the-capital/
 lat: 51.461711
 long: -0.11327156
-open: yes
+open: no
 checked: April 2016
 ---
 id: mumbai-local-harrow
