@@ -461,7 +461,7 @@ id: courthouse-garden-cafe-kennington
 name: Courthouse Garden Cafe
 address: Jamyang Buddhist Centre, 43 Renfrew Road, Kennington, SE11 4NA
 website: https://www.jamyang.co.uk/
-vegliving: http://www.vegetarianliving.co.uk/placestogo.php?do=view&article=156
+vegliving: http://web.archive.org/web/20150313010050/http://www.vegetarianliving.co.uk/placestogo.php?do=view&article=156
 kenningtonrunoff: http://kenningtonrunoff.com/cafe-at-jamyang-buddhist-centre/
 long: -0.105717
 lat: 51.491875
@@ -599,7 +599,7 @@ name: Food For Thought
 address: 31 Neal Street, Covent Garden, WC2H 9PR
 photo: https://www.flickr.com/photos/kake_pugh/3134767665/
 rgl: https://london.randomness.org.uk/wiki.cgi?Food_For_Thought,_WC2H_9PR
-description: Vegetarian cafe of several decades' standing, <a href="http://foodforthought-london.co.uk/news.html">closed down for good</a> in June 2015.
+description: Vegetarian cafe of several decades' standing, <a href="http://web.archive.org/web/20200116021418/http://foodforthought-london.co.uk/news.html">closed down for good</a> in June 2015.
 long: -0.125678
 lat: 51.514138
 open: no
@@ -1534,7 +1534,6 @@ id: sagar-fitzrovia
 name: Sagar (Fitzrovia)
 address: 17a Percy Street, Fitzrovia, W1T 1DU
 photo: https://www.flickr.com/photos/55935853@N00/3334414357/
-website: http://www.sagarveg.co.uk/
 rgl: https://london.randomness.org.uk/wiki.cgi?Sagar,_W1T_1DU
 long: -0.132909
 lat: 51.518451
@@ -1545,7 +1544,6 @@ id: sagar-hammersmith
 name: Sagar (Hammersmith)
 address: 157 King Street, Hammersmith, W6 9JT
 photo: https://www.flickr.com/photos/kake_pugh/25163143161/
-website: http://www.sagarveg.co.uk/
 rgl: https://london.randomness.org.uk/wiki.cgi?Sagar,_W6_9JT
 long: -0.233159
 lat: 51.49258
@@ -1556,7 +1554,6 @@ id: sagar-north-harrow
 name: Sagar (North Harrow)
 address: 57 Station Road, Harrow, HA2 7SR
 photo: https://www.flickr.com/photos/kake_pugh/28070644491/
-website: http://www.sagarveg.co.uk/
 lat: 51.585140
 long: -0.36193956
 open: yes
@@ -2049,11 +2046,11 @@ open: no
 id: vgango-battersea
 name: Vgango
 address: 39 Webbs Road, Battersea, SW11 6RX
-website: http://www.vgango.com/
 fatgayvegan: http://fatgayvegan.com/2012/07/01/vegan-deli-battersea/
+description: According to Google Street View, this closed down some time between July 2012 and September 2014.
 long: -0.163207
 lat: 51.457507
-open: yes
+open: no
 ---
 id: vijays-chawalla-upton-park
 name: Vijays Chawalla
