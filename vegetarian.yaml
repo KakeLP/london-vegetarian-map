@@ -2384,12 +2384,12 @@ address: 60 Camden Lock Place, Camden, NW1 8AF
 website: http://www.youngvegans.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/48676223301/
 twitter: YoungVegansLDN
-description: Vegan pie and mash shop.
+description: Vegan pie and mash shop.  It <a href="https://twitter.com/YoungVegansLDN/status/1285502562188382208">closed down</a> in mid-2020.
 fatgayvegan: http://fatgayvegan.com/2017/10/25/london-gets-a-vegan-pie-and-mash-shop/
 kentishtowner: https://www.kentishtowner.co.uk/2017/11/29/worlds-first-vegan-pie-mash-joint-comes-camden/
 lat: 51.541294
 long: -0.14670168
-open: yes
+open: no
 checked: September 2019
 ---
 id: zen-buddha-edgware
