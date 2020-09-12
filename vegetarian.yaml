@@ -37,7 +37,7 @@ open: yes
 id: ahimsa-pinner
 name: Ahimsa
 address: 7 Red Lion Parade, Bridge Street, Pinner, HA5 3JD
-website: http://www.thevegancafe.com/
+website: https://www.thevegancafe.com/
 phone: 020 7018 2133
 description: Vegan cafe.
 fatgayvegan: http://fatgayvegan.com/2017/04/11/vegan-cafe-in-pinner/
@@ -315,7 +315,7 @@ open: no
 id: calthorpe-project-st-pancras
 name: Calthorpe Project
 address: 258-274 Gray's Inn Road, St Pancras, WC1X 8LH
-website: http://calthorpeproject.org.uk/environmental-education/
+website: http://calthorpecommunitygarden.org.uk/environmental-education/
 description: Vegetarian cafe in a community garden.
 photo: https://www.flickr.com/photos/kake_pugh/34679667396/
 lat: 51.526945
@@ -358,12 +358,12 @@ open: no
 id: chai-naasto-queensbury
 name: Chai Naasto
 address: 242 Streatfield Road, Queensbury, HA3 9BX
-website: https://www.chai-naasto.co.uk/
+website: http://web.archive.org/web/20181228021821/http://chai-naasto.co.uk/
 phone: 020 8204 4660
-description: Indian vegetarian.
+description: Indian vegetarian, closed down by March 2019.
 lat: 51.595580
 long: -0.29657547
-open: yes
+open: no
 ---
 id: chennai-dosa-east-ham
 name: Chennai Dosa (East Ham)
@@ -1187,7 +1187,6 @@ id: ms-cupcake-brixton
 name: Ms Cupcake
 address: 408 Coldharbour Lane, Brixton, SW9 8LF
 description: Vegan bakery with cafe seating.  It <a href="https://www.mscupcake.co.uk/open-seven-days-a-week-until-29th-march/">closed down for good</a> in March 2020.
-website: http://www.mscupcake.co.uk/
 photo: https://www.flickr.com/photos/kake_pugh/26542290102/
 fatgayvegan: http://fatgayvegan.com/2011/04/01/cupcakes-in-the-capital/
 lat: 51.461711
@@ -1218,7 +1217,6 @@ name: Museum of Garden History cafe (Garden Cafe)
 description: Closed down and replaced by a non-vegetarian cafe.
 address: 5 Lambeth Palace Road, SE1 7LB
 chowhound: https://www.chowhound.com/post/garden-museum-cafe-london-670751
-veggieheaven: http://veggieheaven.com/restaurant/the-garden-cafe_6432/
 long: -0.12033500000000001
 lat: 51.495132
 open: no
@@ -1863,13 +1861,12 @@ open: yes
 ---
 id: tanyas-chelsea
 name: Tanya's
-address: myhotel Chelsea, 35 Ixworth Place, SW3 3QX.
-description: Raw food and cocktails.
-website: http://www.tanyascafe.com/
-londontastin: http://londontastin.com/post/96448612522/tanyas-cafe-raw-vegan-in-chelsea
+address: myhotel Chelsea, 35 Ixworth Place, SW3 3QX
+description: Raw food and cocktails.  It <a href="https://tanyasliving.com/blogs/tanyas-blog/saying-goodbye-to-my-deli">closed down in 2020</a>, and the hotel it was housed in <a href="https://myhotels.com/chelsea-thankyou/">closed as well</a>.
+londontastin: http://web.archive.org/web/20170516053746/http://londontastin.com/post/96448612522/tanyas-cafe-raw-vegan-in-chelsea
 long: -0.168545
 lat: 51.491917
-open: yes
+open: no
 ---
 id: temple-of-camden
 name: Temple of Camden
