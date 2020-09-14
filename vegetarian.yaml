@@ -1908,27 +1908,23 @@ checked: October 2018
 id: tibits-mayfair
 name: Tibits (Mayfair)
 address: 12-14 Heddon Street, off Regent Street, Mayfair, W1B 4DA
-description: A London branch of the Swiss chain (original is in Zurich).  There's another one <a href="/venues/tibits-south-bank.html">on the South Bank</a>.
-website: http://www.tibits.co.uk/
-twitter: Tibits_UK
+description: <a href="https://www.facebook.com/tibits.uk/photos/a.445607870821/10158428274980822/?type=3">Closed down in 2020</a>.  This was a London branch of a Swiss chain (its original location was in Zurich).  There was another one <a href="/venues/tibits-south-bank.html">on the South Bank</a>.
 chowhound: http://chowhound.chow.com/topics/564141
 yelp: http://www.yelp.co.uk/biz/tibits-london-3
 timeout: http://www.timeout.com/london/restaurants/tibits
 telegraph: http://www.telegraph.co.uk/foodanddrink/restaurants/8244281/Tibits-London-W1-Restaurant-review.html
 long: -0.139475
 lat: 51.51112
-open: yes
+open: no
 ---
 id: tibits-south-bank
 name: Tibits (South Bank)
 address: 124 Southwark Street, SE1 0SW
-description: A London branch of the Swiss chain (original is in Zurich).  There's another one <a href="/venues/tibits-mayfair.html">in Mayfair</a>.
-website: http://www.tibits.co.uk/
-twitter: Tibits_UK
+description: <a href="https://www.facebook.com/tibits.uk/photos/a.445607870821/10158428274980822/?type=3">Closed down in 2020</a>.  This was a London branch of a Swiss chain (its original location was in Zurich).  There was another one <a href="/venues/tibits-mayfair.html">in Mayfair</a>.
 fatgayvegan: http://fatgayvegan.com/2017/06/04/tibits-gets-a-new-location/
 lat: 51.506227
 long: -0.10154267
-open: yes
+open: no
 ---
 id: tide-tables-cafe-richmond
 name: Tide Tables Cafe
