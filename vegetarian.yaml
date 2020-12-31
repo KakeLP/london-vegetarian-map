@@ -1637,11 +1637,10 @@ name: Saravanaa Bhavan (Croydon)
 address: 18 George Street, Croydon, CR0 1PA
 website: http://www.saravanabhavan.com/
 photo: https://www.flickr.com/photos/kake_pugh/33604310576/
-description: Indian vegetarian restaurant, part of a small chain.  This one opened in March 2017.
+description: Indian vegetarian restaurant, part of a small chain.  This one opened in March 2017, but in late December 2020 was <a href="https://twitter.com/croydn/status/1343846730970836992">completely destroyed</a> in a fire.
 lat: 51.373766
 long: -0.099324480
-open: yes
-checked: March 2017
+open: no
 ---
 id: saravanaa-bhavan-east-ham
 name: Saravanaa Bhavan (East Ham)
